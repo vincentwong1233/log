@@ -1,0 +1,1299 @@
+ok
+Config
+Tue Aug 01 2017 08:40:30 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2452
+tcpPort listening 3009
+======================
+Server listening at port 3009
+[0mGET / [32m200 [0m26.485 ms - 11[0m
+[0mGET / [32m200 [0m33.104 ms - 11[0m
+[0mGET / [32m200 [0m0.948 ms - 11[0m
+[0mGET / [32m200 [0m0.470 ms - 11[0m
+[0mGET / [32m200 [0m0.691 ms - 11[0m
+[0mGET / [32m200 [0m4.088 ms - 11[0m
+[0mGET / [32m200 [0m2.094 ms - 11[0m
+[0mGET / [32m200 [0m3.694 ms - 11[0m
+[0mGET / [32m200 [0m2.375 ms - 11[0m
+[0mGET / [32m200 [0m1.141 ms - 11[0m
+[0mGET / [32m200 [0m12.027 ms - 11[0m
+[0mGET / [32m200 [0m0.941 ms - 11[0m
+[0mGET / [32m200 [0m27.501 ms - 11[0m
+[0mGET / [32m200 [0m2.161 ms - 11[0m
+[0mGET / [32m200 [0m19.776 ms - 11[0m
+[0mGET / [32m200 [0m21.098 ms - 11[0m
+[0mGET / [32m200 [0m5.134 ms - 11[0m
+[0mGET / [32m200 [0m9.800 ms - 11[0m
+[0mGET / [32m200 [0m25.005 ms - 11[0m
+[0mGET / [32m200 [0m1.944 ms - 11[0m
+[0mGET / [32m200 [0m1.697 ms - 11[0m
+[0mGET / [32m200 [0m2.199 ms - 11[0m
+[0mGET / [32m200 [0m0.553 ms - 11[0m
+[0mGET / [32m200 [0m1.700 ms - 11[0m
+[0mGET / [32m200 [0m0.713 ms - 11[0m
+[0mGET / [32m200 [0m0.963 ms - 11[0m
+[0mGET / [32m200 [0m0.529 ms - 11[0m
+[0mGET / [32m200 [0m4.424 ms - 11[0m
+[0mGET / [32m200 [0m0.522 ms - 11[0m
+[0mGET / [32m200 [0m1.147 ms - 11[0m
+[0mGET / [32m200 [0m0.920 ms - 11[0m
+[0mGET / [32m200 [0m13.602 ms - 11[0m
+[0mGET / [32m200 [0m4.485 ms - 11[0m
+[0mGET / [32m200 [0m0.463 ms - 11[0m
+[0mGET / [32m200 [0m1.762 ms - 11[0m
+[0mGET / [32m200 [0m0.456 ms - 11[0m
+[0mGET / [32m200 [0m0.587 ms - 11[0m
+[0mGET / [32m200 [0m0.424 ms - 11[0m
+[0mGET / [32m200 [0m3.733 ms - 11[0m
+[0mGET / [32m200 [0m2.362 ms - 11[0m
+[0mGET / [32m200 [0m0.848 ms - 11[0m
+[0mGET / [32m200 [0m3.100 ms - 11[0m
+io enter middleware
+check player id vincent7
+On Connection:{"headers":{"x-forwarded-for":"61.93.253.94","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-59803fb3-78038f09337a68303b84b687","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"PwY49Kb0daxARbUeUBe1QA==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Tue Aug 01 2017 08:45:39 GMT+0000 (UTC)","xdomain":false,"secure":false,"issued":1501577139445,"url":"/socket.io/?EIO=3&playerId=vincent7&transport=websocket","query":{"EIO":"3","playerId":"vincent7","transport":"websocket"}}
+player id vincent7
+hmsent register {"awesome_id":"vincent7","onlineStatus":2,"awesome_chips":0}
+[ { id: { S: 'vincent7' }, awesome_chips: { N: '96709' } } ]
+hmsent awesomeChips {"awesome_id":"vincent7","onlineStatus":"2","awesome_chips":"96709"}
+notify_online {"friend_ids" : ["vincent7","ant5","ant2","eddy","andrewwan","awesome","ant8","ant1","ant7","vincent8","vincent9","vincent5","ant9","ivan","testonly","vincent2","vincent","vincent6","an2","vincent12","abc","a5","vincent63472","ascv","hellowin","an4","a6","68666666","vincent3","ant4","wilson","a3","samsung","vincent4","ant3","ivannew","vincent31","vincent28","ivan-nokia6","andrew","conniechen","cara","ivanlgv10","ivanlgpro2","ivanipad","123123123","vincent32","andrew-chevk","ck","wilson2","descendentofsun"]}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","onlineStatus":"2","awesome_chips":"96709"}
+hgetallvincent7
+hgetall{"onlineStatus":"2","awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a7\",\"a58330\",\"ck\",\"vincent\",\"vincent8\",\"vincent7\",\"ant7\",\"eric\",\"vincent5\",\"ant8\",\"ant5\",\"ant9\",\"andrewwan\",\"conniechen\",\"hellowin\",\"ant2\",\"a6\",\"ant3\",\"wilson\",\"an4\",\"testonly\",\"vincent28\",\"vincent31\",\"vincent32\",\"68666666\",\"eddy\",\"vincent2\",\"ant1\",\"awesome\",\"samsung\",\"vincent63472\",\"ivan\",\"123123123\"]","awesome_chips":"992"}
+hgetallvincent9
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "a3eff0af-f643-4574-94c7-ed6a8a0dd7df", "chatId" : "vincent:vincent7", "messageId" : "48B78072-800D-42C4-A057-AD3CEE3E3AC1-568-000000BD93B64397"},"packet_id":"7f6a3a1b-6938-4125-bc97-7d108c9369e7"}
+a3eff0af-f643-4574-94c7-ed6a8a0dd7df
+ok
+typing {"header":"typing","friendId":"vincent","text":".,x.hideTyping"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "a8bce35b-c105-4cc1-9556-0f895c569b33", "chatId" : "vincent:vincent7", "messageId" : "C513379F-3EA0-4790-BCD0-CF4DE5705617-1407-000002DF9073BAC6"},"packet_id":"b2952b35-60fb-4ff1-bb5f-295cb71e2835"}
+a8bce35b-c105-4cc1-9556-0f895c569b33
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "935c4fb4-02d9-4422-8a56-13b584648e09", "chatId" : "vincent:vincent7", "messageId" : "C8E6E651-F36F-44B1-9F92-87FE7B96D8AB-1407-000002DF98212ED6"},"packet_id":"4777b966-7741-4cc9-96df-c694b52d90c0"}
+935c4fb4-02d9-4422-8a56-13b584648e09
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "adaad520-a889-475c-af56-ca4bee1626e6", "chatId" : "vincent:vincent7", "messageId" : "37BF31EA-102A-4C9F-BD2F-7291D6213672-1407-000002DF9C71A33B"},"packet_id":"10cbcab8-6028-429b-b1bd-be46345cb1f9"}
+adaad520-a889-475c-af56-ca4bee1626e6
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "2ed5f573-5fa2-47fe-b881-486a90db0ca1", "chatId" : "vincent:vincent7", "messageId" : "F62DC1FD-9AAA-4205-92A0-F1424A7C4D32-1407-000002E38A98FC53"},"packet_id":"8a225d38-19d2-47c2-8484-f6f41b91a89d"}
+2ed5f573-5fa2-47fe-b881-486a90db0ca1
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "f4566598-ef65-4445-9470-4555b471d394", "chatId" : "vincent:vincent7", "messageId" : "26AA7805-BA02-4DD5-B657-9C3CBA7A1B70-1407-000002E3B22FDD5B"},"packet_id":"73ec64fc-fda9-479d-9858-edbf2349a2c3"}
+f4566598-ef65-4445-9470-4555b471d394
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "0d221fbc-7987-4378-96b3-8b32316fd0da", "chatId" : "vincent:vincent7", "messageId" : "6FD65150-CDA1-4CD0-8FD2-2DC340BF9E6E-1407-000002E3C4CFDF64"},"packet_id":"6fd04a03-5eaa-4fe6-9699-e4096bfc5697"}
+0d221fbc-7987-4378-96b3-8b32316fd0da
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "8b9047f3-bcb7-442e-a56d-468c5230ed76", "chatId" : "vincent:vincent7", "messageId" : "EBF42004-E182-4AF0-816A-1EC609D859B5-1407-000002E77B7C063F"},"packet_id":"611a03ed-8068-4fe9-b671-bf5d86a6d163"}
+8b9047f3-bcb7-442e-a56d-468c5230ed76
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "75edb182-4859-4b92-bba4-0e20d0d86bc2", "chatId" : "vincent:vincent7", "messageId" : "67C3E23D-B609-474E-BA43-C3BE3C7BE552-1407-000002E8A518100A"},"packet_id":"72989247-882c-4c68-8359-744cac91aee4"}
+75edb182-4859-4b92-bba4-0e20d0d86bc2
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "184acbd4-265e-4626-a227-bfa04e7cb856", "chatId" : "vincent:vincent7", "messageId" : "002C56AF-A895-4D1D-8D9B-7E29A5BA89B2-1407-000002E8B2785898"},"packet_id":"d68e04d4-b031-4f90-803a-ba9fdc46d1ef"}
+184acbd4-265e-4626-a227-bfa04e7cb856
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "09a108ac-9661-4d29-9dc1-aa6531d68336", "chatId" : "vincent:vincent7", "messageId" : "F627D2F6-F310-46F1-8603-592F6C4F5ACB-1484-000002FB3D20DCC7"},"packet_id":"2b3c15c1-1b7d-4243-bae2-e5a1140d1ee0"}
+09a108ac-9661-4d29-9dc1-aa6531d68336
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "09a108ac-9661-4d29-9dc1-aa6531d68336", "chatId" : "vincent:vincent7", "messageId" : "F627D2F6-F310-46F1-8603-592F6C4F5ACB-1484-000002FB3D20DCC7"},"packet_id":"f124b863-242e-45dc-bf76-2f11d09144f0"}
+09a108ac-9661-4d29-9dc1-aa6531d68336
+ok
+ok
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "09a108ac-9661-4d29-9dc1-aa6531d68336", "chatId" : "vincent:vincent7", "messageId" : "F627D2F6-F310-46F1-8603-592F6C4F5ACB-1484-000002FB3D20DCC7"},"packet_id":"0afd9f83-9053-400c-b441-6bc61c145e0e"}
+09a108ac-9661-4d29-9dc1-aa6531d68336
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "09a108ac-9661-4d29-9dc1-aa6531d68336", "chatId" : "vincent:vincent7", "messageId" : "F627D2F6-F310-46F1-8603-592F6C4F5ACB-1484-000002FB3D20DCC7"},"packet_id":"215c3197-e27f-4300-8d9d-e97b4288ad10"}
+09a108ac-9661-4d29-9dc1-aa6531d68336
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "09a108ac-9661-4d29-9dc1-aa6531d68336", "chatId" : "vincent:vincent7", "messageId" : "F627D2F6-F310-46F1-8603-592F6C4F5ACB-1484-000002FB3D20DCC7"},"packet_id":"82220d38-e739-47b7-a7af-21a2a7d5a1b5"}
+09a108ac-9661-4d29-9dc1-aa6531d68336
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "9be5d305-f575-4f5c-82b3-ec105ccec0e6", "chatId" : "vincent:vincent7", "messageId" : "8769B303-52D5-44C4-B02E-9B930AFD79FE-1941-0000043EDE5B9B33"},"packet_id":"6a3043c6-c3a6-47cf-bf3e-1c52989cb93c"}
+9be5d305-f575-4f5c-82b3-ec105ccec0e6
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "95b997ff-3142-463e-891e-2531c8d5344d", "chatId" : "vincent:vincent7", "messageId" : "1B52BD8B-BCDF-421B-A4B2-6058DEAD9E47-1286-00000A4DEF0BA5D0"},"packet_id":"ab2343a1-7bc4-400f-95c2-4a48b166c7d1"}
+95b997ff-3142-463e-891e-2531c8d5344d
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "6540dd71-05b2-4370-a0f8-3d47cb431469", "chatId" : "vincent:vincent7", "messageId" : "10445EC7-A015-4E39-A8F3-1646AFA68DBC-1286-00000A4E07B4CBFF"},"packet_id":"d3437561-6437-44b1-a90d-2dcfcd416754"}
+6540dd71-05b2-4370-a0f8-3d47cb431469
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "6540dd71-05b2-4370-a0f8-3d47cb431469", "chatId" : "vincent:vincent7", "messageId" : "10445EC7-A015-4E39-A8F3-1646AFA68DBC-1286-00000A4E07B4CBFF"},"packet_id":"abda1484-1760-49fa-884c-a1b022d2a9b5"}
+6540dd71-05b2-4370-a0f8-3d47cb431469
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "5f8a31b2-3557-4613-8be2-ba0874666aa1", "chatId" : "vincent:vincent7", "messageId" : "7E871673-8FE3-4AE3-BFAB-26848FE29AEA-1286-00000A4E45E2F87F"},"packet_id":"82d99d67-2174-4dbd-8ee9-ad2535147bfb"}
+5f8a31b2-3557-4613-8be2-ba0874666aa1
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "5f8a31b2-3557-4613-8be2-ba0874666aa1", "chatId" : "vincent:vincent7", "messageId" : "7E871673-8FE3-4AE3-BFAB-26848FE29AEA-1286-00000A4E45E2F87F"},"packet_id":"25d2dceb-29e8-4230-8009-f5d2f4798895"}
+5f8a31b2-3557-4613-8be2-ba0874666aa1
+ok
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "5f8a31b2-3557-4613-8be2-ba0874666aa1", "chatId" : "vincent:vincent7", "messageId" : "7E871673-8FE3-4AE3-BFAB-26848FE29AEA-1286-00000A4E45E2F87F"},"packet_id":"738a4cbf-ec13-438f-bfa3-afa8896815aa"}
+5f8a31b2-3557-4613-8be2-ba0874666aa1
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "83c5f259-86ec-44fe-a0d2-b6bfccce306a", "chatId" : "vincent:vincent7", "messageId" : "9B9D7338-B3C3-403F-9762-3EC2E130EC82-1286-00000A4E825FD15A"},"packet_id":"a6d74bbf-6383-474f-8760-39d809fd403a"}
+83c5f259-86ec-44fe-a0d2-b6bfccce306a
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "83c5f259-86ec-44fe-a0d2-b6bfccce306a", "chatId" : "vincent:vincent7", "messageId" : "9B9D7338-B3C3-403F-9762-3EC2E130EC82-1286-00000A4E825FD15A"},"packet_id":"072772d2-cf08-4833-8afc-af3df411bb9a"}
+83c5f259-86ec-44fe-a0d2-b6bfccce306a
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "58085ef5-c060-4a3f-b5b3-adb390a1d593", "chatId" : "vincent:vincent7", "messageId" : "8D5B875F-CB0C-41B1-AF16-7368CE183890-1286-00000A4F32ECD940"},"packet_id":"01133eeb-492a-4899-a19e-8613002dec88"}
+58085ef5-c060-4a3f-b5b3-adb390a1d593
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "58085ef5-c060-4a3f-b5b3-adb390a1d593", "chatId" : "vincent:vincent7", "messageId" : "8D5B875F-CB0C-41B1-AF16-7368CE183890-1286-00000A4F32ECD940"},"packet_id":"1149276f-b155-4359-9bcc-1d70a5a374d3"}
+58085ef5-c060-4a3f-b5b3-adb390a1d593
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "4ba9f4f4-e6fa-4321-95a7-ae7be533fcc1", "chatId" : "vincent:vincent7", "messageId" : "B9559DDD-ECDF-4BF2-87BD-B05DBCCDAA77-1291-00000A4FCB61A8DB"},"packet_id":"6fa6cb60-a414-446c-8142-c7e0d9e7c393"}
+4ba9f4f4-e6fa-4321-95a7-ae7be533fcc1
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "4ba9f4f4-e6fa-4321-95a7-ae7be533fcc1", "chatId" : "vincent:vincent7", "messageId" : "B9559DDD-ECDF-4BF2-87BD-B05DBCCDAA77-1291-00000A4FCB61A8DB"},"packet_id":"5961255a-9b42-4df1-859b-26e6e30ced05"}
+4ba9f4f4-e6fa-4321-95a7-ae7be533fcc1
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "b815c6ea-d1c6-480d-b927-477348e532f6", "chatId" : "vincent:vincent7", "messageId" : "F7857934-5B57-4018-A318-3C17201EFF67-1294-00000A5113A4C298"},"packet_id":"19f6f371-202d-4ab5-8da1-03c5b28b1e9e"}
+b815c6ea-d1c6-480d-b927-477348e532f6
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "14a13295-8ad2-470b-b755-ae049374da99", "chatId" : "vincent:vincent7", "messageId" : "B4ED7B93-A956-4A00-AE16-2A136BA069D1-1294-00000A51220C8F07"},"packet_id":"bed0ca09-db53-4839-ba79-b52e8a412956"}
+14a13295-8ad2-470b-b755-ae049374da99
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "14a13295-8ad2-470b-b755-ae049374da99", "chatId" : "vincent:vincent7", "messageId" : "B4ED7B93-A956-4A00-AE16-2A136BA069D1-1294-00000A51220C8F07"},"packet_id":"2b2f266b-b344-4b63-943a-e803f4e90240"}
+14a13295-8ad2-470b-b755-ae049374da99
+ok
+ok
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "14a13295-8ad2-470b-b755-ae049374da99", "chatId" : "vincent:vincent7", "messageId" : "B4ED7B93-A956-4A00-AE16-2A136BA069D1-1294-00000A51220C8F07"},"packet_id":"67ca5b64-5603-47e9-ae65-20a2ab2172cd"}
+14a13295-8ad2-470b-b755-ae049374da99
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "6be780b5-f093-473f-bb2f-710367311a72", "chatId" : "vincent:vincent7", "messageId" : "AA16D17E-B202-4F3A-9027-19A94F71B956-1295-00000A51EE0E3A06"},"packet_id":"9b7e6039-d0bf-4cb7-9e54-a31567f1d037"}
+6be780b5-f093-473f-bb2f-710367311a72
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "6be780b5-f093-473f-bb2f-710367311a72", "chatId" : "vincent:vincent7", "messageId" : "AA16D17E-B202-4F3A-9027-19A94F71B956-1295-00000A51EE0E3A06"},"packet_id":"a42e6375-733e-4eb9-9bd2-bd6210220f14"}
+6be780b5-f093-473f-bb2f-710367311a72
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "6be780b5-f093-473f-bb2f-710367311a72", "chatId" : "vincent:vincent7", "messageId" : "AA16D17E-B202-4F3A-9027-19A94F71B956-1295-00000A51EE0E3A06"},"packet_id":"9820ccbe-6512-4dd6-acbb-7d1c06dce33d"}
+6be780b5-f093-473f-bb2f-710367311a72
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "6be780b5-f093-473f-bb2f-710367311a72", "chatId" : "vincent:vincent7", "messageId" : "AA16D17E-B202-4F3A-9027-19A94F71B956-1295-00000A51EE0E3A06"},"packet_id":"d2ba509a-2082-44ee-aec8-826e9a759050"}
+6be780b5-f093-473f-bb2f-710367311a72
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "dc1733c2-d10f-4675-af1a-01593336c3a4", "chatId" : "vincent:vincent7", "messageId" : "EF9EE1C6-4401-455D-A7DD-D6F79DF2E4CC-1304-00000A5319120A71"},"packet_id":"d5c5d803-1b04-4968-b8d4-11257ebbd5d9"}
+dc1733c2-d10f-4675-af1a-01593336c3a4
+ok
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "b68bd93d-a10e-41fc-99de-316d417f6b96", "chatId" : "vincent:vincent7", "messageId" : "2BAD2280-F62B-4BA3-ABEF-1618A59164D0-1304-00000A54405DEC7F"},"packet_id":"9f1d2fd2-54dc-41d1-a949-316778dd3579"}
+b68bd93d-a10e-41fc-99de-316d417f6b96
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "b68bd93d-a10e-41fc-99de-316d417f6b96", "chatId" : "vincent:vincent7", "messageId" : "2BAD2280-F62B-4BA3-ABEF-1618A59164D0-1304-00000A54405DEC7F"},"packet_id":"d87f53e8-2944-4b11-a03e-c423125106d7"}
+b68bd93d-a10e-41fc-99de-316d417f6b96
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"f1645ee5-38eb-41c9-8e23-fd055fb37b5b"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"d837bd84-1a17-409f-9627-b07f62ed9161"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"c846c4e5-e838-4fa0-a812-decd8ae164f9"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"6a1737a5-ec19-44a8-b178-a06069f59ce4"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"b9559171-e85f-446a-8dee-ef2b7bf98602"}
+20ee312b-24e4-4920-9759-207f21fbc968
+action_packet {"action_content":{"group_id":"vincent:vincent7","message":"1","message_id":"110079ca-aa76-45e4-af59-e19641b19584","message_type":"TEXT","recipient_id":"vincent","sender_id":"vincent7","sender_name":"Vin7"},"action_name":"send_message","header":"action_packet","packet_id":"81a4dc8a-04e1-4088-a3b4-02009617dfd8"}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ group_id: 'vincent:vincent7',
+  message: '1',
+  message_id: '110079ca-aa76-45e4-af59-e19641b19584',
+  message_type: 'TEXT',
+  recipient_id: 'vincent',
+  sender_id: 'vincent7',
+  sender_name: 'Vin7',
+  video_type: '(null)',
+  dynamo_id: '4a60b6e5-8780-4d8c-b0dd-089bb03535f4',
+  create_at: '2017-08-01T08:45:50.797Z' }
+typing {"header":"typing","friendId":"vincent","text":".,x.hideTyping"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"2292c2f6-e518-4a5c-92e2-aeef91db9971"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"bc2926f4-2a53-473b-8753-2204570e3edb"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+true
+send sns data, data is {"awesome_id":"vincent","message":"Vin7 : 1","extra":{"message_type":"single_chat","from_player":"vincent7"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent7"}
+19
+Total Unread: 19
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/5dcae72a-ac99-3e9e-8f2b-c6ba3d7595db
+Device Plaform: IOS
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"25014e4c-81bc-4249-b08c-77af910911ea"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"49bf9ff2-8298-4715-9c08-a150988f4bc5"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"70a62e3a-6cd1-46ee-84bc-1f3712cadb8d"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"7399a6be-5a05-4272-8b57-cd5255495b86"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"7881057f-55df-41ed-9ade-e5e4aeef9c04"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"869bfc96-fbe3-4bac-9efd-92e544941c2f"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+ok
+ok
+getEndpointAttributes true
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"84dcd0e1-8dfe-4b01-bcf1-90722f67ba9a"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"21a3591e-18c7-4f44-9ae7-708aef578bd1"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"2c94dffb-8b80-4c73-8886-14e977fd5773"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"b07611db-0c5e-428f-b857-189b52a3e11f"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"3a5757aa-c425-4833-9935-310a52e6a0c4"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+ok
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '656f938c-5b45-5c98-a75a-c2761abaa505' },
+  MessageId: '132bfe7a-594e-52dd-b7d1-af8018b1eb40' }
+push sent
+{ ResponseMetadata: { RequestId: '0cc358e0-36e7-57b7-bb15-091a77181eb6' },
+  MessageId: '525a535a-10fc-5f19-be6e-02a051032618' }
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"ac2f2d43-cb45-4462-8b00-6392ad25d311"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"3c02adad-6be9-4c07-8943-7062fe21739a"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"54c678b0-b910-44bb-afc9-4ca09e3ed1cb"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"625206e7-2ae8-44ab-aa28-25e81e5b7a0c"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"0113a2b3-b821-49ca-bf13-e2672707950c"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"02c31c6a-fede-48b9-b24e-b88db9a5ae6a"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"a51354d8-2de4-4f98-97c5-5bb71ac20b58"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"85629eda-2ebe-45e1-b081-df21f14f2717"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"e5e91976-cfb5-489e-a182-f12e99b42f6c"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"d7730a8f-b2a1-4c6d-994c-9c42ee04cf48"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"05cf9e58-3df8-4a15-82f3-dc8421846a38"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"fd9928a2-15be-4bd7-ae09-6e4614539926"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"9f41728c-60eb-4e55-9bc6-f746bee55ad5"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"9498fa56-54ac-4805-a5e3-2c1c35476c5f"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"bc88ed5a-c14b-4767-892b-737459b0e8cc"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"ad7890fd-f766-4cf3-bc88-9a9dad6da443"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"7bfbbfc4-dca1-4744-bbc6-8dfa612795cb"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"d05248f5-9b96-4de1-a90e-55a1e8f85b50"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"507efa4e-6682-43d1-ba0f-bef3950870f1"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"cabce476-16e6-41c0-ac93-275e0319e69b"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"108600c8-e828-4e2a-a1e2-c8c4e70dc795"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"40e1b0be-e410-43e9-8e3c-66dbac22356a"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"46292a81-e5ea-4e93-84a9-277573bd1c3e"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"960aca0f-e4ca-4d9c-bbd0-511ea3206d1c"}
+20ee312b-24e4-4920-9759-207f21fbc968
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"f287a845-072c-481f-88d9-b887b9961753"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "postBy" : "vincent", "dynamoId" : "20ee312b-24e4-4920-9759-207f21fbc968", "chatId" : "vincent:vincent7", "messageId" : "FD8D8068-ECDF-4E46-AF12-EB0AF19726A0-1310-00000A5BF14CBD0A"},"packet_id":"7a361303-619d-4a05-ad43-52cfedb3b062"}
+20ee312b-24e4-4920-9759-207f21fbc968
+ok
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+typing {"header":"typing","friendId":"vincent","text":".,x.hideTyping"}
+action_packet {"action_content":{"group_id":"vincent:vincent7","message":"2","message_id":"21f3ed99-1d75-443f-beef-73bc332e00ae","message_type":"TEXT","recipient_id":"vincent","sender_id":"vincent7","sender_name":"Vin7"},"action_name":"send_message","header":"action_packet","packet_id":"07edcc84-1dab-4fc4-82e1-e64b4e38cd4e"}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ group_id: 'vincent:vincent7',
+  message: '2',
+  message_id: '21f3ed99-1d75-443f-beef-73bc332e00ae',
+  message_type: 'TEXT',
+  recipient_id: 'vincent',
+  sender_id: 'vincent7',
+  sender_name: 'Vin7',
+  video_type: '(null)',
+  dynamo_id: '3e826c97-b769-47db-8795-8ace0180b5b7',
+  create_at: '2017-08-01T08:45:55.121Z' }
+true
+send sns data, data is {"awesome_id":"vincent","message":"Vin7 : 2","extra":{"message_type":"single_chat","from_player":"vincent7"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent7"}
+20
+Total Unread: 20
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/5dcae72a-ac99-3e9e-8f2b-c6ba3d7595db
+Device Plaform: IOS
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+getEndpointAttributes true
+typing {"header":"typing","friendId":"vincent","text":".,x.hideTyping"}
+push sent
+{ ResponseMetadata: { RequestId: '9a60af45-f7ec-504b-84b1-febfb5eff11d' },
+  MessageId: '0790bafd-ffe0-571d-9a75-eb07bde3864b' }
+push sent
+{ ResponseMetadata: { RequestId: 'd2dac22c-fc07-5425-b253-93d6be041158' },
+  MessageId: 'f0129b70-6621-5f31-a51b-ca8a24227a4c' }
+typing {"header":"typing","friendId":"vincent","text":".,x.hideTyping"}
+[0mGET / [32m200 [0m2.399 ms - 11[0m
+[0mGET / [32m200 [0m7.641 ms - 11[0m
+notify_online {"friend_ids" : ["vincent7","ant5","ant2","eddy","andrewwan","awesome","ant8","ant1","ant7","vincent8","vincent9","vincent5","ant9","ivan","testonly","vincent2","vincent","vincent6","an2","vincent12","abc","a5","vincent63472","ascv","hellowin","an4","a6","68666666","vincent3","ant4","wilson","a3","samsung","vincent4","ant3","ivannew","vincent31","vincent28","ivan-nokia6","andrew","conniechen","cara","ivanlgv10","ivanlgpro2","ivanipad","123123123","vincent32","andrew-chevk","ck","wilson2","descendentofsun"]}
+hgetall{"onlineStatus":"2","awesome_id":"vincent7","friendIds":"[\"vincent7\",\"ant5\",\"ant2\",\"eddy\",\"andrewwan\",\"awesome\",\"ant8\",\"ant1\",\"ant7\",\"vincent8\",\"vincent9\",\"vincent5\",\"ant9\",\"ivan\",\"testonly\",\"vincent2\",\"vincent\",\"vincent6\",\"an2\",\"vincent12\",\"abc\",\"a5\",\"vincent63472\",\"ascv\",\"hellowin\",\"an4\",\"a6\",\"68666666\",\"vincent3\",\"ant4\",\"wilson\",\"a3\",\"samsung\",\"vincent4\",\"ant3\",\"ivannew\",\"vincent31\",\"vincent28\",\"ivan-nokia6\",\"andrew\",\"conniechen\",\"cara\",\"ivanlgv10\",\"ivanlgpro2\",\"ivanipad\",\"123123123\",\"vincent32\",\"andrew-chevk\",\"ck\",\"wilson2\",\"descendentofsun\"]","awesome_chips":"96709"}
+hgetallvincent7
+hgetall{"onlineStatus":"2","awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a7\",\"a58330\",\"ck\",\"vincent\",\"vincent8\",\"vincent7\",\"ant7\",\"eric\",\"vincent5\",\"ant8\",\"ant5\",\"ant9\",\"andrewwan\",\"conniechen\",\"hellowin\",\"ant2\",\"a6\",\"ant3\",\"wilson\",\"an4\",\"testonly\",\"vincent28\",\"vincent31\",\"vincent32\",\"68666666\",\"eddy\",\"vincent2\",\"ant1\",\"awesome\",\"samsung\",\"vincent63472\",\"ivan\",\"123123123\"]","awesome_chips":"992"}
+hgetallvincent9
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.654 ms - 11[0m
+[0mGET / [32m200 [0m0.406 ms - 11[0m
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+action_packet {"action_content":{"group_id":"vincent7:vincent9","message":"1","message_id":"04dcfd7a-c326-4bfd-861e-1d54fc2300b5","message_type":"TEXT","recipient_id":"vincent9","sender_id":"vincent7","sender_name":"Vin7"},"action_name":"send_message","header":"action_packet","packet_id":"e022f474-2de3-4fb3-9fc5-1fc1d45ddb18"}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ group_id: 'vincent7:vincent9',
+  message: '1',
+  message_id: '04dcfd7a-c326-4bfd-861e-1d54fc2300b5',
+  message_type: 'TEXT',
+  recipient_id: 'vincent9',
+  sender_id: 'vincent7',
+  sender_name: 'Vin7',
+  video_type: '(null)',
+  dynamo_id: 'c26498a6-c7bb-4a57-b52d-8189eade9973',
+  create_at: '2017-08-01T08:46:07.858Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"Vin7 : 1","extra":{"message_type":"single_chat","from_player":"vincent7"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent7"}
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"c26498a6-c7bb-4a57-b52d-8189eade9973","sender_id":"vincent9","message_id":"04dcfd7a-c326-4bfd-861e-1d54fc2300b5","chat_id":"vincent7:vincent9","recipient_id":"vincent7"}}
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+action_packet {"action_content":{"group_id":"vincent7:vincent9","message":"23","message_id":"2d6cdde6-c80c-4d67-bae9-7859bce1e022","message_type":"TEXT","recipient_id":"vincent9","sender_id":"vincent7","sender_name":"Vin7"},"action_name":"send_message","header":"action_packet","packet_id":"db563eac-41e3-483c-94c4-a9bf0d969179"}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ group_id: 'vincent7:vincent9',
+  message: '23',
+  message_id: '2d6cdde6-c80c-4d67-bae9-7859bce1e022',
+  message_type: 'TEXT',
+  recipient_id: 'vincent9',
+  sender_id: 'vincent7',
+  sender_name: 'Vin7',
+  video_type: '(null)',
+  dynamo_id: '9e2792a7-8d9d-490c-ae05-f806be5803d2',
+  create_at: '2017-08-01T08:46:10.631Z' }
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"9e2792a7-8d9d-490c-ae05-f806be5803d2","sender_id":"vincent9","message_id":"2d6cdde6-c80c-4d67-bae9-7859bce1e022","chat_id":"vincent7:vincent9","recipient_id":"vincent7"}}
+send sns data, data is {"awesome_id":"vincent9","message":"Vin7 : 23","extra":{"message_type":"single_chat","from_player":"vincent7"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent7"}
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+action_packet {"action_content":{"group_id":"vincent7:vincent9","message":"3","message_id":"78248228-6a06-48fe-b2e6-870f708164a0","message_type":"TEXT","recipient_id":"vincent9","sender_id":"vincent7","sender_name":"Vin7"},"action_name":"send_message","header":"action_packet","packet_id":"77577666-7371-48fa-aa38-7ce3c5edf6a4"}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ group_id: 'vincent7:vincent9',
+  message: '3',
+  message_id: '78248228-6a06-48fe-b2e6-870f708164a0',
+  message_type: 'TEXT',
+  recipient_id: 'vincent9',
+  sender_id: 'vincent7',
+  sender_name: 'Vin7',
+  video_type: '(null)',
+  dynamo_id: 'da483411-79b3-4fd6-b9d5-0d801e1e7ece',
+  create_at: '2017-08-01T08:46:12.151Z' }
+typing {"header":"typing","friendId":"vincent9","text":".,x.hideTyping"}
+send sns data, data is {"awesome_id":"vincent9","message":"Vin7 : 3","extra":{"message_type":"single_chat","from_player":"vincent7"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent7"}
+Send message channel:vincent7:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"da483411-79b3-4fd6-b9d5-0d801e1e7ece","sender_id":"vincent9","message_id":"78248228-6a06-48fe-b2e6-870f708164a0","chat_id":"vincent7:vincent9","recipient_id":"vincent7"}}
+notify_online {"friend_ids" : ["vincent7","ant5","ant2","eddy","andrewwan","awesome","ant8","ant1","ant7","vincent8","vincent9","vincent5","ant9","ivan","testonly","vincent2","vincent","vincent6","an2","vincent12","abc","a5","vincent63472","ascv","hellowin","an4","a6","68666666","vincent3","ant4","wilson","a3","samsung","vincent4","ant3","ivannew","vincent31","vincent28","ivan-nokia6","andrew","conniechen","cara","ivanlgv10","ivanlgpro2","ivanipad","123123123","vincent32","andrew-chevk","ck","wilson2","descendentofsun"]}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"onlineStatus":"2","awesome_id":"vincent7","friendIds":"[\"vincent7\",\"ant5\",\"ant2\",\"eddy\",\"andrewwan\",\"awesome\",\"ant8\",\"ant1\",\"ant7\",\"vincent8\",\"vincent9\",\"vincent5\",\"ant9\",\"ivan\",\"testonly\",\"vincent2\",\"vincent\",\"vincent6\",\"an2\",\"vincent12\",\"abc\",\"a5\",\"vincent63472\",\"ascv\",\"hellowin\",\"an4\",\"a6\",\"68666666\",\"vincent3\",\"ant4\",\"wilson\",\"a3\",\"samsung\",\"vincent4\",\"ant3\",\"ivannew\",\"vincent31\",\"vincent28\",\"ivan-nokia6\",\"andrew\",\"conniechen\",\"cara\",\"ivanlgv10\",\"ivanlgpro2\",\"ivanipad\",\"123123123\",\"vincent32\",\"andrew-chevk\",\"ck\",\"wilson2\",\"descendentofsun\"]","awesome_chips":"96709"}
+hgetallvincent7
+hgetall{"onlineStatus":"2","awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a7\",\"a58330\",\"ck\",\"vincent\",\"vincent8\",\"vincent7\",\"ant7\",\"eric\",\"vincent5\",\"ant8\",\"ant5\",\"ant9\",\"andrewwan\",\"conniechen\",\"hellowin\",\"ant2\",\"a6\",\"ant3\",\"wilson\",\"an4\",\"testonly\",\"vincent28\",\"vincent31\",\"vincent32\",\"68666666\",\"eddy\",\"vincent2\",\"ant1\",\"awesome\",\"samsung\",\"vincent63472\",\"ivan\",\"123123123\"]","awesome_chips":"992"}
+hgetallvincent9
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+[0mGET / [32m200 [0m12.198 ms - 11[0m
+[0mGET / [32m200 [0m0.365 ms - 11[0m
+notify_online {"friend_ids" : ["vincent7","ant5","ant2","eddy","andrewwan","awesome","ant8","ant1","ant7","vincent8","vincent9","vincent5","ant9","ivan","testonly","vincent2","vincent","vincent6","an2","vincent12","abc","a5","vincent63472","ascv","hellowin","an4","a6","68666666","vincent3","ant4","wilson","a3","samsung","vincent4","ant3","ivannew","vincent31","vincent28","ivan-nokia6","andrew","conniechen","cara","ivanlgv10","ivanlgpro2","ivanipad","123123123","vincent32","andrew-chevk","ck","wilson2","descendentofsun"]}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"onlineStatus":"2","awesome_id":"vincent7","friendIds":"[\"vincent7\",\"ant5\",\"ant2\",\"eddy\",\"andrewwan\",\"awesome\",\"ant8\",\"ant1\",\"ant7\",\"vincent8\",\"vincent9\",\"vincent5\",\"ant9\",\"ivan\",\"testonly\",\"vincent2\",\"vincent\",\"vincent6\",\"an2\",\"vincent12\",\"abc\",\"a5\",\"vincent63472\",\"ascv\",\"hellowin\",\"an4\",\"a6\",\"68666666\",\"vincent3\",\"ant4\",\"wilson\",\"a3\",\"samsung\",\"vincent4\",\"ant3\",\"ivannew\",\"vincent31\",\"vincent28\",\"ivan-nokia6\",\"andrew\",\"conniechen\",\"cara\",\"ivanlgv10\",\"ivanlgpro2\",\"ivanipad\",\"123123123\",\"vincent32\",\"andrew-chevk\",\"ck\",\"wilson2\",\"descendentofsun\"]","awesome_chips":"96709"}
+hgetallvincent7
+hgetall{"onlineStatus":"2","awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a7\",\"a58330\",\"ck\",\"vincent\",\"vincent8\",\"vincent7\",\"ant7\",\"eric\",\"vincent5\",\"ant8\",\"ant5\",\"ant9\",\"andrewwan\",\"conniechen\",\"hellowin\",\"ant2\",\"a6\",\"ant3\",\"wilson\",\"an4\",\"testonly\",\"vincent28\",\"vincent31\",\"vincent32\",\"68666666\",\"eddy\",\"vincent2\",\"ant1\",\"awesome\",\"samsung\",\"vincent63472\",\"ivan\",\"123123123\"]","awesome_chips":"992"}
+hgetallvincent9
+[0mGET / [32m200 [0m0.554 ms - 11[0m
+[0mGET / [32m200 [0m0.395 ms - 11[0m
+Send message channel:vincent7:action_packet msg:{"header":"action_packet","action_name":"update_message_read","action_content":{"dynamo_id":"da483411-79b3-4fd6-b9d5-0d801e1e7ece","message_id":"78248228-6a06-48fe-b2e6-870f708164a0","chat_id":"vincent7:vincent9"}}
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:m msg:{"message":"1","send_by":"vincent9","message_type":"TEXT","message_id":"7F6782FF-FAE3-4F08-9606-3D17F8E0207F-98361-00003A12320D428B","chat_id":"vincent7:vincent9","create_at":"2017-08-01T08:46:33.876Z","dynamo_id":"568242dc-bd5e-40ef-8b75-58bcf466993f","video_type":".mov"}
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:m msg:{"message":"2","send_by":"vincent9","message_type":"TEXT","message_id":"DCD34D84-6E9F-4202-9245-5AE1167A1313-98361-00003A1257C6B5D7","chat_id":"vincent7:vincent9","create_at":"2017-08-01T08:46:34.576Z","dynamo_id":"1abc8f5d-bd00-415e-a107-4bcb74b158f6","video_type":".mov"}
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:m msg:{"message":"3","send_by":"vincent9","message_type":"TEXT","message_id":"C40384AD-6F11-4633-922E-4F7CED94F52B-98361-00003A126CBA37ED","chat_id":"vincent7:vincent9","create_at":"2017-08-01T08:46:35.043Z","dynamo_id":"e10cbd21-633c-4c70-9f7b-907d8760f572","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"vincent7:vincent9","dynamo_id":"568242dc-bd5e-40ef-8b75-58bcf466993f","message_id":"7F6782FF-FAE3-4F08-9606-3D17F8E0207F-98361-00003A12320D428B","recipient_id":"vincent9","sender_id":"vincent7"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"4892a6fe-a8fa-4f0a-8e52-b5b10822ed4b"}
+action_packet {"action_content":{"chat_id":"vincent7:vincent9","dynamo_id":"1abc8f5d-bd00-415e-a107-4bcb74b158f6","message_id":"DCD34D84-6E9F-4202-9245-5AE1167A1313-98361-00003A1257C6B5D7","recipient_id":"vincent9","sender_id":"vincent7"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"84e7e9df-77f2-49f6-bfbe-d96793d7404d"}
+action_packet {"action_content":{"chat_id":"vincent7:vincent9","dynamo_id":"e10cbd21-633c-4c70-9f7b-907d8760f572","message_id":"C40384AD-6F11-4633-922E-4F7CED94F52B-98361-00003A126CBA37ED","recipient_id":"vincent9","sender_id":"vincent7"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"d97f5253-f616-4ee4-9c42-3e3fa69f3726"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:m msg:{"message":"4","send_by":"vincent9","message_type":"TEXT","message_id":"49E7E718-EB34-4CC7-BF42-3D50781C6D8D-98361-00003A17C991711C","chat_id":"vincent7:vincent9","create_at":"2017-08-01T08:46:57.891Z","dynamo_id":"3fcdd185-4ad5-4ec5-a18f-140edabce9ba","video_type":".mov"}
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+action_packet {"action_content":{"chat_id":"vincent7:vincent9","dynamo_id":"3fcdd185-4ad5-4ec5-a18f-140edabce9ba","message_id":"49E7E718-EB34-4CC7-BF42-3D50781C6D8D-98361-00003A17C991711C","recipient_id":"vincent9","sender_id":"vincent7"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"a66d2b42-5447-4368-85d8-d43b7d7a5b58"}
+Send message channel:vincent7:m msg:{"message":"56","send_by":"vincent9","message_type":"TEXT","message_id":"E11D66D6-7C13-400F-9E08-470B98327E56-98361-00003A17EB5B76D7","chat_id":"vincent7:vincent9","create_at":"2017-08-01T08:46:58.673Z","dynamo_id":"2766fd09-8740-42ac-bfa0-5b45fd9c75de","video_type":".mov"}
+[0mGET / [32m200 [0m0.514 ms - 11[0m
+[0mGET / [32m200 [0m1.591 ms - 11[0m
+Send message channel:vincent7:typing msg:{"friendId":"vincent9","text":".,x.hideTyping"}
+Send message channel:vincent7:m msg:{"message":"7","send_by":"vincent9","message_type":"TEXT","message_id":"6212B526-5793-4DB4-89CF-14411ACEFA0C-98361-00003A180B4CCC3C","chat_id":"vincent7:vincent9","create_at":"2017-08-01T08:46:59.139Z","dynamo_id":"960e5aa7-15b4-4fc1-97b4-dc75c481de01","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"vincent7:vincent9","dynamo_id":"2766fd09-8740-42ac-bfa0-5b45fd9c75de","message_id":"E11D66D6-7C13-400F-9E08-470B98327E56-98361-00003A17EB5B76D7","recipient_id":"vincent9","sender_id":"vincent7"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"85f4a508-842c-48e9-9c19-384853679c27"}
+action_packet {"action_content":{"chat_id":"vincent7:vincent9","dynamo_id":"960e5aa7-15b4-4fc1-97b4-dc75c481de01","message_id":"6212B526-5793-4DB4-89CF-14411ACEFA0C-98361-00003A180B4CCC3C","recipient_id":"vincent9","sender_id":"vincent7"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"2d47f804-2ecf-49f8-b0c6-de5deb63c8b9"}
+[0mGET / [32m200 [0m1.769 ms - 11[0m
+[0mGET / [32m200 [0m1.364 ms - 11[0m
+notify_online {"friend_ids" : ["vincent7","ant5","ant2","eddy","andrewwan","awesome","ant8","ant1","ant7","vincent8","vincent9","vincent5","ant9","ivan","testonly","vincent2","vincent","vincent6","an2","vincent12","abc","a5","vincent63472","ascv","hellowin","an4","a6","68666666","vincent3","ant4","wilson","a3","samsung","vincent4","ant3","ivannew","vincent31","vincent28","ivan-nokia6","andrew","conniechen","cara","ivanlgv10","ivanlgpro2","ivanipad","123123123","vincent32","andrew-chevk","ck","wilson2","descendentofsun"]}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"onlineStatus":"2","awesome_id":"vincent7","friendIds":"[\"vincent7\",\"ant5\",\"ant2\",\"eddy\",\"andrewwan\",\"awesome\",\"ant8\",\"ant1\",\"ant7\",\"vincent8\",\"vincent9\",\"vincent5\",\"ant9\",\"ivan\",\"testonly\",\"vincent2\",\"vincent\",\"vincent6\",\"an2\",\"vincent12\",\"abc\",\"a5\",\"vincent63472\",\"ascv\",\"hellowin\",\"an4\",\"a6\",\"68666666\",\"vincent3\",\"ant4\",\"wilson\",\"a3\",\"samsung\",\"vincent4\",\"ant3\",\"ivannew\",\"vincent31\",\"vincent28\",\"ivan-nokia6\",\"andrew\",\"conniechen\",\"cara\",\"ivanlgv10\",\"ivanlgpro2\",\"ivanipad\",\"123123123\",\"vincent32\",\"andrew-chevk\",\"ck\",\"wilson2\",\"descendentofsun\"]","awesome_chips":"96709"}
+hgetallvincent7
+hgetall{"onlineStatus":"2","awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a7\",\"a58330\",\"ck\",\"vincent\",\"vincent8\",\"vincent7\",\"ant7\",\"eric\",\"vincent5\",\"ant8\",\"ant5\",\"ant9\",\"andrewwan\",\"conniechen\",\"hellowin\",\"ant2\",\"a6\",\"ant3\",\"wilson\",\"an4\",\"testonly\",\"vincent28\",\"vincent31\",\"vincent32\",\"68666666\",\"eddy\",\"vincent2\",\"ant1\",\"awesome\",\"samsung\",\"vincent63472\",\"ivan\",\"123123123\"]","awesome_chips":"992"}
+hgetallvincent9
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+disconnect vincent7
+disconnect vincent7 redis
+friend ids vincent7,ant5,ant2,eddy,andrewwan,awesome,ant8,ant1,ant7,vincent8,vincent9,vincent5,ant9,ivan,testonly,vincent2,vincent,vincent6,an2,vincent12,abc,a5,vincent63472,ascv,hellowin,an4,a6,68666666,vincent3,ant4,wilson,a3,samsung,vincent4,ant3,ivannew,vincent31,vincent28,ivan-nokia6,andrew,conniechen,cara,ivanlgv10,ivanlgpro2,ivanipad,123123123,vincent32,andrew-chevk,ck,wilson2,descendentofsun
+send disconnect to vincent7
+send disconnect to ant5
+send disconnect to ant2
+send disconnect to eddy
+send disconnect to andrewwan
+send disconnect to awesome
+send disconnect to ant8
+send disconnect to ant1
+send disconnect to ant7
+send disconnect to vincent8
+send disconnect to vincent9
+send disconnect to vincent5
+send disconnect to ant9
+send disconnect to ivan
+send disconnect to testonly
+send disconnect to vincent2
+send disconnect to vincent
+send disconnect to vincent6
+send disconnect to an2
+send disconnect to vincent12
+send disconnect to abc
+send disconnect to a5
+send disconnect to vincent63472
+send disconnect to ascv
+send disconnect to hellowin
+send disconnect to an4
+send disconnect to a6
+send disconnect to 68666666
+send disconnect to vincent3
+send disconnect to ant4
+send disconnect to wilson
+send disconnect to a3
+send disconnect to samsung
+send disconnect to vincent4
+send disconnect to ant3
+send disconnect to ivannew
+send disconnect to vincent31
+send disconnect to vincent28
+send disconnect to ivan-nokia6
+send disconnect to andrew
+send disconnect to conniechen
+send disconnect to cara
+send disconnect to ivanlgv10
+send disconnect to ivanlgpro2
+send disconnect to ivanipad
+send disconnect to 123123123
+send disconnect to vincent32
+send disconnect to andrew-chevk
+send disconnect to ck
+send disconnect to wilson2
+send disconnect to descendentofsun
+[0mGET / [32m200 [0m11.376 ms - 11[0m
+[0mGET / [32m200 [0m7.323 ms - 11[0m
+[0mGET / [32m200 [0m0.723 ms - 11[0m
+[0mGET / [32m200 [0m0.534 ms - 11[0m
+[0mGET / [32m200 [0m4.605 ms - 11[0m
+[0mGET / [32m200 [0m5.431 ms - 11[0m
+[0mGET / [32m200 [0m0.540 ms - 11[0m
+[0mGET / [32m200 [0m0.394 ms - 11[0m
+[0mGET / [32m200 [0m1.253 ms - 11[0m
+[0mGET / [32m200 [0m0.462 ms - 11[0m
+[0mGET / [32m200 [0m0.528 ms - 11[0m
+[0mGET / [32m200 [0m1.037 ms - 11[0m
+[0mGET / [32m200 [0m15.376 ms - 11[0m
+[0mGET / [32m200 [0m11.057 ms - 11[0m
+[0mGET / [32m200 [0m1.525 ms - 11[0m
+[0mGET / [32m200 [0m0.578 ms - 11[0m
+[0mGET / [32m200 [0m10.041 ms - 11[0m
+[0mGET / [32m200 [0m8.681 ms - 11[0m
+[0mGET / [32m200 [0m0.864 ms - 11[0m
+[0mGET / [32m200 [0m5.861 ms - 11[0m
+[0mGET / [32m200 [0m2.126 ms - 11[0m
+[0mGET / [32m200 [0m3.128 ms - 11[0m
+[0mGET / [32m200 [0m0.610 ms - 11[0m
+[0mGET / [32m200 [0m0.498 ms - 11[0m
+[0mGET / [32m200 [0m0.504 ms - 11[0m
+[0mGET / [32m200 [0m0.372 ms - 11[0m
+[0mGET / [32m200 [0m1.563 ms - 11[0m
+[0mGET / [32m200 [0m5.334 ms - 11[0m
+[0mGET / [32m200 [0m4.148 ms - 11[0m
+[0mGET / [32m200 [0m0.374 ms - 11[0m
+[0mGET / [32m200 [0m0.987 ms - 11[0m
+[0mGET / [32m200 [0m0.556 ms - 11[0m
+[0mGET / [32m200 [0m12.767 ms - 11[0m
+[0mGET / [32m200 [0m8.810 ms - 11[0m
+[0mGET / [32m200 [0m0.460 ms - 11[0m
+[0mGET / [32m200 [0m8.109 ms - 11[0m
+[0mGET / [32m200 [0m13.404 ms - 11[0m
+[0mGET / [32m200 [0m4.358 ms - 11[0m
+[0mGET / [32m200 [0m0.464 ms - 11[0m
+[0mGET / [32m200 [0m13.801 ms - 11[0m
+[0mGET / [32m200 [0m0.532 ms - 11[0m
+[0mGET / [32m200 [0m3.592 ms - 11[0m
+[0mGET / [32m200 [0m3.029 ms - 11[0m
+[0mGET / [32m200 [0m0.360 ms - 11[0m
+[0mGET / [32m200 [0m13.644 ms - 11[0m
+[0mGET / [32m200 [0m5.904 ms - 11[0m
+[0mGET / [32m200 [0m5.448 ms - 11[0m
+[0mGET / [32m200 [0m10.540 ms - 11[0m
+[0mGET / [32m200 [0m4.963 ms - 11[0m
+[0mGET / [32m200 [0m2.421 ms - 11[0m
+[0mGET / [32m200 [0m20.371 ms - 11[0m
+[0mGET / [32m200 [0m1.504 ms - 11[0m
+[0mGET / [32m200 [0m32.834 ms - 11[0m
+[0mGET / [32m200 [0m5.056 ms - 11[0m
+[0mGET / [32m200 [0m17.896 ms - 11[0m
+[0mGET / [32m200 [0m1.720 ms - 11[0m
+[0mGET / [32m200 [0m11.463 ms - 11[0m
+[0mGET / [32m200 [0m7.691 ms - 11[0m
+[0mGET / [32m200 [0m4.029 ms - 11[0m
+[0mGET / [32m200 [0m1.989 ms - 11[0m
+[0mGET / [32m200 [0m4.561 ms - 11[0m
+[0mGET / [32m200 [0m5.248 ms - 11[0m
+[0mGET / [32m200 [0m2.628 ms - 11[0m
+[0mGET / [32m200 [0m0.391 ms - 11[0m
+[0mGET / [32m200 [0m10.854 ms - 11[0m
+[0mGET / [32m200 [0m0.868 ms - 11[0m
+[0mGET / [32m200 [0m3.704 ms - 11[0m
+[0mGET / [32m200 [0m2.198 ms - 11[0m
+[0mGET / [32m200 [0m0.601 ms - 11[0m
+[0mGET / [32m200 [0m0.544 ms - 11[0m
+[0mGET / [32m200 [0m0.476 ms - 11[0m
+[0mGET / [32m200 [0m0.401 ms - 11[0m
+[0mGET / [32m200 [0m7.029 ms - 11[0m
+[0mGET / [32m200 [0m1.004 ms - 11[0m
+[0mGET / [32m200 [0m1.443 ms - 11[0m
+[0mGET / [32m200 [0m7.682 ms - 11[0m
+[0mGET / [32m200 [0m5.927 ms - 11[0m
+[0mGET / [32m200 [0m27.628 ms - 11[0m
+[0mGET / [32m200 [0m1.645 ms - 11[0m
+[0mGET / [32m200 [0m1.440 ms - 11[0m
+[0mGET / [32m200 [0m2.948 ms - 11[0m
+[0mGET / [32m200 [0m6.353 ms - 11[0m
+[0mGET / [32m200 [0m1.554 ms - 11[0m
+[0mGET / [32m200 [0m0.457 ms - 11[0m
+[0mGET / [32m200 [0m9.538 ms - 11[0m
+[0mGET / [32m200 [0m9.661 ms - 11[0m
+[0mGET / [32m200 [0m8.305 ms - 11[0m
+[0mGET / [32m200 [0m8.234 ms - 11[0m
+[0mGET / [32m200 [0m8.902 ms - 11[0m
+[0mGET / [32m200 [0m8.365 ms - 11[0m
+[0mGET / [32m200 [0m2.589 ms - 11[0m
+[0mGET / [32m200 [0m11.183 ms - 11[0m
+[0mGET / [32m200 [0m1.123 ms - 11[0m
+[0mGET / [32m200 [0m6.551 ms - 11[0m
+[0mGET / [32m200 [0m15.876 ms - 11[0m
+[0mGET / [32m200 [0m6.074 ms - 11[0m
+[0mGET / [32m200 [0m2.703 ms - 11[0m
+[0mGET / [32m200 [0m9.399 ms - 11[0m
+[0mGET / [32m200 [0m3.887 ms - 11[0m
+[0mGET / [32m200 [0m0.479 ms - 11[0m
+[0mGET / [32m200 [0m1.412 ms - 11[0m
+[0mGET / [32m200 [0m0.350 ms - 11[0m
+[0mGET / [32m200 [0m1.729 ms - 11[0m
+[0mGET / [32m200 [0m0.446 ms - 11[0m
+[0mGET / [32m200 [0m7.963 ms - 11[0m
+[0mGET / [32m200 [0m4.982 ms - 11[0m
+[0mGET / [32m200 [0m0.505 ms - 11[0m
+[0mGET / [32m200 [0m6.819 ms - 11[0m
+[0mGET / [32m200 [0m0.503 ms - 11[0m
+[0mGET / [32m200 [0m5.646 ms - 11[0m
+[0mGET / [32m200 [0m2.453 ms - 11[0m
+[0mGET / [32m200 [0m0.376 ms - 11[0m
+[0mGET / [32m200 [0m0.609 ms - 11[0m
+[0mGET / [32m200 [0m5.182 ms - 11[0m
+[0mGET / [32m200 [0m6.378 ms - 11[0m
+[0mGET / [32m200 [0m0.990 ms - 11[0m
+[0mGET / [32m200 [0m1.579 ms - 11[0m
+[0mGET / [32m200 [0m1.867 ms - 11[0m
+[0mGET / [32m200 [0m2.335 ms - 11[0m
+[0mGET / [32m200 [0m14.004 ms - 11[0m
+[0mGET / [32m200 [0m0.585 ms - 11[0m
+[0mGET / [32m200 [0m0.848 ms - 11[0m
+[0mGET / [32m200 [0m0.970 ms - 11[0m
+[0mGET / [32m200 [0m5.110 ms - 11[0m
+[0mGET / [32m200 [0m0.737 ms - 11[0m
+[0mGET / [32m200 [0m9.847 ms - 11[0m
+[0mGET / [32m200 [0m0.601 ms - 11[0m
+[0mGET / [32m200 [0m3.467 ms - 11[0m
+[0mGET / [32m200 [0m10.909 ms - 11[0m
+[0mGET / [32m200 [0m5.466 ms - 11[0m
+[0mGET / [32m200 [0m16.121 ms - 11[0m
+[0mGET / [32m200 [0m0.484 ms - 11[0m
+[0mGET / [32m200 [0m16.120 ms - 11[0m
+[0mGET / [32m200 [0m0.409 ms - 11[0m
+[0mGET / [32m200 [0m0.453 ms - 11[0m
+[0mGET / [32m200 [0m13.817 ms - 11[0m
+[0mGET / [32m200 [0m0.547 ms - 11[0m
+[0mGET / [32m200 [0m3.205 ms - 11[0m
+[0mGET / [32m200 [0m2.003 ms - 11[0m
+[0mGET / [32m200 [0m0.353 ms - 11[0m
+[0mGET / [32m200 [0m0.819 ms - 11[0m
+[0mGET / [32m200 [0m1.120 ms - 11[0m
+[0mGET / [32m200 [0m1.719 ms - 11[0m
+[0mGET / [32m200 [0m11.351 ms - 11[0m
+[0mGET / [32m200 [0m1.424 ms - 11[0m
+[0mGET / [32m200 [0m0.700 ms - 11[0m
+[0mGET / [32m200 [0m6.622 ms - 11[0m
+[0mGET / [32m200 [0m8.109 ms - 11[0m
+[0mGET / [32m200 [0m15.351 ms - 11[0m
+[0mGET / [32m200 [0m0.337 ms - 11[0m
+[0mGET / [32m200 [0m2.348 ms - 11[0m
+[0mGET / [32m200 [0m0.501 ms - 11[0m
+[0mGET / [32m200 [0m0.694 ms - 11[0m
+[0mGET / [32m200 [0m6.926 ms - 11[0m
+[0mGET / [32m200 [0m0.581 ms - 11[0m
+[0mGET / [32m200 [0m7.010 ms - 11[0m
+[0mGET / [32m200 [0m1.150 ms - 11[0m
+[0mGET / [32m200 [0m2.251 ms - 11[0m
+[0mGET / [32m200 [0m0.923 ms - 11[0m
+[0mGET / [32m200 [0m0.429 ms - 11[0m
+[0mGET / [32m200 [0m14.226 ms - 11[0m
+[0mGET / [32m200 [0m9.651 ms - 11[0m
+[0mGET / [32m200 [0m2.694 ms - 11[0m
+[0mGET / [32m200 [0m0.348 ms - 11[0m
+[0mGET / [32m200 [0m0.483 ms - 11[0m
+[0mGET / [32m200 [0m0.905 ms - 11[0m
+[0mGET / [32m200 [0m8.050 ms - 11[0m
+[0mGET / [32m200 [0m8.067 ms - 11[0m
+[0mGET / [32m200 [0m2.372 ms - 11[0m
+[0mGET / [32m200 [0m1.189 ms - 11[0m
+[0mGET / [32m200 [0m1.472 ms - 11[0m
+[0mGET / [32m200 [0m0.320 ms - 11[0m
+[0mGET / [32m200 [0m14.081 ms - 11[0m
+[0mGET / [32m200 [0m0.865 ms - 11[0m
+[0mGET / [32m200 [0m3.000 ms - 11[0m
+[0mGET / [32m200 [0m4.518 ms - 11[0m
+[0mGET / [32m200 [0m0.581 ms - 11[0m
+[0mGET / [32m200 [0m5.590 ms - 11[0m
+[0mGET / [32m200 [0m2.736 ms - 11[0m
+[0mGET / [32m200 [0m12.282 ms - 11[0m
+[0mGET / [32m200 [0m9.199 ms - 11[0m
+[0mGET / [32m200 [0m1.571 ms - 11[0m
+[0mGET / [32m200 [0m1.575 ms - 11[0m
+[0mGET / [32m200 [0m0.696 ms - 11[0m
+[0mGET / [32m200 [0m5.057 ms - 11[0m
+[0mGET / [32m200 [0m7.393 ms - 11[0m
+[0mGET / [32m200 [0m1.800 ms - 11[0m
+[0mGET / [32m200 [0m6.602 ms - 11[0m
+[0mGET / [32m200 [0m0.830 ms - 11[0m
+[0mGET / [32m200 [0m10.485 ms - 11[0m
+[0mGET / [32m200 [0m6.347 ms - 11[0m
+[0mGET / [32m200 [0m1.414 ms - 11[0m
+[0mGET / [32m200 [0m16.556 ms - 11[0m
+[0mGET / [32m200 [0m3.236 ms - 11[0m
+[0mGET / [32m200 [0m1.951 ms - 11[0m
+[0mGET / [32m200 [0m0.478 ms - 11[0m
+[0mGET / [32m200 [0m4.288 ms - 11[0m
+[0mGET / [32m200 [0m1.180 ms - 11[0m
+[0mGET / [32m200 [0m0.349 ms - 11[0m
+[0mGET / [32m200 [0m0.390 ms - 11[0m
+[0mGET / [32m200 [0m15.371 ms - 11[0m
+[0mGET / [32m200 [0m2.493 ms - 11[0m
+[0mGET / [32m200 [0m0.592 ms - 11[0m
+[0mGET / [32m200 [0m1.211 ms - 11[0m
+[0mGET / [32m200 [0m1.445 ms - 11[0m
+[0mGET / [32m200 [0m2.943 ms - 11[0m
+[0mGET / [32m200 [0m0.975 ms - 11[0m
+[0mGET / [32m200 [0m0.371 ms - 11[0m
+[0mGET / [32m200 [0m0.540 ms - 11[0m
+[0mGET / [32m200 [0m0.764 ms - 11[0m
+[0mGET / [32m200 [0m1.240 ms - 11[0m
+[0mGET / [32m200 [0m0.363 ms - 11[0m
+[0mGET / [32m200 [0m0.451 ms - 11[0m
+[0mGET / [32m200 [0m0.338 ms - 11[0m
+[0mGET / [32m200 [0m0.336 ms - 11[0m
+[0mGET / [32m200 [0m5.665 ms - 11[0m
+[0mGET / [32m200 [0m5.031 ms - 11[0m
+[0mGET / [32m200 [0m3.318 ms - 11[0m
+[0mGET / [32m200 [0m0.768 ms - 11[0m
+[0mGET / [32m200 [0m0.440 ms - 11[0m
+[0mGET / [32m200 [0m0.591 ms - 11[0m
+[0mGET / [32m200 [0m1.848 ms - 11[0m
+[0mGET / [32m200 [0m0.408 ms - 11[0m
+[0mGET / [32m200 [0m7.610 ms - 11[0m
+[0mGET / [32m200 [0m0.506 ms - 11[0m
+[0mGET / [32m200 [0m0.498 ms - 11[0m
+[0mGET / [32m200 [0m1.395 ms - 11[0m
+[0mGET / [32m200 [0m0.315 ms - 11[0m
+[0mGET / [32m200 [0m2.436 ms - 11[0m
+[0mGET / [32m200 [0m1.316 ms - 11[0m
+[0mGET / [32m200 [0m0.400 ms - 11[0m
+[0mGET / [32m200 [0m2.718 ms - 11[0m
+[0mGET / [32m200 [0m0.525 ms - 11[0m
+[0mGET / [32m200 [0m0.769 ms - 11[0m
+[0mGET / [32m200 [0m0.515 ms - 11[0m
+[0mGET / [32m200 [0m2.118 ms - 11[0m
+[0mGET / [32m200 [0m0.542 ms - 11[0m
+[0mGET / [32m200 [0m1.004 ms - 11[0m
+[0mGET / [32m200 [0m0.854 ms - 11[0m
+[0mGET / [32m200 [0m1.284 ms - 11[0m
+[0mGET / [32m200 [0m0.495 ms - 11[0m
+[0mGET / [32m200 [0m1.394 ms - 11[0m
+[0mGET / [32m200 [0m2.340 ms - 11[0m
+[0mGET / [32m200 [0m1.141 ms - 11[0m
+[0mGET / [32m200 [0m0.378 ms - 11[0m
+[0mGET / [32m200 [0m0.945 ms - 11[0m
+[0mGET / [32m200 [0m0.495 ms - 11[0m
+[0mGET / [32m200 [0m0.932 ms - 11[0m
+[0mGET / [32m200 [0m0.587 ms - 11[0m
+[0mGET / [32m200 [0m1.358 ms - 11[0m
+[0mGET / [32m200 [0m0.418 ms - 11[0m
+[0mGET / [32m200 [0m3.466 ms - 11[0m
+[0mGET / [32m200 [0m0.563 ms - 11[0m
+[0mGET / [32m200 [0m6.082 ms - 11[0m
+[0mGET / [32m200 [0m2.926 ms - 11[0m
+[0mGET / [32m200 [0m0.913 ms - 11[0m
+[0mGET / [32m200 [0m0.372 ms - 11[0m
+[0mGET / [32m200 [0m0.350 ms - 11[0m
+[0mGET / [32m200 [0m0.690 ms - 11[0m
+[0mGET / [32m200 [0m2.122 ms - 11[0m
+[0mGET / [32m200 [0m1.325 ms - 11[0m
+[0mGET / [32m200 [0m1.937 ms - 11[0m
+[0mGET / [32m200 [0m12.554 ms - 11[0m
+[0mGET / [32m200 [0m8.106 ms - 11[0m
+[0mGET / [32m200 [0m1.939 ms - 11[0m
+[0mGET / [32m200 [0m3.356 ms - 11[0m
+[0mGET / [32m200 [0m1.931 ms - 11[0m
+[0mGET / [32m200 [0m0.629 ms - 11[0m
+[0mGET / [32m200 [0m0.594 ms - 11[0m
+[0mGET / [32m200 [0m0.734 ms - 11[0m
+[0mGET / [32m200 [0m11.333 ms - 11[0m
+[0mGET / [32m200 [0m0.794 ms - 11[0m
+[0mGET / [32m200 [0m0.602 ms - 11[0m
+[0mGET / [32m200 [0m0.330 ms - 11[0m
+[0mGET / [32m200 [0m4.213 ms - 11[0m
+[0mGET / [32m200 [0m5.675 ms - 11[0m
+[0mGET / [32m200 [0m1.123 ms - 11[0m
+[0mGET / [32m200 [0m1.661 ms - 11[0m
+[0mGET / [32m200 [0m0.396 ms - 11[0m
+[0mGET / [32m200 [0m0.333 ms - 11[0m
+[0mGET / [32m200 [0m0.680 ms - 11[0m
+[0mGET / [32m200 [0m0.782 ms - 11[0m
+[0mGET / [32m200 [0m2.019 ms - 11[0m
+[0mGET / [32m200 [0m1.316 ms - 11[0m
+[0mGET / [32m200 [0m0.347 ms - 11[0m
+[0mGET / [32m200 [0m0.439 ms - 11[0m
+[0mGET / [32m200 [0m1.291 ms - 11[0m
+[0mGET / [32m200 [0m1.847 ms - 11[0m
+[0mGET / [32m200 [0m1.415 ms - 11[0m
+[0mGET / [32m200 [0m1.611 ms - 11[0m
+[0mGET / [32m200 [0m0.486 ms - 11[0m
+[0mGET / [32m200 [0m0.334 ms - 11[0m
+[0mGET / [32m200 [0m0.379 ms - 11[0m
+[0mGET / [32m200 [0m0.378 ms - 11[0m
+[0mGET / [32m200 [0m0.379 ms - 11[0m
+[0mGET / [32m200 [0m0.317 ms - 11[0m
+[0mGET / [32m200 [0m0.364 ms - 11[0m
+[0mGET / [32m200 [0m0.322 ms - 11[0m
+[0mGET / [32m200 [0m0.587 ms - 11[0m
+[0mGET / [32m200 [0m0.349 ms - 11[0m
+[0mGET / [32m200 [0m1.623 ms - 11[0m
+[0mGET / [32m200 [0m0.774 ms - 11[0m
+[0mGET / [32m200 [0m2.273 ms - 11[0m
+[0mGET / [32m200 [0m0.359 ms - 11[0m
+[0mGET / [32m200 [0m0.397 ms - 11[0m
+[0mGET / [32m200 [0m0.630 ms - 11[0m
+[0mGET / [32m200 [0m0.797 ms - 11[0m
+[0mGET / [32m200 [0m1.661 ms - 11[0m
+[0mGET / [32m200 [0m0.710 ms - 11[0m
+[0mGET / [32m200 [0m0.810 ms - 11[0m
+[0mGET / [32m200 [0m1.500 ms - 11[0m
+[0mGET / [32m200 [0m1.270 ms - 11[0m
+[0mGET / [32m200 [0m0.362 ms - 11[0m
+[0mGET / [32m200 [0m0.955 ms - 11[0m
+[0mGET / [32m200 [0m14.279 ms - 11[0m
+[0mGET / [32m200 [0m11.950 ms - 11[0m
+[0mGET / [32m200 [0m0.847 ms - 11[0m
+[0mGET / [32m200 [0m0.965 ms - 11[0m
+[0mGET / [32m200 [0m0.417 ms - 11[0m
+[0mGET / [32m200 [0m6.846 ms - 11[0m
+[0mGET / [32m200 [0m0.598 ms - 11[0m
+[0mGET / [32m200 [0m0.926 ms - 11[0m
+[0mGET / [32m200 [0m1.433 ms - 11[0m
+[0mGET / [32m200 [0m0.374 ms - 11[0m
+[0mGET / [32m200 [0m3.127 ms - 11[0m
+[0mGET / [32m200 [0m0.443 ms - 11[0m
+[0mGET / [32m200 [0m0.956 ms - 11[0m
+[0mGET / [32m200 [0m0.355 ms - 11[0m
+[0mGET / [32m200 [0m4.179 ms - 11[0m
+[0mGET / [32m200 [0m1.192 ms - 11[0m
+[0mGET / [32m200 [0m0.414 ms - 11[0m
+[0mGET / [32m200 [0m0.484 ms - 11[0m
+[0mGET / [32m200 [0m1.287 ms - 11[0m
+[0mGET / [32m200 [0m0.510 ms - 11[0m
+[0mGET / [32m200 [0m0.375 ms - 11[0m
+[0mGET / [32m200 [0m9.445 ms - 11[0m
+[0mGET / [32m200 [0m0.665 ms - 11[0m
+[0mGET / [32m200 [0m1.525 ms - 11[0m
+[0mGET / [32m200 [0m2.447 ms - 11[0m
+[0mGET / [32m200 [0m43.340 ms - 11[0m
+[0mGET / [32m200 [0m1.557 ms - 11[0m
+[0mGET / [32m200 [0m1.635 ms - 11[0m
+[0mGET / [32m200 [0m1.652 ms - 11[0m
+[0mGET / [32m200 [0m1.854 ms - 11[0m
+[0mGET / [32m200 [0m0.539 ms - 11[0m
+[0mGET / [32m200 [0m0.353 ms - 11[0m
+[0mGET / [32m200 [0m3.581 ms - 11[0m
+[0mGET / [32m200 [0m3.172 ms - 11[0m
+[0mGET / [32m200 [0m1.626 ms - 11[0m
+[0mGET / [32m200 [0m0.974 ms - 11[0m
+[0mGET / [32m200 [0m1.331 ms - 11[0m
+[0mGET / [32m200 [0m2.163 ms - 11[0m
+[0mGET / [32m200 [0m1.277 ms - 11[0m
+[0mGET / [32m200 [0m0.363 ms - 11[0m
+[0mGET / [32m200 [0m1.915 ms - 11[0m
+[0mGET / [32m200 [0m0.471 ms - 11[0m
+[0mGET / [32m200 [0m5.615 ms - 11[0m
+[0mGET / [32m200 [0m0.920 ms - 11[0m
+[0mGET / [32m200 [0m1.683 ms - 11[0m
+[0mGET / [32m200 [0m3.929 ms - 11[0m
+[0mGET / [32m200 [0m1.559 ms - 11[0m
+[0mGET / [32m200 [0m0.450 ms - 11[0m
+[0mGET / [32m200 [0m1.585 ms - 11[0m
+[0mGET / [32m200 [0m1.923 ms - 11[0m
+[0mGET / [32m200 [0m5.796 ms - 11[0m
+[0mGET / [32m200 [0m1.287 ms - 11[0m
+[0mGET / [32m200 [0m0.868 ms - 11[0m
+[0mGET / [32m200 [0m11.560 ms - 11[0m
+[0mGET / [32m200 [0m1.069 ms - 11[0m
+[0mGET / [32m200 [0m7.275 ms - 11[0m
+[0mGET / [32m200 [0m1.598 ms - 11[0m
+[0mGET / [32m200 [0m0.399 ms - 11[0m
+[0mGET / [32m200 [0m9.270 ms - 11[0m
+[0mGET / [32m200 [0m7.120 ms - 11[0m
+[0mGET / [32m200 [0m1.410 ms - 11[0m
+[0mGET / [32m200 [0m1.548 ms - 11[0m
+[0mGET / [32m200 [0m2.679 ms - 11[0m
+[0mGET / [32m200 [0m2.371 ms - 11[0m
+[0mGET / [32m200 [0m2.319 ms - 11[0m
+[0mGET / [32m200 [0m2.449 ms - 11[0m
+[0mGET / [32m200 [0m20.521 ms - 11[0m
+[0mGET / [32m200 [0m10.837 ms - 11[0m
+[0mGET / [32m200 [0m1.342 ms - 11[0m
+[0mGET / [32m200 [0m0.660 ms - 11[0m
+[0mGET / [32m200 [0m13.195 ms - 11[0m
+[0mGET / [32m200 [0m1.743 ms - 11[0m
+[0mGET / [32m200 [0m1.567 ms - 11[0m
+[0mGET / [32m200 [0m0.902 ms - 11[0m
+[0mGET / [32m200 [0m2.970 ms - 11[0m
+[0mGET / [32m200 [0m0.993 ms - 11[0m
+[0mGET / [32m200 [0m1.429 ms - 11[0m
+[0mGET / [32m200 [0m10.440 ms - 11[0m
+[0mGET / [32m200 [0m10.287 ms - 11[0m
+[0mGET / [32m200 [0m7.386 ms - 11[0m
+[0mGET / [32m200 [0m0.456 ms - 11[0m
+[0mGET / [32m200 [0m1.018 ms - 11[0m
+[0mGET / [32m200 [0m4.477 ms - 11[0m
+[0mGET / [32m200 [0m6.708 ms - 11[0m
+[0mGET / [32m200 [0m1.391 ms - 11[0m
+[0mGET / [32m200 [0m4.603 ms - 11[0m
+[0mGET / [32m200 [0m8.810 ms - 11[0m
+[0mGET / [32m200 [0m0.849 ms - 11[0m
+[0mGET / [32m200 [0m0.378 ms - 11[0m
+[0mGET / [32m200 [0m11.909 ms - 11[0m
+[0mGET / [32m200 [0m2.486 ms - 11[0m
+[0mGET / [32m200 [0m0.329 ms - 11[0m
+[0mGET / [32m200 [0m1.710 ms - 11[0m
+[0mGET / [32m200 [0m0.628 ms - 11[0m
+[0mGET / [32m200 [0m2.578 ms - 11[0m
+[0mGET / [32m200 [0m3.208 ms - 11[0m
+[0mGET / [32m200 [0m1.745 ms - 11[0m
+[0mGET / [32m200 [0m0.369 ms - 11[0m
+[0mGET / [32m200 [0m6.824 ms - 11[0m
+[0mGET / [32m200 [0m0.949 ms - 11[0m
+[0mGET / [32m200 [0m1.279 ms - 11[0m
+[0mGET / [32m200 [0m1.906 ms - 11[0m
+[0mGET / [32m200 [0m4.038 ms - 11[0m
+[0mGET / [32m200 [0m0.329 ms - 11[0m
+[0mGET / [32m200 [0m3.962 ms - 11[0m
+[0mGET / [32m200 [0m0.422 ms - 11[0m
+[0mGET / [32m200 [0m15.194 ms - 11[0m
+[0mGET / [32m200 [0m0.687 ms - 11[0m
+[0mGET / [32m200 [0m1.593 ms - 11[0m
+[0mGET / [32m200 [0m0.491 ms - 11[0m
+[0mGET / [32m200 [0m9.215 ms - 11[0m
+[0mGET / [32m200 [0m8.542 ms - 11[0m
+[0mGET / [32m200 [0m1.373 ms - 11[0m
+[0mGET / [32m200 [0m0.396 ms - 11[0m
+[0mGET / [32m200 [0m3.968 ms - 11[0m
+[0mGET / [32m200 [0m4.014 ms - 11[0m
+[0mGET / [32m200 [0m1.591 ms - 11[0m
+[0mGET / [32m200 [0m3.165 ms - 11[0m
+[0mGET / [32m200 [0m1.702 ms - 11[0m
+[0mGET / [32m200 [0m0.385 ms - 11[0m
+[0mGET / [32m200 [0m9.052 ms - 11[0m
+[0mGET / [32m200 [0m10.294 ms - 11[0m
+[0mGET / [32m200 [0m2.875 ms - 11[0m
+[0mGET / [32m200 [0m3.072 ms - 11[0m
+[0mGET / [32m200 [0m10.838 ms - 11[0m
+[0mGET / [32m200 [0m0.791 ms - 11[0m
+[0mGET / [32m200 [0m10.593 ms - 11[0m
+[0mGET / [32m200 [0m1.174 ms - 11[0m
+[0mGET / [32m200 [0m17.422 ms - 11[0m
+[0mGET / [32m200 [0m8.215 ms - 11[0m
+[0mGET / [32m200 [0m12.834 ms - 11[0m
+[0mGET / [32m200 [0m0.967 ms - 11[0m
+[0mGET / [32m200 [0m10.967 ms - 11[0m
+[0mGET / [32m200 [0m0.377 ms - 11[0m
+[0mGET / [32m200 [0m13.946 ms - 11[0m
+[0mGET / [32m200 [0m11.032 ms - 11[0m
+[0mGET / [32m200 [0m4.724 ms - 11[0m
+[0mGET / [32m200 [0m9.332 ms - 11[0m
+[0mGET / [32m200 [0m2.636 ms - 11[0m
+[0mGET / [32m200 [0m4.990 ms - 11[0m
+[0mGET / [32m200 [0m0.483 ms - 11[0m
+[0mGET / [32m200 [0m1.069 ms - 11[0m
+[0mGET / [32m200 [0m12.449 ms - 11[0m
+[0mGET / [32m200 [0m0.901 ms - 11[0m
+[0mGET / [32m200 [0m15.914 ms - 11[0m
+[0mGET / [32m200 [0m7.301 ms - 11[0m
+[0mGET / [32m200 [0m2.112 ms - 11[0m
+[0mGET / [32m200 [0m2.061 ms - 11[0m
+[0mGET / [32m200 [0m1.934 ms - 11[0m
+[0mGET / [32m200 [0m3.561 ms - 11[0m
+[0mGET / [32m200 [0m10.417 ms - 11[0m
+[0mGET / [32m200 [0m10.548 ms - 11[0m
+[0mGET / [32m200 [0m0.363 ms - 11[0m
+[0mGET / [32m200 [0m0.297 ms - 11[0m
+[0mGET / [32m200 [0m5.147 ms - 11[0m
+[0mGET / [32m200 [0m0.858 ms - 11[0m
+[0mGET / [32m200 [0m13.211 ms - 11[0m
+[0mGET / [32m200 [0m0.339 ms - 11[0m
+[0mGET / [32m200 [0m1.785 ms - 11[0m
+[0mGET / [32m200 [0m6.842 ms - 11[0m
+[0mGET / [32m200 [0m3.604 ms - 11[0m
+[0mGET / [32m200 [0m1.472 ms - 11[0m
+[0mGET / [32m200 [0m9.702 ms - 11[0m
+[0mGET / [32m200 [0m7.378 ms - 11[0m
+[0mGET / [32m200 [0m1.912 ms - 11[0m
+[0mGET / [32m200 [0m2.201 ms - 11[0m
+[0mGET / [32m200 [0m8.361 ms - 11[0m
+[0mGET / [32m200 [0m1.098 ms - 11[0m
+[0mGET / [32m200 [0m13.242 ms - 11[0m
+[0mGET / [32m200 [0m1.299 ms - 11[0m
+[0mGET / [32m200 [0m2.370 ms - 11[0m
+[0mGET / [32m200 [0m7.943 ms - 11[0m
+[0mGET / [32m200 [0m10.102 ms - 11[0m
+[0mGET / [32m200 [0m1.619 ms - 11[0m
+[0mGET / [32m200 [0m13.855 ms - 11[0m
+[0mGET / [32m200 [0m0.668 ms - 11[0m
+[0mGET / [32m200 [0m0.903 ms - 11[0m
+[0mGET / [32m200 [0m2.151 ms - 11[0m
+[0mGET / [32m200 [0m23.411 ms - 11[0m
+[0mGET / [32m200 [0m0.796 ms - 11[0m
+[0mGET / [32m200 [0m17.251 ms - 11[0m
+[0mGET / [32m200 [0m2.356 ms - 11[0m
+[0mGET / [32m200 [0m10.716 ms - 11[0m
+[0mGET / [32m200 [0m10.304 ms - 11[0m
+[0mGET / [32m200 [0m2.289 ms - 11[0m
+[0mGET / [32m200 [0m1.566 ms - 11[0m
+[0mGET / [32m200 [0m11.393 ms - 11[0m
+[0mGET / [32m200 [0m0.343 ms - 11[0m
+[0mGET / [32m200 [0m1.704 ms - 11[0m
+[0mGET / [32m200 [0m4.730 ms - 11[0m
+[0mGET / [32m200 [0m8.757 ms - 11[0m
+[0mGET / [32m200 [0m0.917 ms - 11[0m
+[0mGET / [32m200 [0m0.928 ms - 11[0m
+[0mGET / [32m200 [0m3.416 ms - 11[0m
+[0mGET / [32m200 [0m1.938 ms - 11[0m
+[0mGET / [32m200 [0m0.464 ms - 11[0m
+[0mGET / [32m200 [0m1.217 ms - 11[0m
+[0mGET / [32m200 [0m0.915 ms - 11[0m
+[0mGET / [32m200 [0m0.454 ms - 11[0m
+[0mGET / [32m200 [0m0.418 ms - 11[0m
+[0mGET / [32m200 [0m1.421 ms - 11[0m
+[0mGET / [32m200 [0m1.290 ms - 11[0m
+[0mGET / [32m200 [0m0.778 ms - 11[0m
+[0mGET / [32m200 [0m0.476 ms - 11[0m
+[0mGET / [32m200 [0m1.026 ms - 11[0m
+[0mGET / [32m200 [0m0.371 ms - 11[0m
+[0mGET / [32m200 [0m2.623 ms - 11[0m
+[0mGET / [32m200 [0m2.123 ms - 11[0m
+[0mGET / [32m200 [0m3.247 ms - 11[0m
+[0mGET / [32m200 [0m1.614 ms - 11[0m
+[0mGET / [32m200 [0m0.986 ms - 11[0m
+[0mGET / [32m200 [0m3.024 ms - 11[0m
+[0mGET / [32m200 [0m1.502 ms - 11[0m
+[0mGET / [32m200 [0m3.065 ms - 11[0m
+[0mGET / [32m200 [0m5.974 ms - 11[0m
+[0mGET / [32m200 [0m6.031 ms - 11[0m
+[0mGET / [32m200 [0m1.063 ms - 11[0m
+[0mGET / [32m200 [0m1.145 ms - 11[0m
+[0mGET / [32m200 [0m1.029 ms - 11[0m
+[0mGET / [32m200 [0m1.537 ms - 11[0m
+[0mGET / [32m200 [0m0.999 ms - 11[0m
+[0mGET / [32m200 [0m4.372 ms - 11[0m
+[0mGET / [32m200 [0m9.245 ms - 11[0m
+[0mGET / [32m200 [0m1.082 ms - 11[0m
+[0mGET / [32m200 [0m0.648 ms - 11[0m
+[0mGET / [32m200 [0m2.858 ms - 11[0m
+[0mGET / [32m200 [0m5.679 ms - 11[0m
+[0mGET / [32m200 [0m10.336 ms - 11[0m
+[0mGET / [32m200 [0m3.594 ms - 11[0m
+[0mGET / [32m200 [0m1.289 ms - 11[0m
+[0mGET / [32m200 [0m7.985 ms - 11[0m
+[0mGET / [32m200 [0m8.235 ms - 11[0m
+[0mGET / [32m200 [0m14.216 ms - 11[0m
+[0mGET / [32m200 [0m0.354 ms - 11[0m
+[0mGET / [32m200 [0m0.622 ms - 11[0m
+[0mGET / [32m200 [0m1.499 ms - 11[0m
+[0mGET / [32m200 [0m0.966 ms - 11[0m
+[0mGET / [32m200 [0m5.678 ms - 11[0m
+[0mGET / [32m200 [0m8.030 ms - 11[0m
+[0mGET / [32m200 [0m1.139 ms - 11[0m
+[0mGET / [32m200 [0m3.644 ms - 11[0m
+[0mGET / [32m200 [0m0.839 ms - 11[0m
+[0mGET / [32m200 [0m17.081 ms - 11[0m
+[0mGET / [32m200 [0m1.489 ms - 11[0m
+[0mGET / [32m200 [0m0.395 ms - 11[0m
+[0mGET / [32m200 [0m0.749 ms - 11[0m
+[0mGET / [32m200 [0m11.930 ms - 11[0m
+[0mGET / [32m200 [0m6.729 ms - 11[0m
+[0mGET / [32m200 [0m0.435 ms - 11[0m
+[0mGET / [32m200 [0m0.961 ms - 11[0m
+[0mGET / [32m200 [0m3.745 ms - 11[0m
+[0mGET / [32m200 [0m2.368 ms - 11[0m
+[0mGET / [32m200 [0m14.203 ms - 11[0m
+[0mGET / [32m200 [0m1.565 ms - 11[0m
+[0mGET / [32m200 [0m8.004 ms - 11[0m
+[0mGET / [32m200 [0m0.866 ms - 11[0m
+[0mGET / [32m200 [0m3.985 ms - 11[0m
+[0mGET / [32m200 [0m2.350 ms - 11[0m
+[0mGET / [32m200 [0m7.576 ms - 11[0m
+[0mGET / [32m200 [0m4.061 ms - 11[0m
+[0mGET / [32m200 [0m7.329 ms - 11[0m
+[0mGET / [32m200 [0m1.011 ms - 11[0m
+[0mGET / [32m200 [0m2.907 ms - 11[0m
+[0mGET / [32m200 [0m1.371 ms - 11[0m
+[0mGET / [32m200 [0m4.230 ms - 11[0m
+[0mGET / [32m200 [0m3.323 ms - 11[0m
+[0mGET / [32m200 [0m6.802 ms - 11[0m
+[0mGET / [32m200 [0m4.155 ms - 11[0m
+[0mGET / [32m200 [0m0.927 ms - 11[0m
+[0mGET / [32m200 [0m3.822 ms - 11[0m
+[0mGET / [32m200 [0m10.628 ms - 11[0m
+[0mGET / [32m200 [0m0.639 ms - 11[0m
+[0mGET / [32m200 [0m1.917 ms - 11[0m
+[0mGET / [32m200 [0m1.408 ms - 11[0m
+[0mGET / [32m200 [0m11.003 ms - 11[0m
+[0mGET / [32m200 [0m7.231 ms - 11[0m
+[0mGET / [32m200 [0m0.567 ms - 11[0m
+[0mGET / [32m200 [0m1.177 ms - 11[0m
+[0mGET / [32m200 [0m1.521 ms - 11[0m
+[0mGET / [32m200 [0m6.710 ms - 11[0m
+[0mGET / [32m200 [0m15.965 ms - 11[0m
+[0mGET / [32m200 [0m0.955 ms - 11[0m
+[0mGET / [32m200 [0m6.013 ms - 11[0m
+[0mGET / [32m200 [0m6.921 ms - 11[0m
+[0mGET / [32m200 [0m15.439 ms - 11[0m
+[0mGET / [32m200 [0m0.811 ms - 11[0m
+[0mGET / [32m200 [0m5.158 ms - 11[0m
+[0mGET / [32m200 [0m2.373 ms - 11[0m
+[0mGET / [32m200 [0m3.885 ms - 11[0m
+[0mGET / [32m200 [0m1.852 ms - 11[0m
+[0mGET / [32m200 [0m0.577 ms - 11[0m
+[0mGET / [32m200 [0m1.365 ms - 11[0m
+[0mGET / [32m200 [0m3.495 ms - 11[0m
+[0mGET / [32m200 [0m4.265 ms - 11[0m
+[0mGET / [32m200 [0m0.913 ms - 11[0m
+[0mGET / [32m200 [0m0.489 ms - 11[0m
+[0mGET / [32m200 [0m0.377 ms - 11[0m
+[0mGET / [32m200 [0m1.093 ms - 11[0m
+[0mGET / [32m200 [0m0.511 ms - 11[0m
+[0mGET / [32m200 [0m3.840 ms - 11[0m
+[0mGET / [32m200 [0m1.435 ms - 11[0m
+[0mGET / [32m200 [0m6.625 ms - 11[0m
+[0mGET / [32m200 [0m0.529 ms - 11[0m
+[0mGET / [32m200 [0m1.983 ms - 11[0m
+[0mGET / [32m200 [0m0.793 ms - 11[0m
+[0mGET / [32m200 [0m0.667 ms - 11[0m
+[0mGET / [32m200 [0m5.627 ms - 11[0m
+[0mGET / [32m200 [0m0.877 ms - 11[0m
+[0mGET / [32m200 [0m0.997 ms - 11[0m
+[0mGET / [32m200 [0m2.568 ms - 11[0m
+[0mGET / [32m200 [0m1.684 ms - 11[0m
+[0mGET / [32m200 [0m0.419 ms - 11[0m
+[0mGET / [32m200 [0m0.505 ms - 11[0m
+[0mGET / [32m200 [0m0.384 ms - 11[0m
+[0mGET / [32m200 [0m14.600 ms - 11[0m
+[0mGET / [32m200 [0m0.398 ms - 11[0m
+[0mGET / [32m200 [0m0.415 ms - 11[0m
+[0mGET / [32m200 [0m1.709 ms - 11[0m
+[0mGET / [32m200 [0m3.985 ms - 11[0m
+[0mGET / [32m200 [0m6.270 ms - 11[0m
+[0mGET / [32m200 [0m2.301 ms - 11[0m
+[0mGET / [32m200 [0m2.620 ms - 11[0m
+[0mGET / [32m200 [0m6.692 ms - 11[0m
+[0mGET / [32m200 [0m0.685 ms - 11[0m
+[0mGET / [32m200 [0m0.799 ms - 11[0m
+[0mGET / [32m200 [0m1.727 ms - 11[0m
+[0mGET / [32m200 [0m0.509 ms - 11[0m
+[0mGET / [32m200 [0m0.757 ms - 11[0m
+[0mGET / [32m200 [0m0.712 ms - 11[0m
+[0mGET / [32m200 [0m0.727 ms - 11[0m
+[0mGET / [32m200 [0m4.151 ms - 11[0m
+[0mGET / [32m200 [0m4.667 ms - 11[0m
+[0mGET / [32m200 [0m1.546 ms - 11[0m
+[0mGET / [32m200 [0m0.274 ms - 11[0m
+[0mGET / [32m200 [0m7.509 ms - 11[0m
+[0mGET / [32m200 [0m0.419 ms - 11[0m
+[0mGET / [32m200 [0m0.594 ms - 11[0m
+[0mGET / [32m200 [0m1.524 ms - 11[0m
+[0mGET / [32m200 [0m6.024 ms - 11[0m
+[0mGET / [32m200 [0m5.117 ms - 11[0m
+[0mGET / [32m200 [0m0.979 ms - 11[0m
+[0mGET / [32m200 [0m2.081 ms - 11[0m
+[0mGET / [32m200 [0m1.227 ms - 11[0m
+[0mGET / [32m200 [0m0.558 ms - 11[0m
+[0mGET / [32m200 [0m0.971 ms - 11[0m
+[0mGET / [32m200 [0m3.657 ms - 11[0m
+[0mGET / [32m200 [0m11.911 ms - 11[0m
+[0mGET / [32m200 [0m0.423 ms - 11[0m
+[0mGET / [32m200 [0m11.572 ms - 11[0m
+[0mGET / [32m200 [0m7.028 ms - 11[0m
+[0mGET / [32m200 [0m1.848 ms - 11[0m
+[0mGET / [32m200 [0m6.105 ms - 11[0m
+[0mGET / [32m200 [0m3.045 ms - 11[0m
+[0mGET / [32m200 [0m0.721 ms - 11[0m
+[0mGET / [32m200 [0m1.703 ms - 11[0m
+[0mGET / [32m200 [0m0.383 ms - 11[0m
+[0mGET / [32m200 [0m0.864 ms - 11[0m
+[0mGET / [32m200 [0m1.975 ms - 11[0m
+[0mGET / [32m200 [0m13.135 ms - 11[0m
+[0mGET / [32m200 [0m0.937 ms - 11[0m
+[0mGET / [32m200 [0m9.789 ms - 11[0m
+[0mGET / [32m200 [0m2.150 ms - 11[0m
+[0mGET / [32m200 [0m1.145 ms - 11[0m
+[0mGET / [32m200 [0m2.583 ms - 11[0m
+[0mGET / [32m200 [0m3.504 ms - 11[0m
+[0mGET / [32m200 [0m2.187 ms - 11[0m
+[0mGET / [32m200 [0m2.954 ms - 11[0m
+[0mGET / [32m200 [0m1.292 ms - 11[0m
+[0mGET / [32m200 [0m1.946 ms - 11[0m
+[0mGET / [32m200 [0m1.931 ms - 11[0m
+[0mGET / [32m200 [0m1.651 ms - 11[0m
+[0mGET / [32m200 [0m1.882 ms - 11[0m
+[0mGET / [32m200 [0m0.443 ms - 11[0m
+[0mGET / [32m200 [0m2.333 ms - 11[0m
+[0mGET / [32m200 [0m5.565 ms - 11[0m
+[0mGET / [32m200 [0m2.520 ms - 11[0m
+[0mGET / [32m200 [0m1.814 ms - 11[0m
+[0mGET / [32m200 [0m5.567 ms - 11[0m
+[0mGET / [32m200 [0m9.675 ms - 11[0m
+[0mGET / [32m200 [0m7.388 ms - 11[0m
+[0mGET / [32m200 [0m5.458 ms - 11[0m
+[0mGET / [32m200 [0m5.698 ms - 11[0m
+[0mGET / [32m200 [0m12.934 ms - 11[0m
+[0mGET / [32m200 [0m0.784 ms - 11[0m
+[0mGET / [32m200 [0m2.807 ms - 11[0m
+[0mGET / [32m200 [0m5.409 ms - 11[0m
+[0mGET / [32m200 [0m2.849 ms - 11[0m
+[0mGET / [32m200 [0m8.708 ms - 11[0m
+[0mGET / [32m200 [0m2.730 ms - 11[0m
+[0mGET / [32m200 [0m0.794 ms - 11[0m
+[0mGET / [32m200 [0m3.000 ms - 11[0m
+[0mGET / [32m200 [0m5.487 ms - 11[0m
+[0mGET / [32m200 [0m0.648 ms - 11[0m
+[0mGET / [32m200 [0m0.807 ms - 11[0m
+[0mGET / [32m200 [0m10.723 ms - 11[0m
+[0mGET / [32m200 [0m8.619 ms - 11[0m
+[0mGET / [32m200 [0m0.427 ms - 11[0m
+[0mGET / [32m200 [0m1.186 ms - 11[0m
+[0mGET / [32m200 [0m2.766 ms - 11[0m
+[0mGET / [32m200 [0m1.906 ms - 11[0m
+[0mGET / [32m200 [0m5.727 ms - 11[0m
+[0mGET / [32m200 [0m12.959 ms - 11[0m
+[0mGET / [32m200 [0m1.771 ms - 11[0m
+[0mGET / [32m200 [0m0.357 ms - 11[0m
+[0mGET / [32m200 [0m18.245 ms - 11[0m
+[0mGET / [32m200 [0m0.298 ms - 11[0m
+[0mGET / [32m200 [0m7.117 ms - 11[0m
+[0mGET / [32m200 [0m1.079 ms - 11[0m
+[0mGET / [32m200 [0m11.863 ms - 11[0m
+[0mGET / [32m200 [0m9.589 ms - 11[0m
+[0mGET / [32m200 [0m11.441 ms - 11[0m
+[0mGET / [32m200 [0m9.038 ms - 11[0m
+[0mGET / [32m200 [0m1.627 ms - 11[0m
+[0mGET / [32m200 [0m1.589 ms - 11[0m
+[0mGET / [32m200 [0m0.997 ms - 11[0m
+[0mGET / [32m200 [0m11.410 ms - 11[0m
+[0mGET / [32m200 [0m6.778 ms - 11[0m
+[0mGET / [32m200 [0m6.292 ms - 11[0m

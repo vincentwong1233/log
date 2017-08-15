@@ -1,0 +1,923 @@
+ok
+Config
+Tue Aug 01 2017 08:40:30 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2451
+tcpPort listening 3008
+======================
+Server listening at port 3008
+[0mGET / [32m200 [0m32.143 ms - 11[0m
+[0mGET / [32m200 [0m45.459 ms - 11[0m
+[0mGET / [32m200 [0m11.872 ms - 11[0m
+[0mGET / [32m200 [0m11.173 ms - 11[0m
+[0mGET / [32m200 [0m1.168 ms - 11[0m
+[0mGET / [32m200 [0m1.063 ms - 11[0m
+[0mGET / [32m200 [0m0.688 ms - 11[0m
+[0mGET / [32m200 [0m5.855 ms - 11[0m
+[0mGET / [32m200 [0m6.875 ms - 11[0m
+[0mGET / [32m200 [0m0.710 ms - 11[0m
+[0mGET / [32m200 [0m13.789 ms - 11[0m
+[0mGET / [32m200 [0m4.633 ms - 11[0m
+[0mGET / [32m200 [0m0.683 ms - 11[0m
+[0mGET / [32m200 [0m0.758 ms - 11[0m
+[0mGET / [32m200 [0m13.960 ms - 11[0m
+[0mGET / [32m200 [0m0.391 ms - 11[0m
+[0mGET / [32m200 [0m0.614 ms - 11[0m
+[0mGET / [32m200 [0m2.473 ms - 11[0m
+[0mGET / [32m200 [0m28.612 ms - 11[0m
+[0mGET / [32m200 [0m34.601 ms - 11[0m
+[0mGET / [32m200 [0m1.546 ms - 11[0m
+[0mGET / [32m200 [0m0.709 ms - 11[0m
+[0mGET / [32m200 [0m11.888 ms - 11[0m
+[0mGET / [32m200 [0m1.120 ms - 11[0m
+[0mGET / [32m200 [0m15.056 ms - 11[0m
+[0mGET / [32m200 [0m4.606 ms - 11[0m
+[0mGET / [32m200 [0m4.057 ms - 11[0m
+[0mGET / [32m200 [0m4.408 ms - 11[0m
+[0mGET / [32m200 [0m9.243 ms - 11[0m
+[0mGET / [32m200 [0m10.461 ms - 11[0m
+[0mGET / [32m200 [0m11.809 ms - 11[0m
+[0mGET / [32m200 [0m14.469 ms - 11[0m
+[0mGET / [32m200 [0m25.935 ms - 11[0m
+[0mGET / [32m200 [0m2.090 ms - 11[0m
+[0mGET / [32m200 [0m0.516 ms - 11[0m
+[0mGET / [32m200 [0m1.622 ms - 11[0m
+[0mGET / [32m200 [0m0.700 ms - 11[0m
+[0mGET / [32m200 [0m5.477 ms - 11[0m
+[0mGET / [32m200 [0m6.015 ms - 11[0m
+[0mGET / [32m200 [0m2.027 ms - 11[0m
+[0mGET / [32m200 [0m4.826 ms - 11[0m
+[0mGET / [32m200 [0m2.087 ms - 11[0m
+[0mGET / [32m200 [0m0.523 ms - 11[0m
+[0mGET / [32m200 [0m10.219 ms - 11[0m
+[0mGET / [32m200 [0m2.246 ms - 11[0m
+[0mGET / [32m200 [0m2.435 ms - 11[0m
+[0mGET / [32m200 [0m9.078 ms - 11[0m
+[0mGET / [32m200 [0m7.092 ms - 11[0m
+[0mGET / [32m200 [0m0.796 ms - 11[0m
+[0mGET / [32m200 [0m0.431 ms - 11[0m
+[0mGET / [32m200 [0m0.809 ms - 11[0m
+[0mGET / [32m200 [0m0.654 ms - 11[0m
+[0mGET / [32m200 [0m0.701 ms - 11[0m
+[0mGET / [32m200 [0m3.866 ms - 11[0m
+[0mGET / [32m200 [0m11.507 ms - 11[0m
+[0mGET / [32m200 [0m0.562 ms - 11[0m
+[0mGET / [32m200 [0m1.266 ms - 11[0m
+[0mGET / [32m200 [0m1.046 ms - 11[0m
+[0mGET / [32m200 [0m17.427 ms - 11[0m
+[0mGET / [32m200 [0m3.740 ms - 11[0m
+[0mGET / [32m200 [0m0.999 ms - 11[0m
+[0mGET / [32m200 [0m1.505 ms - 11[0m
+[0mGET / [32m200 [0m0.912 ms - 11[0m
+[0mGET / [32m200 [0m1.545 ms - 11[0m
+[0mGET / [32m200 [0m3.141 ms - 11[0m
+[0mGET / [32m200 [0m3.284 ms - 11[0m
+[0mGET / [32m200 [0m16.954 ms - 11[0m
+[0mGET / [32m200 [0m3.074 ms - 11[0m
+[0mGET / [32m200 [0m0.554 ms - 11[0m
+[0mGET / [32m200 [0m2.077 ms - 11[0m
+[0mGET / [32m200 [0m8.114 ms - 11[0m
+[0mGET / [32m200 [0m8.478 ms - 11[0m
+[0mGET / [32m200 [0m20.850 ms - 11[0m
+[0mGET / [32m200 [0m0.556 ms - 11[0m
+[0mGET / [32m200 [0m0.446 ms - 11[0m
+[0mGET / [32m200 [0m0.770 ms - 11[0m
+[0mGET / [32m200 [0m0.799 ms - 11[0m
+[0mGET / [32m200 [0m0.970 ms - 11[0m
+phone number 68425349
+identityId us-east-1:c2324f2f-d14d-46fe-8372-5a88126495be
+get_open_id _phoneNumber 68425349
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:c2324f2f-d14d-46fe-8372-5a88126495be',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6YzIzMjRmMmYtZDE0ZC00NmZlLTgzNzItNWE4ODEyNjQ5NWJlIiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTo2ODQyNTM0OSJdLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbSIsImV4cCI6MTUwMTU4MTAyMSwiaWF0IjoxNTAxNTc3NDIxfQ.aglnBf9wVxESIEGG45YKtV4uvyKXzwosINCj_Vl56qbgKCQtEsU387NYK3rn_0fHD-H9XyPCOrKyw-os-cH_gYWXey5m8zSLksT_GNpoTDdktc1XZdQ18kYDS-H675KHa0W64bj_BrQaMfJRmHG1XM8onKYTbd-sD7jvQ3f1upT2_o2EFoFf6SXmzclNxSJjeaSJMiiXwFEO1ow3YIzw5YJjFfFBrvuyyyQ-ZfrFUwN9LFaoQ_YYIIQTXkIDCGRNEJt8jeAfQGvlp7l3zaPOP_LOPucG3UG2A5jbNZCCbQlqMUR6Hhng3yNsOOMTdC7H6-XhLWtPNzAeqEuyMrutkw' }
+[0mGET /get_token/684253491234/us-east-1:c2324f2f-d14d-46fe-8372-5a88126495be [32m200 [0m154.942 ms - 902[0m
+[0mGET / [32m200 [0m1.467 ms - 11[0m
+[0mGET / [32m200 [0m3.288 ms - 11[0m
+[0mGET / [32m200 [0m0.393 ms - 11[0m
+[0mGET / [32m200 [0m0.475 ms - 11[0m
+[0mGET / [32m200 [0m2.810 ms - 11[0m
+[0mGET / [32m200 [0m1.475 ms - 11[0m
+[0mGET / [32m200 [0m25.804 ms - 11[0m
+[0mGET / [32m200 [0m0.498 ms - 11[0m
+[0mGET / [32m200 [0m16.279 ms - 11[0m
+[0mGET / [32m200 [0m8.149 ms - 11[0m
+[0mGET / [32m200 [0m1.615 ms - 11[0m
+[0mGET / [32m200 [0m0.958 ms - 11[0m
+[0mGET / [32m200 [0m15.862 ms - 11[0m
+[0mGET / [32m200 [0m4.833 ms - 11[0m
+[0mGET / [32m200 [0m0.981 ms - 11[0m
+[0mGET / [32m200 [0m0.709 ms - 11[0m
+[0mGET / [32m200 [0m1.723 ms - 11[0m
+[0mGET / [32m200 [0m1.820 ms - 11[0m
+[0mGET / [32m200 [0m2.830 ms - 11[0m
+[0mGET / [32m200 [0m2.813 ms - 11[0m
+[0mGET / [32m200 [0m11.635 ms - 11[0m
+[0mGET / [32m200 [0m7.024 ms - 11[0m
+[0mGET / [32m200 [0m7.472 ms - 11[0m
+[0mGET / [32m200 [0m0.503 ms - 11[0m
+[0mGET / [32m200 [0m2.657 ms - 11[0m
+[0mGET / [32m200 [0m5.632 ms - 11[0m
+[0mGET / [32m200 [0m8.101 ms - 11[0m
+[0mGET / [32m200 [0m1.552 ms - 11[0m
+[0mGET / [32m200 [0m14.030 ms - 11[0m
+[0mGET / [32m200 [0m10.900 ms - 11[0m
+[0mGET / [32m200 [0m2.456 ms - 11[0m
+[0mGET / [32m200 [0m0.371 ms - 11[0m
+[0mGET / [32m200 [0m8.510 ms - 11[0m
+[0mGET / [32m200 [0m9.830 ms - 11[0m
+[0mGET / [32m200 [0m2.146 ms - 11[0m
+[0mGET / [32m200 [0m4.953 ms - 11[0m
+[0mGET / [32m200 [0m2.465 ms - 11[0m
+[0mGET / [32m200 [0m9.683 ms - 11[0m
+[0mGET / [32m200 [0m0.471 ms - 11[0m
+[0mGET / [32m200 [0m0.543 ms - 11[0m
+[0mGET / [32m200 [0m12.506 ms - 11[0m
+[0mGET / [32m200 [0m7.158 ms - 11[0m
+[0mGET / [32m200 [0m3.229 ms - 11[0m
+[0mGET / [32m200 [0m2.386 ms - 11[0m
+[0mGET / [32m200 [0m1.853 ms - 11[0m
+[0mGET / [32m200 [0m1.811 ms - 11[0m
+[0mGET / [32m200 [0m11.386 ms - 11[0m
+[0mGET / [32m200 [0m3.279 ms - 11[0m
+[0mGET / [32m200 [0m11.621 ms - 11[0m
+[0mGET / [32m200 [0m6.393 ms - 11[0m
+[0mGET / [32m200 [0m1.204 ms - 11[0m
+[0mGET / [32m200 [0m8.796 ms - 11[0m
+[0mGET / [32m200 [0m33.872 ms - 11[0m
+[0mGET / [32m200 [0m9.192 ms - 11[0m
+[0mGET / [32m200 [0m0.873 ms - 11[0m
+[0mGET / [32m200 [0m0.370 ms - 11[0m
+[0mGET / [32m200 [0m1.213 ms - 11[0m
+[0mGET / [32m200 [0m7.549 ms - 11[0m
+[0mGET / [32m200 [0m0.419 ms - 11[0m
+[0mGET / [32m200 [0m0.407 ms - 11[0m
+[0mGET / [32m200 [0m10.138 ms - 11[0m
+[0mGET / [32m200 [0m7.628 ms - 11[0m
+[0mGET / [32m200 [0m4.364 ms - 11[0m
+[0mGET / [32m200 [0m1.081 ms - 11[0m
+[0mGET / [32m200 [0m13.359 ms - 11[0m
+[0mGET / [32m200 [0m3.346 ms - 11[0m
+[0mGET / [32m200 [0m1.656 ms - 11[0m
+[0mGET / [32m200 [0m10.327 ms - 11[0m
+[0mGET / [32m200 [0m1.039 ms - 11[0m
+[0mGET / [32m200 [0m1.327 ms - 11[0m
+[0mGET / [32m200 [0m1.108 ms - 11[0m
+[0mGET / [32m200 [0m0.475 ms - 11[0m
+[0mGET / [32m200 [0m1.429 ms - 11[0m
+[0mGET / [32m200 [0m0.581 ms - 11[0m
+[0mGET / [32m200 [0m1.507 ms - 11[0m
+[0mGET / [32m200 [0m1.176 ms - 11[0m
+[0mGET / [32m200 [0m1.953 ms - 11[0m
+[0mGET / [32m200 [0m1.120 ms - 11[0m
+[0mGET / [32m200 [0m1.558 ms - 11[0m
+[0mGET / [32m200 [0m10.782 ms - 11[0m
+[0mGET / [32m200 [0m4.509 ms - 11[0m
+[0mGET / [32m200 [0m3.962 ms - 11[0m
+[0mGET / [32m200 [0m2.609 ms - 11[0m
+[0mGET / [32m200 [0m0.442 ms - 11[0m
+[0mGET / [32m200 [0m0.441 ms - 11[0m
+[0mGET / [32m200 [0m1.218 ms - 11[0m
+[0mGET / [32m200 [0m2.518 ms - 11[0m
+[0mGET / [32m200 [0m1.575 ms - 11[0m
+[0mGET / [32m200 [0m9.143 ms - 11[0m
+[0mGET / [32m200 [0m9.429 ms - 11[0m
+[0mGET / [32m200 [0m0.816 ms - 11[0m
+[0mGET / [32m200 [0m1.005 ms - 11[0m
+[0mGET / [32m200 [0m1.441 ms - 11[0m
+[0mGET / [32m200 [0m1.582 ms - 11[0m
+[0mGET / [32m200 [0m1.469 ms - 11[0m
+[0mGET / [32m200 [0m2.634 ms - 11[0m
+[0mGET / [32m200 [0m12.453 ms - 11[0m
+[0mGET / [32m200 [0m0.428 ms - 11[0m
+[0mGET / [32m200 [0m1.863 ms - 11[0m
+[0mGET / [32m200 [0m0.304 ms - 11[0m
+[0mGET / [32m200 [0m17.581 ms - 11[0m
+[0mGET / [32m200 [0m1.014 ms - 11[0m
+[0mGET / [32m200 [0m1.468 ms - 11[0m
+[0mGET / [32m200 [0m3.384 ms - 11[0m
+[0mGET / [32m200 [0m8.795 ms - 11[0m
+[0mGET / [32m200 [0m4.756 ms - 11[0m
+[0mGET / [32m200 [0m8.908 ms - 11[0m
+[0mGET / [32m200 [0m6.387 ms - 11[0m
+[0mGET / [32m200 [0m6.059 ms - 11[0m
+[0mGET / [32m200 [0m1.077 ms - 11[0m
+[0mGET / [32m200 [0m3.956 ms - 11[0m
+[0mGET / [32m200 [0m2.178 ms - 11[0m
+[0mGET / [32m200 [0m15.666 ms - 11[0m
+[0mGET / [32m200 [0m0.368 ms - 11[0m
+[0mGET / [32m200 [0m1.008 ms - 11[0m
+[0mGET / [32m200 [0m8.834 ms - 11[0m
+[0mGET / [32m200 [0m3.757 ms - 11[0m
+[0mGET / [32m200 [0m0.421 ms - 11[0m
+[0mGET / [32m200 [0m0.685 ms - 11[0m
+[0mGET / [32m200 [0m0.401 ms - 11[0m
+[0mGET / [32m200 [0m2.901 ms - 11[0m
+[0mGET / [32m200 [0m1.941 ms - 11[0m
+[0mGET / [32m200 [0m7.590 ms - 11[0m
+[0mGET / [32m200 [0m13.285 ms - 11[0m
+[0mGET / [32m200 [0m8.623 ms - 11[0m
+[0mGET / [32m200 [0m0.923 ms - 11[0m
+[0mGET / [32m200 [0m1.389 ms - 11[0m
+[0mGET / [32m200 [0m0.819 ms - 11[0m
+[0mGET / [32m200 [0m0.680 ms - 11[0m
+[0mGET / [32m200 [0m8.801 ms - 11[0m
+[0mGET / [32m200 [0m0.503 ms - 11[0m
+[0mGET / [32m200 [0m1.870 ms - 11[0m
+[0mGET / [32m200 [0m5.102 ms - 11[0m
+[0mGET / [32m200 [0m2.282 ms - 11[0m
+[0mGET / [32m200 [0m0.905 ms - 11[0m
+[0mGET / [32m200 [0m1.309 ms - 11[0m
+[0mGET / [32m200 [0m9.339 ms - 11[0m
+[0mGET / [32m200 [0m0.897 ms - 11[0m
+[0mGET / [32m200 [0m0.512 ms - 11[0m
+[0mGET / [32m200 [0m0.456 ms - 11[0m
+[0mGET / [32m200 [0m1.574 ms - 11[0m
+[0mGET / [32m200 [0m1.776 ms - 11[0m
+[0mGET / [32m200 [0m4.403 ms - 11[0m
+[0mGET / [32m200 [0m7.843 ms - 11[0m
+[0mGET / [32m200 [0m3.499 ms - 11[0m
+[0mGET / [32m200 [0m0.325 ms - 11[0m
+[0mGET / [32m200 [0m2.733 ms - 11[0m
+[0mGET / [32m200 [0m0.385 ms - 11[0m
+[0mGET / [32m200 [0m11.810 ms - 11[0m
+[0mGET / [32m200 [0m0.958 ms - 11[0m
+[0mGET / [32m200 [0m1.997 ms - 11[0m
+[0mGET / [32m200 [0m0.960 ms - 11[0m
+[0mGET / [32m200 [0m0.475 ms - 11[0m
+[0mGET / [32m200 [0m1.011 ms - 11[0m
+[0mGET / [32m200 [0m1.356 ms - 11[0m
+[0mGET / [32m200 [0m3.641 ms - 11[0m
+[0mGET / [32m200 [0m2.571 ms - 11[0m
+[0mGET / [32m200 [0m0.300 ms - 11[0m
+[0mGET / [32m200 [0m0.437 ms - 11[0m
+[0mGET / [32m200 [0m2.228 ms - 11[0m
+[0mGET / [32m200 [0m2.741 ms - 11[0m
+[0mGET / [32m200 [0m8.061 ms - 11[0m
+[0mGET / [32m200 [0m4.700 ms - 11[0m
+[0mGET / [32m200 [0m0.627 ms - 11[0m
+[0mGET / [32m200 [0m6.816 ms - 11[0m
+[0mGET / [32m200 [0m7.019 ms - 11[0m
+[0mGET / [32m200 [0m0.416 ms - 11[0m
+[0mGET / [32m200 [0m8.800 ms - 11[0m
+[0mGET / [32m200 [0m13.797 ms - 11[0m
+[0mGET / [32m200 [0m0.539 ms - 11[0m
+[0mGET / [32m200 [0m0.886 ms - 11[0m
+[0mGET / [32m200 [0m0.603 ms - 11[0m
+[0mGET / [32m200 [0m2.739 ms - 11[0m
+[0mGET / [32m200 [0m1.087 ms - 11[0m
+[0mGET / [32m200 [0m2.817 ms - 11[0m
+[0mGET / [32m200 [0m1.715 ms - 11[0m
+[0mGET / [32m200 [0m12.589 ms - 11[0m
+[0mGET / [32m200 [0m0.958 ms - 11[0m
+[0mGET / [32m200 [0m1.236 ms - 11[0m
+[0mGET / [32m200 [0m2.001 ms - 11[0m
+[0mGET / [32m200 [0m5.406 ms - 11[0m
+[0mGET / [32m200 [0m4.663 ms - 11[0m
+[0mGET / [32m200 [0m2.614 ms - 11[0m
+[0mGET / [32m200 [0m6.749 ms - 11[0m
+[0mGET / [32m200 [0m8.917 ms - 11[0m
+[0mGET / [32m200 [0m8.943 ms - 11[0m
+[0mGET / [32m200 [0m5.985 ms - 11[0m
+[0mGET / [32m200 [0m0.294 ms - 11[0m
+[0mGET / [32m200 [0m1.677 ms - 11[0m
+[0mGET / [32m200 [0m6.947 ms - 11[0m
+[0mGET / [32m200 [0m2.650 ms - 11[0m
+[0mGET / [32m200 [0m2.671 ms - 11[0m
+[0mGET / [32m200 [0m4.001 ms - 11[0m
+[0mGET / [32m200 [0m3.207 ms - 11[0m
+[0mGET / [32m200 [0m2.334 ms - 11[0m
+[0mGET / [32m200 [0m2.067 ms - 11[0m
+[0mGET / [32m200 [0m1.808 ms - 11[0m
+[0mGET / [32m200 [0m0.986 ms - 11[0m
+[0mGET / [32m200 [0m1.390 ms - 11[0m
+[0mGET / [32m200 [0m1.354 ms - 11[0m
+[0mGET / [32m200 [0m5.977 ms - 11[0m
+[0mGET / [32m200 [0m11.345 ms - 11[0m
+[0mGET / [32m200 [0m4.371 ms - 11[0m
+[0mGET / [32m200 [0m0.507 ms - 11[0m
+[0mGET / [32m200 [0m0.535 ms - 11[0m
+[0mGET / [32m200 [0m1.193 ms - 11[0m
+[0mGET / [32m200 [0m2.457 ms - 11[0m
+[0mGET / [32m200 [0m0.510 ms - 11[0m
+[0mGET / [32m200 [0m7.510 ms - 11[0m
+[0mGET / [32m200 [0m9.206 ms - 11[0m
+[0mGET / [32m200 [0m1.766 ms - 11[0m
+[0mGET / [32m200 [0m5.410 ms - 11[0m
+[0mGET / [32m200 [0m11.806 ms - 11[0m
+[0mGET / [32m200 [0m1.473 ms - 11[0m
+[0mGET / [32m200 [0m1.934 ms - 11[0m
+[0mGET / [32m200 [0m1.443 ms - 11[0m
+[0mGET / [32m200 [0m0.441 ms - 11[0m
+[0mGET / [32m200 [0m1.905 ms - 11[0m
+[0mGET / [32m200 [0m0.874 ms - 11[0m
+[0mGET / [32m200 [0m0.383 ms - 11[0m
+[0mGET / [32m200 [0m2.636 ms - 11[0m
+[0mGET / [32m200 [0m1.432 ms - 11[0m
+[0mGET / [32m200 [0m2.377 ms - 11[0m
+[0mGET / [32m200 [0m1.258 ms - 11[0m
+[0mGET / [32m200 [0m1.577 ms - 11[0m
+[0mGET / [32m200 [0m0.942 ms - 11[0m
+[0mGET / [32m200 [0m1.943 ms - 11[0m
+[0mGET / [32m200 [0m10.409 ms - 11[0m
+[0mGET / [32m200 [0m13.110 ms - 11[0m
+[0mGET / [32m200 [0m8.115 ms - 11[0m
+[0mGET / [32m200 [0m0.403 ms - 11[0m
+[0mGET / [32m200 [0m0.328 ms - 11[0m
+[0mGET / [32m200 [0m0.420 ms - 11[0m
+[0mGET / [32m200 [0m0.463 ms - 11[0m
+[0mGET / [32m200 [0m0.935 ms - 11[0m
+[0mGET / [32m200 [0m2.103 ms - 11[0m
+[0mGET / [32m200 [0m11.456 ms - 11[0m
+[0mGET / [32m200 [0m4.104 ms - 11[0m
+[0mGET / [32m200 [0m5.505 ms - 11[0m
+[0mGET / [32m200 [0m0.600 ms - 11[0m
+[0mGET / [32m200 [0m0.388 ms - 11[0m
+[0mGET / [32m200 [0m6.661 ms - 11[0m
+[0mGET / [32m200 [0m2.135 ms - 11[0m
+[0mGET / [32m200 [0m1.144 ms - 11[0m
+[0mGET / [32m200 [0m6.577 ms - 11[0m
+[0mGET / [32m200 [0m9.059 ms - 11[0m
+[0mGET / [32m200 [0m1.781 ms - 11[0m
+[0mGET / [32m200 [0m0.365 ms - 11[0m
+[0mGET / [32m200 [0m1.135 ms - 11[0m
+[0mGET / [32m200 [0m1.183 ms - 11[0m
+[0mGET / [32m200 [0m0.378 ms - 11[0m
+[0mGET / [32m200 [0m6.667 ms - 11[0m
+[0mGET / [32m200 [0m3.180 ms - 11[0m
+[0mGET / [32m200 [0m0.902 ms - 11[0m
+[0mGET / [32m200 [0m1.311 ms - 11[0m
+[0mGET / [32m200 [0m0.428 ms - 11[0m
+[0mGET / [32m200 [0m15.031 ms - 11[0m
+[0mGET / [32m200 [0m1.539 ms - 11[0m
+[0mGET / [32m200 [0m0.384 ms - 11[0m
+[0mGET / [32m200 [0m1.628 ms - 11[0m
+[0mGET / [32m200 [0m0.518 ms - 11[0m
+[0mGET / [32m200 [0m1.253 ms - 11[0m
+[0mGET / [32m200 [0m1.049 ms - 11[0m
+[0mGET / [32m200 [0m4.653 ms - 11[0m
+[0mGET / [32m200 [0m2.137 ms - 11[0m
+[0mGET / [32m200 [0m0.954 ms - 11[0m
+[0mGET / [32m200 [0m1.460 ms - 11[0m
+[0mGET / [32m200 [0m1.959 ms - 11[0m
+[0mGET / [32m200 [0m1.200 ms - 11[0m
+[0mGET / [32m200 [0m1.540 ms - 11[0m
+[0mGET / [32m200 [0m1.928 ms - 11[0m
+[0mGET / [32m200 [0m1.636 ms - 11[0m
+[0mGET / [32m200 [0m0.397 ms - 11[0m
+[0mGET / [32m200 [0m0.434 ms - 11[0m
+[0mGET / [32m200 [0m4.306 ms - 11[0m
+[0mGET / [32m200 [0m0.828 ms - 11[0m
+[0mGET / [32m200 [0m15.030 ms - 11[0m
+[0mGET / [32m200 [0m1.838 ms - 11[0m
+[0mGET / [32m200 [0m1.076 ms - 11[0m
+[0mGET / [32m200 [0m0.947 ms - 11[0m
+[0mGET / [32m200 [0m1.101 ms - 11[0m
+[0mGET / [32m200 [0m1.526 ms - 11[0m
+[0mGET / [32m200 [0m2.285 ms - 11[0m
+[0mGET / [32m200 [0m1.708 ms - 11[0m
+[0mGET / [32m200 [0m2.030 ms - 11[0m
+[0mGET / [32m200 [0m1.490 ms - 11[0m
+[0mGET / [32m200 [0m0.487 ms - 11[0m
+[0mGET / [32m200 [0m2.267 ms - 11[0m
+[0mGET / [32m200 [0m0.531 ms - 11[0m
+[0mGET / [32m200 [0m0.706 ms - 11[0m
+[0mGET / [32m200 [0m6.113 ms - 11[0m
+[0mGET / [32m200 [0m0.558 ms - 11[0m
+[0mGET / [32m200 [0m11.347 ms - 11[0m
+[0mGET / [32m200 [0m0.860 ms - 11[0m
+[0mGET / [32m200 [0m0.883 ms - 11[0m
+[0mGET / [32m200 [0m6.036 ms - 11[0m
+[0mGET / [32m200 [0m14.927 ms - 11[0m
+[0mGET / [32m200 [0m1.021 ms - 11[0m
+[0mGET / [32m200 [0m1.114 ms - 11[0m
+[0mGET / [32m200 [0m2.429 ms - 11[0m
+[0mGET / [32m200 [0m0.490 ms - 11[0m
+[0mGET / [32m200 [0m8.548 ms - 11[0m
+[0mGET / [32m200 [0m1.008 ms - 11[0m
+[0mGET / [32m200 [0m0.366 ms - 11[0m
+[0mGET / [32m200 [0m0.374 ms - 11[0m
+[0mGET / [32m200 [0m0.462 ms - 11[0m
+[0mGET / [32m200 [0m1.387 ms - 11[0m
+[0mGET / [32m200 [0m3.813 ms - 11[0m
+[0mGET / [32m200 [0m0.386 ms - 11[0m
+[0mGET / [32m200 [0m0.347 ms - 11[0m
+[0mGET / [32m200 [0m1.498 ms - 11[0m
+[0mGET / [32m200 [0m0.462 ms - 11[0m
+[0mGET / [32m200 [0m27.358 ms - 11[0m
+[0mGET / [32m200 [0m8.869 ms - 11[0m
+[0mGET / [32m200 [0m64.118 ms - 11[0m
+[0mGET / [32m200 [0m1.788 ms - 11[0m
+[0mGET / [32m200 [0m0.394 ms - 11[0m
+[0mGET / [32m200 [0m0.367 ms - 11[0m
+[0mGET / [32m200 [0m6.486 ms - 11[0m
+[0mGET / [32m200 [0m0.402 ms - 11[0m
+[0mGET / [32m200 [0m1.262 ms - 11[0m
+[0mGET / [32m200 [0m0.945 ms - 11[0m
+[0mGET / [32m200 [0m0.423 ms - 11[0m
+[0mGET / [32m200 [0m2.360 ms - 11[0m
+[0mGET / [32m200 [0m0.366 ms - 11[0m
+[0mGET / [32m200 [0m0.523 ms - 11[0m
+[0mGET / [32m200 [0m0.420 ms - 11[0m
+[0mGET / [32m200 [0m3.019 ms - 11[0m
+[0mGET / [32m200 [0m0.643 ms - 11[0m
+[0mGET / [32m200 [0m0.864 ms - 11[0m
+[0mGET / [32m200 [0m0.785 ms - 11[0m
+[0mGET / [32m200 [0m1.483 ms - 11[0m
+[0mGET / [32m200 [0m0.862 ms - 11[0m
+[0mGET / [32m200 [0m1.140 ms - 11[0m
+[0mGET / [32m200 [0m0.378 ms - 11[0m
+[0mGET / [32m200 [0m0.999 ms - 11[0m
+[0mGET / [32m200 [0m0.477 ms - 11[0m
+[0mGET / [32m200 [0m0.546 ms - 11[0m
+[0mGET / [32m200 [0m0.393 ms - 11[0m
+[0mGET / [32m200 [0m0.502 ms - 11[0m
+[0mGET / [32m200 [0m4.245 ms - 11[0m
+[0mGET / [32m200 [0m0.356 ms - 11[0m
+[0mGET / [32m200 [0m17.796 ms - 11[0m
+[0mGET / [32m200 [0m0.333 ms - 11[0m
+[0mGET / [32m200 [0m2.506 ms - 11[0m
+[0mGET / [32m200 [0m2.305 ms - 11[0m
+[0mGET / [32m200 [0m0.678 ms - 11[0m
+[0mGET / [32m200 [0m0.356 ms - 11[0m
+[0mGET / [32m200 [0m6.066 ms - 11[0m
+[0mGET / [32m200 [0m9.213 ms - 11[0m
+[0mGET / [32m200 [0m0.386 ms - 11[0m
+[0mGET / [32m200 [0m6.474 ms - 11[0m
+[0mGET / [32m200 [0m1.508 ms - 11[0m
+[0mGET / [32m200 [0m1.701 ms - 11[0m
+[0mGET / [32m200 [0m1.648 ms - 11[0m
+[0mGET / [32m200 [0m1.110 ms - 11[0m
+[0mGET / [32m200 [0m14.664 ms - 11[0m
+[0mGET / [32m200 [0m7.012 ms - 11[0m
+[0mGET / [32m200 [0m0.717 ms - 11[0m
+[0mGET / [32m200 [0m1.597 ms - 11[0m
+[0mGET / [32m200 [0m8.177 ms - 11[0m
+[0mGET / [32m200 [0m0.774 ms - 11[0m
+[0mGET / [32m200 [0m0.364 ms - 11[0m
+[0mGET / [32m200 [0m0.867 ms - 11[0m
+[0mGET / [32m200 [0m1.180 ms - 11[0m
+[0mGET / [32m200 [0m0.735 ms - 11[0m
+[0mGET / [32m200 [0m0.469 ms - 11[0m
+[0mGET / [32m200 [0m3.714 ms - 11[0m
+[0mGET / [32m200 [0m6.790 ms - 11[0m
+[0mGET / [32m200 [0m0.952 ms - 11[0m
+[0mGET / [32m200 [0m1.540 ms - 11[0m
+[0mGET / [32m200 [0m0.325 ms - 11[0m
+[0mGET / [32m200 [0m2.694 ms - 11[0m
+[0mGET / [32m200 [0m3.236 ms - 11[0m
+[0mGET / [32m200 [0m0.583 ms - 11[0m
+[0mGET / [32m200 [0m4.300 ms - 11[0m
+[0mGET / [32m200 [0m6.740 ms - 11[0m
+[0mGET / [32m200 [0m0.832 ms - 11[0m
+[0mGET / [32m200 [0m1.457 ms - 11[0m
+[0mGET / [32m200 [0m8.301 ms - 11[0m
+[0mGET / [32m200 [0m2.296 ms - 11[0m
+[0mGET / [32m200 [0m0.341 ms - 11[0m
+[0mGET / [32m200 [0m0.454 ms - 11[0m
+[0mGET / [32m200 [0m1.162 ms - 11[0m
+[0mGET / [32m200 [0m1.065 ms - 11[0m
+[0mGET / [32m200 [0m6.709 ms - 11[0m
+[0mGET / [32m200 [0m1.348 ms - 11[0m
+[0mGET / [32m200 [0m3.015 ms - 11[0m
+[0mGET / [32m200 [0m7.560 ms - 11[0m
+[0mGET / [32m200 [0m9.721 ms - 11[0m
+[0mGET / [32m200 [0m1.297 ms - 11[0m
+[0mGET / [32m200 [0m6.989 ms - 11[0m
+[0mGET / [32m200 [0m2.594 ms - 11[0m
+[0mGET / [32m200 [0m1.809 ms - 11[0m
+[0mGET / [32m200 [0m7.496 ms - 11[0m
+[0mGET / [32m200 [0m13.394 ms - 11[0m
+[0mGET / [32m200 [0m8.680 ms - 11[0m
+[0mGET / [32m200 [0m10.364 ms - 11[0m
+[0mGET / [32m200 [0m0.491 ms - 11[0m
+[0mGET / [32m200 [0m1.490 ms - 11[0m
+[0mGET / [32m200 [0m11.563 ms - 11[0m
+[0mGET / [32m200 [0m6.384 ms - 11[0m
+[0mGET / [32m200 [0m0.571 ms - 11[0m
+[0mGET / [32m200 [0m1.379 ms - 11[0m
+[0mGET / [32m200 [0m1.603 ms - 11[0m
+[0mGET / [32m200 [0m2.022 ms - 11[0m
+[0mGET / [32m200 [0m0.372 ms - 11[0m
+[0mGET / [32m200 [0m2.111 ms - 11[0m
+[0mGET / [32m200 [0m12.926 ms - 11[0m
+[0mGET / [32m200 [0m1.207 ms - 11[0m
+[0mGET / [32m200 [0m10.992 ms - 11[0m
+[0mGET / [32m200 [0m7.001 ms - 11[0m
+[0mGET / [32m200 [0m1.090 ms - 11[0m
+[0mGET / [32m200 [0m0.922 ms - 11[0m
+[0mGET / [32m200 [0m0.409 ms - 11[0m
+[0mGET / [32m200 [0m0.421 ms - 11[0m
+[0mGET / [32m200 [0m8.482 ms - 11[0m
+[0mGET / [32m200 [0m6.755 ms - 11[0m
+[0mGET / [32m200 [0m1.731 ms - 11[0m
+[0mGET / [32m200 [0m0.455 ms - 11[0m
+[0mGET / [32m200 [0m10.514 ms - 11[0m
+[0mGET / [32m200 [0m0.321 ms - 11[0m
+[0mGET / [32m200 [0m0.472 ms - 11[0m
+[0mGET / [32m200 [0m0.966 ms - 11[0m
+[0mGET / [32m200 [0m9.952 ms - 11[0m
+[0mGET / [32m200 [0m0.938 ms - 11[0m
+[0mGET / [32m200 [0m1.595 ms - 11[0m
+[0mGET / [32m200 [0m0.515 ms - 11[0m
+[0mGET / [32m200 [0m0.963 ms - 11[0m
+[0mGET / [32m200 [0m5.070 ms - 11[0m
+[0mGET / [32m200 [0m1.651 ms - 11[0m
+[0mGET / [32m200 [0m0.969 ms - 11[0m
+[0mGET / [32m200 [0m18.585 ms - 11[0m
+[0mGET / [32m200 [0m12.792 ms - 11[0m
+[0mGET / [32m200 [0m10.243 ms - 11[0m
+[0mGET / [32m200 [0m0.809 ms - 11[0m
+[0mGET / [32m200 [0m3.260 ms - 11[0m
+[0mGET / [32m200 [0m1.834 ms - 11[0m
+[0mGET / [32m200 [0m0.415 ms - 11[0m
+[0mGET / [32m200 [0m2.171 ms - 11[0m
+[0mGET / [32m200 [0m7.767 ms - 11[0m
+[0mGET / [32m200 [0m12.283 ms - 11[0m
+[0mGET / [32m200 [0m1.545 ms - 11[0m
+[0mGET / [32m200 [0m0.381 ms - 11[0m
+[0mGET / [32m200 [0m12.735 ms - 11[0m
+[0mGET / [32m200 [0m9.567 ms - 11[0m
+[0mGET / [32m200 [0m10.150 ms - 11[0m
+[0mGET / [32m200 [0m0.498 ms - 11[0m
+phone number 68425349
+identityId us-east-1:c2324f2f-d14d-46fe-8372-5a88126495be
+get_open_id _phoneNumber 68425349
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:c2324f2f-d14d-46fe-8372-5a88126495be',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6YzIzMjRmMmYtZDE0ZC00NmZlLTgzNzItNWE4ODEyNjQ5NWJlIiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTo2ODQyNTM0OSJdLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbSIsImV4cCI6MTUwMTU4NDM4MSwiaWF0IjoxNTAxNTgwNzgxfQ.ZriTJcKCgN3g3IoNnUi8fOn47fOKgmqhHbZMkcbUJqbx0pNKoIs-CLv6KMuQ8sV1Fi8IwcsMtO1-yLfHWT6LE1YB6h8pgZrFZIPUlClK2IgGOFoLtiIX1Yelot-cJaGC75yHe_LaMLLOWkGUsVbdTHd1R2RfRhGjZ_MR-3Tv1bX8l6H-_Wjd1sFOtLdD-R3wUR8SpHgdq4ayGN3WVwXc321SRBoJQTXF2u-uDAxb1IWRKC0gUJKVIgTUNV5wzYv3Ox5qdEv6scpxaJe7kiGH5irDBIfZxhiqPCZydnKMct2QF8iR3HFugZbgE0pzUCgsZotrbwZHYL_upOroql0Bvw' }
+[0mGET /get_token/684253491234/us-east-1:c2324f2f-d14d-46fe-8372-5a88126495be [32m200 [0m132.618 ms - 902[0m
+[0mGET / [32m200 [0m3.722 ms - 11[0m
+[0mGET / [32m200 [0m4.476 ms - 11[0m
+[0mGET / [32m200 [0m1.191 ms - 11[0m
+[0mGET / [32m200 [0m1.172 ms - 11[0m
+[0mGET / [32m200 [0m9.972 ms - 11[0m
+[0mGET / [32m200 [0m2.018 ms - 11[0m
+[0mGET / [32m200 [0m1.094 ms - 11[0m
+[0mGET / [32m200 [0m0.372 ms - 11[0m
+[0mGET / [32m200 [0m2.929 ms - 11[0m
+[0mGET / [32m200 [0m1.196 ms - 11[0m
+[0mGET / [32m200 [0m0.441 ms - 11[0m
+[0mGET / [32m200 [0m3.151 ms - 11[0m
+[0mGET / [32m200 [0m0.385 ms - 11[0m
+[0mGET / [32m200 [0m6.098 ms - 11[0m
+[0mGET / [32m200 [0m8.945 ms - 11[0m
+[0mGET / [32m200 [0m2.096 ms - 11[0m
+[0mGET / [32m200 [0m9.491 ms - 11[0m
+[0mGET / [32m200 [0m1.078 ms - 11[0m
+[0mGET / [32m200 [0m1.837 ms - 11[0m
+[0mGET / [32m200 [0m1.209 ms - 11[0m
+[0mGET / [32m200 [0m4.455 ms - 11[0m
+[0mGET / [32m200 [0m0.647 ms - 11[0m
+[0mGET / [32m200 [0m1.009 ms - 11[0m
+[0mGET / [32m200 [0m1.780 ms - 11[0m
+io enter middleware
+check player id andrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-59804e94-62a67c2023206b7d3ea232a9","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"Fmq0ngxcRwqUdnw8NhdKRA==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Tue Aug 01 2017 09:49:08 GMT+0000 (UTC)","xdomain":false,"secure":false,"issued":1501580948855,"url":"/socket.io/?EIO=3&playerId=andrewwan&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_id":"andrewwan","onlineStatus":2,"awesome_chips":0}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '297' } } ]
+hmsent awesomeChips {"awesome_id":"andrewwan","onlineStatus":"2","awesome_chips":"297"}
+notify_online {"friend_ids" : ["andrewwan","andrew-chevk","123123123","ant7","andrew","andrew-test","conniechen","awesome","ant8","cara","howareyou","descendentofsun","vincent","ant5","eddy","ivannew","vincent7","ck","testonly","ivanlgv10","ivan","ivanlgpro2","ivan-nokia6","vincent8","samsung","vincent63472","elvis","vincent9","vincent6","vincent31","ant2","ant3","vincent32","vincent5","vincent2","an4","ant1","ant4","vincent28","a3","ivanipad","hellowin","a6","68666666","ant9","wilson"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"awesome_id":"andrewwan","onlineStatus":"2","awesome_chips":"297"}
+hgetallandrewwan
+hgetall{"onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"awesome\",\"eddy\",\"ivan\",\"123123123\",\"vincent5\",\"vincent6\",\"vincent7\",\"eric\",\"andrewwan\",\"vincent8\",\"vincent9\",\"vincent\",\"ivannew\"]","awesome_chips":"894"}
+hgetall123123123
+Send message channel:andrewwan:friend_offline msg:{"friendId":"123123123"}
+Send message channel:andrewwan:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"5f8b0b14-43aa-4cb6-99d4-2b594c6ec444","sender_id":"123123123","message_id":"6989bdc8-8926-44f2-88be-c6c1da41ff10","chat_id":"123123123:andrewwan","recipient_id":"andrewwan"}}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "2016-12-06T02:16:18.914Z_vincent9", "postBy" : "SYSTEM", "dynamoId" : "90db9fcf-5fd8-4ddc-966f-731b1e8a986c", "messageId" : "ce439288-d191-4876-9508-7fb2f544dcb7"},"packet_id":"d6866657-f395-4007-9a98-8b1b5b0014fc"}
+90db9fcf-5fd8-4ddc-966f-731b1e8a986c
+notify_online {"friend_ids" : ["andrewwan","andrew-chevk","123123123","ant7","andrew","andrew-test","conniechen","awesome","ant8","cara","howareyou","descendentofsun","vincent","ant5","eddy","ivannew","vincent7","ck","testonly","ivanlgv10","ivan","ivanlgpro2","ivan-nokia6","vincent8","samsung","vincent63472","elvis","vincent9","vincent6","vincent31","ant2","ant3","vincent32","vincent5","vincent2","an4","ant1","ant4","vincent28","a3","ivanipad","hellowin","a6","68666666","ant9","wilson"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"andrew-chevk\",\"123123123\",\"ant7\",\"andrew\",\"andrew-test\",\"conniechen\",\"awesome\",\"ant8\",\"cara\",\"howareyou\",\"descendentofsun\",\"vincent\",\"ant5\",\"eddy\",\"ivannew\",\"vincent7\",\"ck\",\"testonly\",\"ivanlgv10\",\"ivan\",\"ivanlgpro2\",\"ivan-nokia6\",\"vincent8\",\"samsung\",\"vincent63472\",\"elvis\",\"vincent9\",\"vincent6\",\"vincent31\",\"ant2\",\"ant3\",\"vincent32\",\"vincent5\",\"vincent2\",\"an4\",\"ant1\",\"ant4\",\"vincent28\",\"a3\",\"ivanipad\",\"hellowin\",\"a6\",\"68666666\",\"ant9\",\"wilson\"]","awesome_chips":"297"}
+hgetallandrewwan
+hgetall{"awesome_id":"123123123","onlineStatus":"2","awesome_chips":"894"}
+hgetall123123123
+[0mGET / [32m200 [0m7.624 ms - 11[0m
+[0mGET / [32m200 [0m1.253 ms - 11[0m
+ok
+[0mGET / [32m200 [0m0.509 ms - 11[0m
+[0mGET / [32m200 [0m3.449 ms - 11[0m
+Send message channel:andrewwan:friend_online msg:{"friendId":"123123123"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"H"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"Ho"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"Hof"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"Hofy"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"Hofyo"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"Hofyoo"}
+Send message channel:andrewwan:typing msg:{"friendId":"123123123","text":"Hofyooy"}
+Send message channel:andrewwan:m msg:{"message":"Hofyooy","send_by":"123123123","message_type":"TEXT","message_id":"0A341D1D-E424-421B-A300-4225602C5CF5-1849-00000114885DA56A","chat_id":"123123123:andrewwan","create_at":"2017-08-01T09:49:40.757Z","dynamo_id":"949a7bb1-670b-480e-b2f4-046d3069c0f3","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"123123123:andrewwan","dynamo_id":"949a7bb1-670b-480e-b2f4-046d3069c0f3","message_id":"0A341D1D-E424-421B-A300-4225602C5CF5-1849-00000114885DA56A","recipient_id":"123123123","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"cb7014c2-f005-45e7-b0e3-8ea19be20e08"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "123123123:andrewwan", "postBy" : "123123123", "dynamoId" : "949a7bb1-670b-480e-b2f4-046d3069c0f3", "messageId" : "0A341D1D-E424-421B-A300-4225602C5CF5-1849-00000114885DA56A"},"packet_id":"9568e477-2bf2-4436-ba6d-92afb1c61106"}
+949a7bb1-670b-480e-b2f4-046d3069c0f3
+ok
+notify_online {"friend_ids" : ["andrewwan","andrew-chevk","123123123","ant7","andrew","andrew-test","conniechen","awesome","ant8","cara","howareyou","descendentofsun","vincent","ant5","eddy","ivannew","vincent7","ck","testonly","ivanlgv10","ivan","ivanlgpro2","ivan-nokia6","vincent8","samsung","vincent63472","elvis","vincent9","vincent6","vincent31","ant2","ant3","vincent32","vincent5","vincent2","an4","ant1","ant4","vincent28","a3","ivanipad","hellowin","a6","68666666","ant9","wilson"]}
+hgetall{"onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"andrew-chevk\",\"123123123\",\"ant7\",\"andrew\",\"andrew-test\",\"conniechen\",\"awesome\",\"ant8\",\"cara\",\"howareyou\",\"descendentofsun\",\"vincent\",\"ant5\",\"eddy\",\"ivannew\",\"vincent7\",\"ck\",\"testonly\",\"ivanlgv10\",\"ivan\",\"ivanlgpro2\",\"ivan-nokia6\",\"vincent8\",\"samsung\",\"vincent63472\",\"elvis\",\"vincent9\",\"vincent6\",\"vincent31\",\"ant2\",\"ant3\",\"vincent32\",\"vincent5\",\"vincent2\",\"an4\",\"ant1\",\"ant4\",\"vincent28\",\"a3\",\"ivanipad\",\"hellowin\",\"a6\",\"68666666\",\"ant9\",\"wilson\"]","awesome_chips":"297"}
+hgetallandrewwan
+hgetall{"onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"awesome\",\"eddy\",\"ivan\",\"123123123\",\"vincent5\",\"vincent6\",\"vincent7\",\"eric\",\"andrewwan\",\"vincent8\",\"vincent9\",\"vincent\",\"ivannew\"]","awesome_chips":"894"}
+hgetall123123123
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"123123123"}
+notify_online {"friend_ids" : ["andrewwan","andrew-chevk","123123123","ant7","andrew","andrew-test","conniechen","awesome","ant8","cara","howareyou","descendentofsun","vincent","ant5","eddy","ivannew","vincent7","ck","testonly","ivanlgv10","ivan","ivanlgpro2","ivan-nokia6","vincent8","samsung","vincent63472","elvis","vincent9","vincent6","vincent31","ant2","ant3","vincent32","vincent5","vincent2","an4","ant1","ant4","vincent28","a3","ivanipad","hellowin","a6","68666666","ant9","wilson"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"andrew-chevk\",\"123123123\",\"ant7\",\"andrew\",\"andrew-test\",\"conniechen\",\"awesome\",\"ant8\",\"cara\",\"howareyou\",\"descendentofsun\",\"vincent\",\"ant5\",\"eddy\",\"ivannew\",\"vincent7\",\"ck\",\"testonly\",\"ivanlgv10\",\"ivan\",\"ivanlgpro2\",\"ivan-nokia6\",\"vincent8\",\"samsung\",\"vincent63472\",\"elvis\",\"vincent9\",\"vincent6\",\"vincent31\",\"ant2\",\"ant3\",\"vincent32\",\"vincent5\",\"vincent2\",\"an4\",\"ant1\",\"ant4\",\"vincent28\",\"a3\",\"ivanipad\",\"hellowin\",\"a6\",\"68666666\",\"ant9\",\"wilson\"]","awesome_chips":"297"}
+hgetallandrewwan
+hgetall{"onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"awesome\",\"eddy\",\"ivan\",\"123123123\",\"vincent5\",\"vincent6\",\"vincent7\",\"eric\",\"andrewwan\",\"vincent8\",\"vincent9\",\"vincent\",\"ivannew\"]","awesome_chips":"894"}
+hgetall123123123
+[0mGET / [32m200 [0m1.963 ms - 11[0m
+[0mGET / [32m200 [0m0.392 ms - 11[0m
+[0mGET / [32m200 [0m0.520 ms - 11[0m
+[0mGET / [32m200 [0m8.706 ms - 11[0m
+Send message channel:andrewwan:friend_online msg:{"friendId":"123123123"}
+notify_online {"friend_ids" : ["andrewwan","andrew-chevk","123123123","ant7","andrew","andrew-test","conniechen","awesome","ant8","cara","howareyou","descendentofsun","vincent","ant5","eddy","ivannew","vincent7","ck","testonly","ivanlgv10","ivan","ivanlgpro2","ivan-nokia6","vincent8","samsung","vincent63472","elvis","vincent9","vincent6","vincent31","ant2","ant3","vincent32","vincent5","vincent2","an4","ant1","ant4","vincent28","a3","ivanipad","hellowin","a6","68666666","ant9","wilson"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"andrew-chevk\",\"123123123\",\"ant7\",\"andrew\",\"andrew-test\",\"conniechen\",\"awesome\",\"ant8\",\"cara\",\"howareyou\",\"descendentofsun\",\"vincent\",\"ant5\",\"eddy\",\"ivannew\",\"vincent7\",\"ck\",\"testonly\",\"ivanlgv10\",\"ivan\",\"ivanlgpro2\",\"ivan-nokia6\",\"vincent8\",\"samsung\",\"vincent63472\",\"elvis\",\"vincent9\",\"vincent6\",\"vincent31\",\"ant2\",\"ant3\",\"vincent32\",\"vincent5\",\"vincent2\",\"an4\",\"ant1\",\"ant4\",\"vincent28\",\"a3\",\"ivanipad\",\"hellowin\",\"a6\",\"68666666\",\"ant9\",\"wilson\"]","awesome_chips":"297"}
+hgetallandrewwan
+hgetall{"onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"awesome\",\"eddy\",\"ivan\",\"123123123\",\"vincent5\",\"vincent6\",\"vincent7\",\"eric\",\"andrewwan\",\"vincent8\",\"vincent9\",\"vincent\",\"ivannew\"]","awesome_chips":"894"}
+hgetall123123123
+Send message channel:andrewwan:game msg:{"cmd":2001,"custom":2,"msg":"123123123"}
+Send message channel:andrewwan:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"1\",\"chips\":\"894\"}]"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"123123123"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"andrewwan,andrew-chevk,123123123,ant7,andrew,andrew-test,conniechen,awesome,ant8,cara,howareyou,descendentofsun,vincent,ant5,eddy,ivannew,vincent7,ck,testonly,ivanlgv10,ivan,ivanlgpro2,ivan-nokia6,vincent8,samsung,vincent63472,elvis,vincent9,vincent6"}
+Send message channel:andrewwan:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"894\"}]"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"andrewwan,andrew-chevk,123123123,ant7,andrew,andrew-test,conniechen,awesome,ant8,cara,howareyou,descendentofsun,vincent,ant5,eddy,ivannew,vincent7,ck,testonly,ivanlgv10,ivan,ivanlgpro2,ivan-nokia6,vincent8,samsung,vincent63472,elvis,vincent9,vincent6"}
+Send message channel:andrewwan:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"894\"}]"}
+notify_online {"friend_ids" : ["andrewwan","andrew-chevk","123123123","ant7","andrew","andrew-test","conniechen","awesome","ant8","cara","howareyou","descendentofsun","vincent","ant5","eddy","ivannew","vincent7","ck","testonly","ivanlgv10","ivan","ivanlgpro2","ivan-nokia6","vincent8","samsung","vincent63472","elvis","vincent9","vincent6","vincent31","ant2","ant3","vincent32","vincent5","vincent2","an4","ant1","ant4","vincent28","a3","ivanipad","hellowin","a6","68666666","ant9","wilson"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"andrew-chevk\",\"123123123\",\"ant7\",\"andrew\",\"andrew-test\",\"conniechen\",\"awesome\",\"ant8\",\"cara\",\"howareyou\",\"descendentofsun\",\"vincent\",\"ant5\",\"eddy\",\"ivannew\",\"vincent7\",\"ck\",\"testonly\",\"ivanlgv10\",\"ivan\",\"ivanlgpro2\",\"ivan-nokia6\",\"vincent8\",\"samsung\",\"vincent63472\",\"elvis\",\"vincent9\",\"vincent6\",\"vincent31\",\"ant2\",\"ant3\",\"vincent32\",\"vincent5\",\"vincent2\",\"an4\",\"ant1\",\"ant4\",\"vincent28\",\"a3\",\"ivanipad\",\"hellowin\",\"a6\",\"68666666\",\"ant9\",\"wilson\"]","awesome_chips":"297"}
+hgetallandrewwan
+hgetall{"onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"awesome\",\"eddy\",\"ivan\",\"123123123\",\"vincent5\",\"vincent6\",\"vincent7\",\"eric\",\"andrewwan\",\"vincent8\",\"vincent9\",\"vincent\",\"ivannew\"]","awesome_chips":"894"}
+hgetall123123123
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MISCONF Redis is configured to save RDB snapshots, but it is currently not able to persist on disk. Commands that may modify the data set are disabled, because this instance is configured to report errors during writes if RDB snapshotting fails (stop-writes-on-bgsave-error option). Please check the Redis logs for details about the RDB error.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+Tue Aug 01 2017 09:50:29 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2451
+tcpPort listening 3008
+======================
+Server listening at port 3008
+[0mGET / [32m200 [0m12.859 ms - 11[0m
+[0mGET / [32m200 [0m18.308 ms - 11[0m
+[0mGET / [32m200 [0m5.333 ms - 11[0m
+[0mGET / [32m200 [0m11.400 ms - 11[0m
+[0mGET / [32m200 [0m7.259 ms - 11[0m
+[0mGET / [32m200 [0m1.288 ms - 11[0m
+[0mGET / [32m200 [0m14.802 ms - 11[0m
+[0mGET / [32m200 [0m6.113 ms - 11[0m
+[0mGET / [32m200 [0m1.505 ms - 11[0m
+[0mGET / [32m200 [0m0.373 ms - 11[0m
+[0mGET / [32m200 [0m1.237 ms - 11[0m
+[0mGET / [32m200 [0m3.964 ms - 11[0m
+[0mGET / [32m200 [0m1.110 ms - 11[0m
+[0mGET / [32m200 [0m2.437 ms - 11[0m
+[0mGET / [32m200 [0m2.227 ms - 11[0m
+[0mGET / [32m200 [0m1.605 ms - 11[0m
+[0mGET / [32m200 [0m7.096 ms - 11[0m
+[0mGET / [32m200 [0m0.357 ms - 11[0m
+[0mGET / [32m200 [0m2.054 ms - 11[0m
+[0mGET / [32m200 [0m4.987 ms - 11[0m
+[0mGET / [32m200 [0m0.484 ms - 11[0m
+[0mGET / [32m200 [0m1.295 ms - 11[0m
+[0mGET / [32m200 [0m1.760 ms - 11[0m
+[0mGET / [32m200 [0m0.790 ms - 11[0m
+[0mGET / [32m200 [0m1.793 ms - 11[0m
+[0mGET / [32m200 [0m12.194 ms - 11[0m
+[0mGET / [32m200 [0m5.191 ms - 11[0m
+[0mGET / [32m200 [0m1.672 ms - 11[0m
+[0mGET / [32m200 [0m3.704 ms - 11[0m
+[0mGET / [32m200 [0m0.845 ms - 11[0m
+[0mGET / [32m200 [0m1.710 ms - 11[0m
+[0mGET / [32m200 [0m0.482 ms - 11[0m
+[0mGET / [32m200 [0m13.201 ms - 11[0m
+[0mGET / [32m200 [0m4.650 ms - 11[0m
+[0mGET / [32m200 [0m2.681 ms - 11[0m
+[0mGET / [32m200 [0m0.891 ms - 11[0m
+[0mGET / [32m200 [0m10.684 ms - 11[0m
+[0mGET / [32m200 [0m11.096 ms - 11[0m
+[0mGET / [32m200 [0m4.611 ms - 11[0m
+[0mGET / [32m200 [0m1.681 ms - 11[0m
+[0mGET / [32m200 [0m9.463 ms - 11[0m
+[0mGET / [32m200 [0m7.570 ms - 11[0m
+[0mGET / [32m200 [0m0.695 ms - 11[0m
+[0mGET / [32m200 [0m8.273 ms - 11[0m
+[0mGET / [32m200 [0m1.141 ms - 11[0m
+[0mGET / [32m200 [0m1.926 ms - 11[0m
+[0mGET / [32m200 [0m13.801 ms - 11[0m
+[0mGET / [32m200 [0m10.743 ms - 11[0m
+[0mGET / [32m200 [0m9.323 ms - 11[0m
+[0mGET / [32m200 [0m6.185 ms - 11[0m
+[0mGET / [32m200 [0m2.458 ms - 11[0m
+[0mGET / [32m200 [0m0.372 ms - 11[0m
+[0mGET / [32m200 [0m11.498 ms - 11[0m
+[0mGET / [32m200 [0m11.420 ms - 11[0m
+[0mGET / [32m200 [0m2.600 ms - 11[0m
+[0mGET / [32m200 [0m1.724 ms - 11[0m
+[0mGET / [32m200 [0m9.726 ms - 11[0m
+[0mGET / [32m200 [0m3.127 ms - 11[0m
+[0mGET / [32m200 [0m3.086 ms - 11[0m
+[0mGET / [32m200 [0m2.255 ms - 11[0m
+[0mGET / [32m200 [0m0.548 ms - 11[0m
+[0mGET / [32m200 [0m1.565 ms - 11[0m
+[0mGET / [32m200 [0m11.898 ms - 11[0m
+[0mGET / [32m200 [0m4.916 ms - 11[0m
+[0mGET / [32m200 [0m6.086 ms - 11[0m
+[0mGET / [32m200 [0m5.343 ms - 11[0m
+[0mGET / [32m200 [0m5.969 ms - 11[0m
+[0mGET / [32m200 [0m1.309 ms - 11[0m
+[0mGET / [32m200 [0m2.674 ms - 11[0m
+[0mGET / [32m200 [0m1.368 ms - 11[0m
+[0mGET / [32m200 [0m7.674 ms - 11[0m
+[0mGET / [32m200 [0m2.438 ms - 11[0m
+[0mGET / [32m200 [0m1.986 ms - 11[0m
+[0mGET / [32m200 [0m1.717 ms - 11[0m
+[0mGET / [32m200 [0m7.404 ms - 11[0m
+[0mGET / [32m200 [0m2.262 ms - 11[0m
+[0mGET / [32m200 [0m2.693 ms - 11[0m
+[0mGET / [32m200 [0m5.247 ms - 11[0m
+[0mGET / [32m200 [0m1.688 ms - 11[0m
+[0mGET / [32m200 [0m0.760 ms - 11[0m
+[0mGET / [32m200 [0m4.300 ms - 11[0m
+[0mGET / [32m200 [0m7.906 ms - 11[0m
+[0mGET / [32m200 [0m1.585 ms - 11[0m
+[0mGET / [32m200 [0m0.517 ms - 11[0m
+[0mGET / [32m200 [0m9.318 ms - 11[0m
+[0mGET / [32m200 [0m8.303 ms - 11[0m
+[0mGET / [32m200 [0m1.555 ms - 11[0m
+[0mGET / [32m200 [0m12.887 ms - 11[0m
+[0mGET / [32m200 [0m0.542 ms - 11[0m
+[0mGET / [32m200 [0m0.369 ms - 11[0m
+[0mGET / [32m200 [0m0.626 ms - 11[0m
+[0mGET / [32m200 [0m0.429 ms - 11[0m
+[0mGET / [32m200 [0m2.936 ms - 11[0m
+[0mGET / [32m200 [0m1.576 ms - 11[0m
+[0mGET / [32m200 [0m1.361 ms - 11[0m
+[0mGET / [32m200 [0m0.847 ms - 11[0m
+[0mGET / [32m200 [0m1.541 ms - 11[0m
+[0mGET / [32m200 [0m2.018 ms - 11[0m
+[0mGET / [32m200 [0m13.771 ms - 11[0m
+[0mGET / [32m200 [0m1.051 ms - 11[0m
+[0mGET / [32m200 [0m2.308 ms - 11[0m
+[0mGET / [32m200 [0m2.126 ms - 11[0m
+[0mGET / [32m200 [0m1.357 ms - 11[0m
+[0mGET / [32m200 [0m2.050 ms - 11[0m
+[0mGET / [32m200 [0m0.374 ms - 11[0m
+[0mGET / [32m200 [0m0.913 ms - 11[0m
+[0mGET / [32m200 [0m3.725 ms - 11[0m
+[0mGET / [32m200 [0m6.624 ms - 11[0m
+[0mGET / [32m200 [0m16.516 ms - 11[0m
+[0mGET / [32m200 [0m0.356 ms - 11[0m
+[0mGET / [32m200 [0m6.073 ms - 11[0m
+[0mGET / [32m200 [0m2.688 ms - 11[0m
+[0mGET / [32m200 [0m0.622 ms - 11[0m
+[0mGET / [32m200 [0m1.041 ms - 11[0m
+[0mGET / [32m200 [0m0.979 ms - 11[0m
+[0mGET / [32m200 [0m0.341 ms - 11[0m
+[0mGET / [32m200 [0m1.898 ms - 11[0m
+[0mGET / [32m200 [0m2.287 ms - 11[0m
+[0mGET / [32m200 [0m0.951 ms - 11[0m
+[0mGET / [32m200 [0m2.931 ms - 11[0m
+[0mGET / [32m200 [0m0.410 ms - 11[0m
+[0mGET / [32m200 [0m0.471 ms - 11[0m
+[0mGET / [32m200 [0m1.438 ms - 11[0m
+[0mGET / [32m200 [0m0.375 ms - 11[0m
+[0mGET / [32m200 [0m1.652 ms - 11[0m
+[0mGET / [32m200 [0m2.056 ms - 11[0m
+[0mGET / [32m200 [0m1.489 ms - 11[0m
+[0mGET / [32m200 [0m4.714 ms - 11[0m
+[0mGET / [32m200 [0m0.401 ms - 11[0m
+[0mGET / [32m200 [0m0.942 ms - 11[0m
+[0mGET / [32m200 [0m9.513 ms - 11[0m
+[0mGET / [32m200 [0m15.834 ms - 11[0m
+[0mGET / [32m200 [0m1.546 ms - 11[0m
+[0mGET / [32m200 [0m1.124 ms - 11[0m
+[0mGET / [32m200 [0m7.313 ms - 11[0m
+[0mGET / [32m200 [0m0.950 ms - 11[0m
+[0mGET / [32m200 [0m13.680 ms - 11[0m
+[0mGET / [32m200 [0m0.936 ms - 11[0m
+[0mGET / [32m200 [0m0.438 ms - 11[0m
+[0mGET / [32m200 [0m0.427 ms - 11[0m
+[0mGET / [32m200 [0m0.456 ms - 11[0m
+[0mGET / [32m200 [0m0.957 ms - 11[0m
+[0mGET / [32m200 [0m3.447 ms - 11[0m
+[0mGET / [32m200 [0m1.207 ms - 11[0m
+[0mGET / [32m200 [0m3.361 ms - 11[0m
+[0mGET / [32m200 [0m2.114 ms - 11[0m
+[0mGET / [32m200 [0m1.547 ms - 11[0m
+[0mGET / [32m200 [0m3.088 ms - 11[0m
+[0mGET / [32m200 [0m0.384 ms - 11[0m
+[0mGET / [32m200 [0m3.992 ms - 11[0m
+[0mGET / [32m200 [0m2.484 ms - 11[0m
+[0mGET / [32m200 [0m2.296 ms - 11[0m
+[0mGET / [32m200 [0m1.572 ms - 11[0m
+[0mGET / [32m200 [0m1.024 ms - 11[0m
+[0mGET / [32m200 [0m15.706 ms - 11[0m
+[0mGET / [32m200 [0m6.896 ms - 11[0m
+[0mGET / [32m200 [0m19.581 ms - 11[0m
+[0mGET / [32m200 [0m4.785 ms - 11[0m
+[0mGET / [32m200 [0m6.569 ms - 11[0m
+[0mGET / [32m200 [0m1.004 ms - 11[0m
+[0mGET / [32m200 [0m1.814 ms - 11[0m
+[0mGET / [32m200 [0m7.337 ms - 11[0m
+[0mGET / [32m200 [0m1.956 ms - 11[0m
+[0mGET / [32m200 [0m2.203 ms - 11[0m
+[0mGET / [32m200 [0m4.955 ms - 11[0m
+[0mGET / [32m200 [0m1.998 ms - 11[0m
+[0mGET / [32m200 [0m3.579 ms - 11[0m
+[0mGET / [32m200 [0m0.416 ms - 11[0m
+[0mGET / [32m200 [0m9.836 ms - 11[0m
+[0mGET / [32m200 [0m0.845 ms - 11[0m
+[0mGET / [32m200 [0m0.515 ms - 11[0m
+[0mGET / [32m200 [0m2.662 ms - 11[0m
+[0mGET / [32m200 [0m1.298 ms - 11[0m
+[0mGET / [32m200 [0m3.522 ms - 11[0m
+[0mGET / [32m200 [0m5.197 ms - 11[0m
+[0mGET / [32m200 [0m2.281 ms - 11[0m
+[0mGET / [32m200 [0m1.329 ms - 11[0m
+[0mGET / [32m200 [0m1.451 ms - 11[0m
+[0mGET / [32m200 [0m2.115 ms - 11[0m
+[0mGET / [32m200 [0m3.372 ms - 11[0m
+[0mGET / [32m200 [0m0.486 ms - 11[0m
+[0mGET / [32m200 [0m8.234 ms - 11[0m
+[0mGET / [32m200 [0m1.579 ms - 11[0m
+[0mGET / [32m200 [0m2.088 ms - 11[0m
+[0mGET / [32m200 [0m5.236 ms - 11[0m
+[0mGET / [32m200 [0m1.678 ms - 11[0m
+[0mGET / [32m200 [0m1.664 ms - 11[0m
+[0mGET / [32m200 [0m0.794 ms - 11[0m
+[0mGET / [32m200 [0m0.544 ms - 11[0m
+[0mGET / [32m200 [0m0.459 ms - 11[0m
+[0mGET / [32m200 [0m6.181 ms - 11[0m
+[0mGET / [32m200 [0m6.359 ms - 11[0m
+[0mGET / [32m200 [0m11.057 ms - 11[0m
+[0mGET / [32m200 [0m0.833 ms - 11[0m
+[0mGET / [32m200 [0m2.919 ms - 11[0m
+[0mGET / [32m200 [0m10.860 ms - 11[0m
+[0mGET / [32m200 [0m3.508 ms - 11[0m
+[0mGET / [32m200 [0m1.390 ms - 11[0m
+[0mGET / [32m200 [0m3.389 ms - 11[0m
+[0mGET / [32m200 [0m0.821 ms - 11[0m
+[0mGET / [32m200 [0m1.223 ms - 11[0m
+[0mGET / [32m200 [0m1.588 ms - 11[0m
+[0mGET / [32m200 [0m1.627 ms - 11[0m
+[0mGET / [32m200 [0m0.812 ms - 11[0m
+[0mGET / [32m200 [0m21.532 ms - 11[0m
+[0mGET / [32m200 [0m13.852 ms - 11[0m
+[0mGET / [32m200 [0m0.465 ms - 11[0m
+[0mGET / [32m200 [0m1.037 ms - 11[0m
+[0mGET / [32m200 [0m1.548 ms - 11[0m
+[0mGET / [32m200 [0m1.355 ms - 11[0m
+[0mGET / [32m200 [0m9.413 ms - 11[0m
+[0mGET / [32m200 [0m11.716 ms - 11[0m
+[0mGET / [32m200 [0m7.272 ms - 11[0m
+[0mGET / [32m200 [0m0.390 ms - 11[0m
+[0mGET / [32m200 [0m8.957 ms - 11[0m
+[0mGET / [32m200 [0m12.090 ms - 11[0m
+[0mGET / [32m200 [0m7.027 ms - 11[0m
+[0mGET / [32m200 [0m2.484 ms - 11[0m
+[0mGET / [32m200 [0m9.783 ms - 11[0m
+[0mGET / [32m200 [0m8.344 ms - 11[0m
+[0mGET / [32m200 [0m13.578 ms - 11[0m
+[0mGET / [32m200 [0m7.531 ms - 11[0m
+[0mGET / [32m200 [0m2.719 ms - 11[0m
+[0mGET / [32m200 [0m8.722 ms - 11[0m
+[0mGET / [32m200 [0m16.197 ms - 11[0m
+[0mGET / [32m200 [0m16.344 ms - 11[0m
+[0mGET / [32m200 [0m2.169 ms - 11[0m
+[0mGET / [32m200 [0m0.518 ms - 11[0m

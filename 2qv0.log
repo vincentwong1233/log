@@ -1,0 +1,2424 @@
+ok
+Config
+2017-08-09T10:26:22.954Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+io enter middleware
+before decrypt tGpmpoczuJJaGKH8nCL/bQ==
+after decrypt vincent7
+Player ID isvincent7
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598ae34f-30d93c24478af73b38d8c4e7","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"anNmaW11amptbWJybmxpag=="},"time":"Wed Aug 09 2017 10:26:23 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502274383900,"url":"/socket.io/?transport=websocket&pass=tGpmpoczuJJaGKH8nCL%2FbQ%3D%3D&playerId=vincent7","query":{"transport":"websocket","pass":"tGpmpoczuJJaGKH8nCL/bQ==","playerId":"vincent7"}}
+player id vincent7
+hmsent register {"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":12,"awesome_chips":"95770","onlineStatus":"2"}
+[ { id: { S: 'vincent7' }, awesome_chips: { N: '95770' } } ]
+hmsent awesomeChips {"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95770","onlineStatus":"2"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,vincent9,andrewwan,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,vincent9,andrewwan,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95770","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"5","awesome_chips":"1782","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"5","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"4","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1782\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"}]"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1782\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"}]"}
+encrypted phone number a4YhnIh2OFsokuZNsDJhuw==
+encrypted country code ee+yuOXCLtUQ0mvDOiDtrA==
+country code 
+phone number phone_number
+identityId us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55
+get_open_id _phoneNumber phone_number
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NzIxZTUwMTUtODJkYy00ZGRkLTliNzgtOTg3MDg3ZGQxYTU1IiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTpwaG9uZV9udW1iZXIiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJleHAiOjE1MDIyNzc5ODQsImlhdCI6MTUwMjI3NDM4NH0.f2ULQ5ITm_wZ4EiYA2OP8_x-N2wJOHSe4fCdev7mN3fMEMhhajheKvuLSrXmWv3psFWJVULHgdMG24Xju7RrFdY9o7wYKEE6U_al6T8Ua97Sbkxj9ZLi2Hi3Y7Lf8_jO0G5BeHOOcmUhCC0wrmoWsUS0tWNIEOAGOZgnWA9m3m8GX2nhnFZkSeOqvCJvmghpzLTd6J6BdPX_s7NF-0VU7NVeXgO6sz2-cLTd7aABf6P9Q2cEeGXz_PZUreinXdvPJEJaqflTKGQc8FC4i86xpc9nWc7ljGLccoWB2CTEQN6g9M8fYY_O3zZWMJntYOijGkf6bJwT17J-WzAitKymSw' }
+[0mGET /get_token/a4YhnIh2OFsokuZNsDJhuw==/ee+yuOXCLtUQ0mvDOiDtrA==/us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55 [32m200 [0m121.056 ms - 907[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,vincent9,andrewwan,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1782\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95770","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"5","awesome_chips":"1782","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"5","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"4","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+[0mGET / [32m200 [0m10.836 ms - 11[0m
+[0mGET / [32m200 [0m10.510 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,vincent9,andrewwan,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1972\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1001,"custom":1,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1001
+Custom Use: 1
+Message: vincent7,vincent9
+========================================================================
+==========================invite friends================================
+========================================================================
+vincent7 send to player 2 successful vincent9 2001
+send return to the player 1,send successful 1001
+update player: vincent7 status: 1
+Send message channel:vincent7:game msg:{"cmd":1001,"custom":200,"msg":"successful"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent7\",\"onlineStatus\":\"1\",\"chips\":\"95770\"}]"}
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598ae361-04372dc5118e88a81fec7fb1","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"QFnDCvJ2oE0wEzYjdLWiMw==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:26:41 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":false,"secure":false,"issued":1502274401701,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":6,"awesome_chips":"99779","onlineStatus":"2"}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '99779' } } ]
+hmsent awesomeChips {"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"6","awesome_chips":"99779","onlineStatus":"2"}
+disconnect andrewwan
+disconnect count 5
+node_redis: Deprecated: The HMSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent9\",\"onlineStatus\":\"1\",\"chips\":\"1972\"}]"}
+Send message channel:vincent7:game msg:{"cmd":2002,"custom":2,"msg":"vincent9"}
+game {"header":"game","cmd":1011,"custom":1,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1011
+Custom Use: 1
+Message: vincent7,vincent9
+========================================================================
+=============================approve invite=============================
+========================================================================
+vincent7 send to player 2 successful vincent9 2011
+send return to the player 1,send successful 1011
+Send message channel:vincent7:game msg:{"cmd":1011,"custom":200,"msg":"successful"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95770","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"1972","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"7","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+[0mGET / [32m200 [0m1.126 ms - 11[0m
+[0mGET / [32m200 [0m2.316 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1972\"}]"}
+game {"header":"game","cmd":1003,"custom":1,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1003
+Custom Use: 1
+Message: vincent7,vincent9
+========================================================================
+==========================start game====================================
+========================================================================
+friend player id vincent9
+friend chips 1972
+my chips 95770
+send to player 2 successful vincent9 2003
+send return to the player 1,send successful 1003
+findGamePair find failed vincent7:vincent9
+two====vincent7 cal chips -10====
+two====vincent9 cal chips -10====
+------_add_awesome_chips_transaction-----
+awesome_id:vincent7
+chips_transform:-10
+create_at:2017-08-09T10:26:49.852Z
+current_awesome_chips:null
+------_add_awesome_chips_transaction-----
+awesome_id:vincent9
+chips_transform:-10
+create_at:2017-08-09T10:26:49.852Z
+current_awesome_chips:null
+add game pair success vincent7:vincent9 {"p1PlayerId":"vincent7","p2PlayerId":"vincent9","pairId":"vincent7:vincent9"}
+Send message channel:vincent7:game msg:{"cmd":1003,"custom":200,"msg":"successful"}
+==========
+[ { id: { S: 'vincent7' }, awesome_chips: { N: '95770' } } ]
+current_awesome_chips95770
+-----update_awesome_chips------
+awesome_id:vincent7
+current_awesome_chips:95770
+chips_transform:-10
+==========
+[ { id: { S: 'vincent9' }, awesome_chips: { N: '1972' } } ]
+current_awesome_chips1972
+-----update_awesome_chips------
+awesome_id:vincent9
+current_awesome_chips:1972
+chips_transform:-10
+{ status: 'success',
+  awesome_id: 'vincent9',
+  awesome_chips: '1962',
+  message: 'awesome chips have been updated' }
+set chips vincent9 chips 1962
+add_awesome_chips_transaction -1 
+{ status: 'success',
+  awesome_id: 'vincent9',
+  awesome_chips: '1962',
+  message: 'awesome chips have been updated' }
+{ status: 'success',
+  awesome_id: 'vincent7',
+  awesome_chips: '95760',
+  message: 'awesome chips have been updated' }
+set chips vincent7 chips 95760
+update player: [object Object] status: 2
+add_awesome_chips_transaction -1 
+{ status: 'success',
+  awesome_id: 'vincent7',
+  awesome_chips: '95760',
+  message: 'awesome chips have been updated' }
+node_redis: Deprecated: The HGETALL command contains a argument of type Socket.
+This is converted to "[object Object]" by using .toString() now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Send message channel:vincent7:game msg:{"cmd":2003,"custom":200,"msg":"vincent9"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1972\"}]"}
+========================================================================
+========================getChipsAndSendToFriends========================
+========================================================================
+getChipsAndSendToFriends vincent9
+========================================================================
+========================getChipsAndSendToFriends========================
+========================================================================
+getChipsAndSendToFriends vincent7
+[ { id: { S: 'vincent7' }, awesome_chips: { N: '95760' } } ]
+vincent7 get awesome chips 95760
+[ { id: { S: 'vincent9' }, awesome_chips: { N: '1962' } } ]
+vincent9 get awesome chips 1962
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|4.000000:3.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|4.000000:3.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95760","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"1962","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"7","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1962\"}]"}
+[0mGET / [32m200 [0m1.791 ms - 11[0m
+[0mGET / [32m200 [0m1.688 ms - 11[0m
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"0.000000:2.000000"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1962\"}]"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|3.000000:4.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|3.000000:4.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95760","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"1962","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"7","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+[0mGET / [32m200 [0m0.607 ms - 11[0m
+[0mGET / [32m200 [0m1.051 ms - 11[0m
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"0.000000:0.000000"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1962\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|2.000000:2.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|2.000000:2.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"0.000000:1.000000"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|2.000000:1.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|2.000000:1.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"1.000000:3.000000"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95760","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"1962","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"7","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1962\"}]"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|3.000000:2.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|3.000000:2.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"0.000000:3.000000"}
+game {"header":"game","cmd":1005,"custom":2,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1005
+Custom Use: 2
+Message: vincent7,vincent9
+========================================================================
+==================================game end==============================
+========================================================================
+client vincent7 vs vincent9 [object Object]
+findGamePair find success vincent7:vincent9 {"p1PlayerId":"vincent7","p2PlayerId":"vincent9","pairId":"vincent7:vincent9"}
+========================================================================
+============================win or lose player==========================
+========================================================================
+competition is{"p1PlayerId":"vincent7","p2PlayerId":"vincent9","pairId":"vincent7:vincent9","p1Result":2}
+Send message channel:vincent7:game msg:{"cmd":2005,"custom":"2","msg":"vincent9"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"1962\"}]"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent7\",\"onlineStatus\":\"2\",\"chips\":\"95760\"}]"}
+[0mGET / [32m200 [0m0.513 ms - 11[0m
+[0mGET / [32m200 [0m2.528 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2062\"}]"}
+game {"header":"game","cmd":1008,"custom":1,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1008
+Custom Use: 1
+Message: vincent7,vincent9
+========================================================================
+==========================request to replay=============================
+========================================================================
+vincent7 send to player 2 successful vincent9 2008
+send return to the player 1,send successful 1008
+Send message channel:vincent7:game msg:{"cmd":1008,"custom":200,"msg":"successful"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:vincent7:game msg:{"cmd":2010,"custom":2,"msg":"vincent9"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent9\",\"onlineStatus\":\"1\",\"chips\":\"2062\"}]"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent7\",\"onlineStatus\":\"1\",\"chips\":\"95660\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95660","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2062","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"8","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+[0mGET / [32m200 [0m0.621 ms - 11[0m
+[0mGET / [32m200 [0m1.213 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2062\"}]"}
+Send message channel:vincent7:game msg:{"cmd":2003,"custom":200,"msg":"vincent9"}
+game {"header":"game","cmd":1003,"custom":1,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1003
+Custom Use: 1
+Message: vincent7,vincent9
+========================================================================
+==========================start game====================================
+========================================================================
+friend player id vincent9
+friend chips 2062
+my chips 95660
+send to player 2 successful vincent9 2003
+send return to the player 1,send successful 1003
+Send message channel:vincent7:game msg:{"cmd":1003,"custom":200,"msg":"successful"}
+findGamePair find success vincent7:vincent9 {"p1PlayerId":"vincent9","p2PlayerId":"vincent7","pairId":"vincent7:vincent9"}
+add game pair failed vincent7:vincent9
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2062\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"1.000000:2.000000"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|3.000000:2.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|3.000000:2.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598ae3ac-7b06b11609cd7ddc4ca22849","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"kRujY/Nz1Je7Rt2eebyOMg==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:27:56 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":false,"secure":false,"issued":1502274476202,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":9,"awesome_chips":"99779","onlineStatus":"2"}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '99779' } } ]
+hmsent awesomeChips {"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"1.000000:1.000000"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|3.000000:1.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|3.000000:1.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"1.000000:0.000000"}
+game {"header":"game","cmd":1004,"custom":1,"msg":"vincent7,vincent9|3.000000:0.000000"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1004
+Custom Use: 1
+Message: vincent7,vincent9|3.000000:0.000000
+============================next player===========================
+send to player vincent9 successful
+send return to the vincent7,send successful
+Send message channel:vincent7:game msg:{"cmd":1004,"custom":200,"msg":"successful"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+Send message channel:vincent7:game msg:{"cmd":2004,"custom":200,"msg":"1.000000:3.000000"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95650","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2052","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1005,"custom":2,"msg":"vincent7,vincent9"}
+========================================================================
+==========================Received Data=================================
+========================================================================
+Cmd Code: 1005
+Custom Use: 2
+Message: vincent7,vincent9
+========================================================================
+==================================game end==============================
+========================================================================
+client vincent7 vs vincent9 [object Object]
+findGamePair find success vincent7:vincent9 {"p1PlayerId":"vincent9","p2PlayerId":"vincent7","pairId":"vincent7:vincent9"}
+========================================================================
+============================win or lose player==========================
+========================================================================
+competition is{"p1PlayerId":"vincent9","p2PlayerId":"vincent7","pairId":"vincent7:vincent9","p2Result":2}
+Send message channel:vincent7:game msg:{"cmd":2005,"custom":"2","msg":"vincent9"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2052\"}]"}
+Send message channel:andrewwan:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2052\"}]"}
+Send message channel:vincent7:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent7\",\"onlineStatus\":\"2\",\"chips\":\"95650\"}]"}
+Send message channel:andrewwan:game msg:{"cmd":3000,"custom":200,"msg":"[{\"friendId\":\"vincent7\",\"onlineStatus\":\"2\",\"chips\":\"95650\"}]"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2052","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95650","onlineStatus":"2"}
+hgetallvincent7
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m4.134 ms - 11[0m
+[0mGET / [32m200 [0m6.417 ms - 11[0m
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent7"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+[0mGET / [32m200 [0m1.241 ms - 11[0m
+[0mGET / [32m200 [0m0.276 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent7"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m1.089 ms - 11[0m
+[0mGET / [32m200 [0m0.774 ms - 11[0m
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent7"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"9","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+[0mGET / [32m200 [0m0.392 ms - 11[0m
+[0mGET / [32m200 [0m0.250 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+disconnect andrewwan
+disconnect count 8
+node_redis: Deprecated: The HMSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m1.565 ms - 11[0m
+[0mGET / [32m200 [0m0.868 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.594 ms - 11[0m
+[0mGET / [32m200 [0m0.823 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.564 ms - 11[0m
+[0mGET / [32m200 [0m0.817 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.574 ms - 11[0m
+[0mGET / [32m200 [0m0.865 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m0.508 ms - 11[0m
+[0mGET / [32m200 [0m0.731 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.457 ms - 11[0m
+[0mGET / [32m200 [0m1.022 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m0.534 ms - 11[0m
+[0mGET / [32m200 [0m0.723 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.448 ms - 11[0m
+[0mGET / [32m200 [0m0.291 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m0.526 ms - 11[0m
+[0mGET / [32m200 [0m0.718 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"10","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m1.345 ms - 11[0m
+[0mGET / [32m200 [0m0.820 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"6","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m1.796 ms - 11[0m
+[0mGET / [32m200 [0m0.790 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+register_endpoint_v2 518BB7B0-96B5-4C0C-ADB7-07F22B748CC3 b72af6dc1be9771bc3f3d33251f35d8c1cf0c5c74e9bd2f189136fc4f0a86802 vincent9 IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m15.275 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.425 ms - 11[0m
+[0mGET / [32m200 [0m0.281 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m0.501 ms - 11[0m
+[0mGET / [32m200 [0m0.715 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.873 ms - 11[0m
+[0mGET / [32m200 [0m1.623 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m1.721 ms - 11[0m
+[0mGET / [32m200 [0m0.828 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m0.580 ms - 11[0m
+[0mGET / [32m200 [0m0.771 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+[0mGET / [32m200 [0m0.510 ms - 11[0m
+[0mGET / [32m200 [0m0.711 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"12","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"12","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+[0mGET / [32m200 [0m1.543 ms - 11[0m
+[0mGET / [32m200 [0m0.506 ms - 11[0m
+game {"header":"game","cmd":1000,"custom":1,"msg":"vincent7,123123123,andrewwan,vincent9,vincent5,vincent6,vincent8,vincent,eddy,vincent2,awesome,ivan,ant2,ant5,testonly,ant1"}
+Send message channel:vincent7:game msg:{"cmd":2000,"custom":200,"msg":"[{\"friendId\":\"123123123\",\"onlineStatus\":\"2\",\"chips\":\"964\"},{\"friendId\":\"andrewwan\",\"onlineStatus\":\"2\",\"chips\":\"99779\"},{\"friendId\":\"vincent9\",\"onlineStatus\":\"2\",\"chips\":\"2152\"}]"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+disconnect vincent7
+disconnect count 11
+node_redis: Deprecated: The HMSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+[0mGET / [32m200 [0m1.117 ms - 11[0m
+[0mGET / [32m200 [0m1.336 ms - 11[0m
+[0mGET / [32m200 [0m0.532 ms - 11[0m
+[0mGET / [32m200 [0m0.823 ms - 11[0m
+[0mGET / [32m200 [0m0.540 ms - 11[0m
+[0mGET / [32m200 [0m0.721 ms - 11[0m
+[0mGET / [32m200 [0m0.778 ms - 11[0m
+[0mGET / [32m200 [0m1.553 ms - 11[0m
+[0mGET / [32m200 [0m4.511 ms - 11[0m
+[0mGET / [32m200 [0m3.775 ms - 11[0m
+io enter middleware
+before decrypt tGpmpoczuJJaGKH8nCL/bQ==
+after decrypt vincent7
+Player ID isvincent7
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598ae541-116c454b5d47e4931fba30f8","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"b3ZleHFha2t4dWJtaHV4Yg=="},"time":"Wed Aug 09 2017 10:34:41 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502274881452,"url":"/socket.io/?transport=websocket&pass=tGpmpoczuJJaGKH8nCL%2FbQ%3D%3D&playerId=vincent7","query":{"transport":"websocket","pass":"tGpmpoczuJJaGKH8nCL/bQ==","playerId":"vincent7"}}
+player id vincent7
+hmsent register {"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":13,"awesome_chips":"95550","onlineStatus":"2"}
+[ { id: { S: 'vincent7' }, awesome_chips: { N: '95550' } } ]
+hmsent awesomeChips {"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"13","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+[0mGET / [32m200 [0m0.577 ms - 11[0m
+[0mGET / [32m200 [0m0.779 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"14","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+[0mGET / [32m200 [0m0.524 ms - 11[0m
+[0mGET / [32m200 [0m0.728 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"15","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+[0mGET / [32m200 [0m0.492 ms - 11[0m
+[0mGET / [32m200 [0m0.315 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"7","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"15","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+register_endpoint_v2 518BB7B0-96B5-4C0C-ADB7-07F22B748CC3 b72af6dc1be9771bc3f3d33251f35d8c1cf0c5c74e9bd2f189136fc4f0a86802 vincent9 IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m6.243 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+[0mGET / [32m200 [0m0.496 ms - 11[0m
+[0mGET / [32m200 [0m0.728 ms - 11[0m
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"8","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"16","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598ae57e-273a125b5b27c2f8614c53ae","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"GQnJv/kXI9foix0Dw9ItkA==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:35:42 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502274942670,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":17,"awesome_chips":"99779","onlineStatus":"2"}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '99779' } } ]
+hmsent awesomeChips {"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"17","awesome_chips":"99779","onlineStatus":"2"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:vincent7:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"17","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"5","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"8","awesome_chips":"2152","onlineStatus":"2"}
+hgetallvincent9
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"13","awesome_chips":"95550","onlineStatus":"2"}
+hgetallvincent7
+[0mGET / [32m200 [0m0.484 ms - 11[0m
+[0mGET / [32m200 [0m0.716 ms - 11[0m
+disconnect andrewwan
+disconnect count 16
+node_redis: Deprecated: The HMSET command contains a "undefined" argument.
+This is converted to a "undefined" string now and will return an error from v.3.0 on.
+Please handle this in your code to make sure everything works as you intended it to.
+Send message channel:vincent7:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {
+  "friend_ids" : [
+    "vincent7",
+    "vincent5",
+    "vincent9",
+    "vincent6",
+    "vincent8",
+    "vincent",
+    "eddy",
+    "vincent2",
+    "awesome",
+    "ivan",
+    "andrewwan",
+    "andrew-chevk",
+    "68666666",
+    "a6",
+    "ant3",
+    "an4",
+    "ant4",
+    "ant7",
+    "conniechen",
+    "ant9",
+    "hellowin",
+    "vincent28",
+    "vincent31",
+    "vincent32",
+    "vincent63472",
+    "wilson",
+    "123123123",
+    "ant2",
+    "ant5",
+    "testonly",
+    "ant1",
+    "(null)",
+    "descendentofsun",
+    "ck"
+  ]
+}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent7"}
+Send message channel:vincent7:friend_online msg:{"friendId":"vincent9"}
+error: Forever detected script was killed by signal: SIGKILL

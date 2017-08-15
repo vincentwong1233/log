@@ -1,0 +1,221 @@
+ok
+Config
+Mon Jul 24 2017 01:56:21 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+CloudSearch_Schedule
+Server listening at port 3000
+disconnect
+undefined disconnected
+ack {
+  "playerId" : "vincent9"
+}
+player id vincent9
+action_packet {
+  "packet_id" : "72E86AF7-1F9D-4909-99F2-B51A1629D310-5333-000003EC003EE862",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "8cfd0234-87e3-44ff-a5d1-a625c632add7",
+    "sender_id" : "vincent9",
+    "message_id" : "16716E55-B4E5-49E4-A22A-417C0BBBB759-3390-00000361067F148F",
+    "chat_id" : "2017-04-20T07:48:54.343Z_ivan",
+    "recipient_id" : "ivan"
+  }
+}
+[ { id: { S: 'vincent9' }, awesome_chips: { N: '1182' } } ]
+[0mGET / [32m200 [0m6.065 ms - 11[0m
+[0mGET / [32m200 [0m5.783 ms - 11[0m
+[0mGET / [32m200 [0m5.968 ms - 11[0m
+e00e4fff-683b-4651-8ce6-b1586e3c8098
+ok
+[0mGET / [32m200 [0m1.112 ms - 11[0m
+[0mGET / [32m200 [0m1.454 ms - 11[0m
+[0mGET / [32m200 [0m1.592 ms - 11[0m
+action_packet {
+  "packet_id" : "A47C8208-55FB-470B-A11A-12BD90CA4F14-5333-000003EE335A5F46",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "8D3D6346-2B5D-41CE-AEB2-027821946517-5333-000003EE3341CC2F",
+    "message_type" : "TEXT",
+    "message" : "1",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend failed player not found
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: '8D3D6346-2B5D-41CE-AEB2-027821946517-5333-000003EE3341CC2F',
+  message_type: 'TEXT',
+  message: '1',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '0d79a47e-d50c-4d56-a657-cdac535ad865',
+  create_at: '2017-07-24T01:56:37.949Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 1","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+1
+Total Unread: 1
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/c23bff81-b4f7-3392-a039-1ebc34c84b4e
+Device Plaform: IOS
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/f81ed09d-467d-3900-900b-fc1cb8e75055
+Device Plaform: IOS
+getEndpointAttributes true
+getEndpointAttributes true
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '8e060681-23a0-5595-9f92-576e75b6bb05' },
+  MessageId: '8b69b7b5-f244-58b9-a6a7-e65aa4521629' }
+push sent
+{ ResponseMetadata: { RequestId: 'a01152c2-71e1-5d1d-876f-032d27f75951' },
+  MessageId: '955e0062-98a6-519c-8a5e-518dceb085d0' }
+push sent
+{ ResponseMetadata: { RequestId: 'fba1d6f6-0ea7-59a8-b31e-871958b16298' },
+  MessageId: '4d0543f3-8364-59b3-bfda-121cd572e283' }
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+action_packet {
+  "packet_id" : "FFCFD22D-8BBF-40B8-9134-43BD0A49FC96-944-00000686F5991162",
+  "action_content" : {
+    "chat_id" : "vincent:vincent9",
+    "message_id" : "8D3D6346-2B5D-41CE-AEB2-027821946517-5333-000003EE3341CC2F",
+    "recipient_id" : "vincent9",
+    "sender_id" : "vincent",
+    "dynamo_id" : "0d79a47e-d50c-4d56-a657-cdac535ad865"
+  },
+  "action_name" : "Notify_Message_Delivered"
+}
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m2.934 ms - 11[0m
+[0mGET / [32m200 [0m2.717 ms - 11[0m
+[0mGET / [32m200 [0m2.859 ms - 11[0m
+[0mGET / [32m200 [0m2.114 ms - 11[0m
+[0mGET / [32m200 [0m2.805 ms - 11[0m
+[0mGET / [32m200 [0m1.905 ms - 11[0m
+[0mGET / [32m200 [0m1.054 ms - 11[0m
+[0mGET / [32m200 [0m1.402 ms - 11[0m
+[0mGET / [32m200 [0m2.161 ms - 11[0m
+[0mGET / [32m200 [0m1.316 ms - 11[0m
+[0mGET / [32m200 [0m1.529 ms - 11[0m
+[0mGET / [32m200 [0m1.759 ms - 11[0m
+disconnect
+undefined disconnected
+disconnect
+undefined disconnected
+disconnect
+undefined disconnected
+server kick player vincent9
+end socket with playervincent9
+/home/ec2-user/abc/awsome_modules/IOConnection.js:64
+                        console.log(JSON.stringify(clientSockets));
+                                         ^
+
+TypeError: Converting circular structure to JSON
+    at Object.stringify (native)
+    at null._repeat (/home/ec2-user/abc/awsome_modules/IOConnection.js:64:42)
+    at wrapper [as _onTimeout] (timers.js:275:11)
+    at Timer.listOnTimeout (timers.js:92:15)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+Mon Jul 24 2017 01:57:51 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+CloudSearch_Schedule
+Server listening at port 3000
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+[0mGET / [32m200 [0m5.760 ms - 11[0m
+[0mGET / [32m200 [0m5.955 ms - 11[0m
+[0mGET / [32m200 [0m5.937 ms - 11[0m
+[0mGET / [32m200 [0m1.236 ms - 11[0m
+[0mGET / [32m200 [0m1.522 ms - 11[0m
+[0mGET / [32m200 [0m1.764 ms - 11[0m
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m2.623 ms - 11[0m
+[0mGET / [32m200 [0m2.850 ms - 11[0m
+[0mGET / [32m200 [0m1.426 ms - 11[0m
+[0mGET / [32m200 [0m0.975 ms - 11[0m
+[0mGET / [32m200 [0m1.268 ms - 11[0m
+[0mGET / [32m200 [0m1.484 ms - 11[0m
+disconnect
+undefined disconnected
+disconnect
+undefined disconnected
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m2.621 ms - 11[0m
+[0mGET / [32m200 [0m2.902 ms - 11[0m
+[0mGET / [32m200 [0m2.804 ms - 11[0m
+[0mGET / [32m200 [0m1.615 ms - 11[0m
+[0mGET / [32m200 [0m1.174 ms - 11[0m
+[0mGET / [32m200 [0m1.360 ms - 11[0m
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+error: Forever detected script was killed by signal: SIGKILL

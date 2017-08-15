@@ -1,0 +1,670 @@
+ok
+Config
+2017-08-09T10:03:49.623Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598ade0b-38c3fe1c11106b7b6ad58891","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"X/DCh89Om52+vbYq52FBLA==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:03:55 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502273035942,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_chips":"99779","onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":1}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '99779' } } ]
+hmsent awesomeChips {"awesome_chips":"99779","onlineStatus":"2","awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1"}
+register_endpoint_v2 3FBC5CD3-24B6-45D3-ACFE-41FA163424B2 1d31ed9127ffb95e017259f8da55364dc9fee5e8ca5bc78ce3b1b79e67865c97 descendentofsun IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m16.962 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+*** insertEndPointToDynamoDB success ***
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"login_times":"1","awesome_chips":"1052","onlineStatus":"2","awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"1","awesome_chips":"1612","onlineStatus":"2"}
+hgetallvincent9
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+[0mGET / [32m200 [0m6.651 ms - 11[0m
+[0mGET / [32m200 [0m11.538 ms - 11[0m
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "8ba5df20-398b-413c-8387-f9e984adb4af", "messageId" : "6A54A61E-A5B1-493F-B7DE-E2D0F4C6F61E-307-000000B16A8E35A6"},"packet_id":"edec7039-b71f-41f2-8b94-e8aa850f509e"}
+8ba5df20-398b-413c-8387-f9e984adb4af
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "36085c82-ddd4-4a31-86a3-49c2c9cffa7e", "messageId" : "1F49647D-C34E-4352-BC29-A1DFC43167F6-307-000000B167CA4DBB"},"packet_id":"ca872b3f-66aa-4a61-ae1b-adb9598d0521"}
+36085c82-ddd4-4a31-86a3-49c2c9cffa7e
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "78719f92-e34c-4c8d-9d79-3e1044289e15", "messageId" : "37D5E627-9E19-4428-ABD8-B0876DC20121-307-000000B164ABF519"},"packet_id":"6d3d0f9d-e52e-4389-8ad4-e9c0f38d6c0c"}
+78719f92-e34c-4c8d-9d79-3e1044289e15
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "f7abcc83-65ff-4e9c-aef1-a6082f765946", "messageId" : "A9A4482F-F015-4FD3-A26C-15A53FDFC8F1-307-000000B15C6B17D1"},"packet_id":"d39d3601-2d9a-4033-9dae-7510cb1e2004"}
+f7abcc83-65ff-4e9c-aef1-a6082f765946
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "508b5b84-e424-47d6-9ab0-cb3e79ef55b8", "messageId" : "6628C2C5-C187-4B6C-9858-8EABE5FDA9F7-307-000000B122A4796D"},"packet_id":"d7b5a60a-1dd4-44db-8ae1-4666471f643c"}
+508b5b84-e424-47d6-9ab0-cb3e79ef55b8
+ok
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "72cc444c-fa4b-4e9a-9e3c-7fb6ea01054f", "messageId" : "60DF3C85-C52D-461B-9A12-546F7E02CDE4-307-000000B120FF6284"},"packet_id":"66219956-ced7-4a51-b63b-63d5d2c671e5"}
+72cc444c-fa4b-4e9a-9e3c-7fb6ea01054f
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+ok
+action_packet {"action_content":{"group_id":"andrewwan:descendentofsun","message":"hihvo","message_id":"72b011f7-6d71-4f8a-b90d-a78bb7942c45","message_type":"TEXT","recipient_id":"descendentofsun","sender_id":"andrewwan","sender_name":"AndrewWan"},"action_name":"send_message","header":"action_packet","packet_id":"dfc8f10a-9509-4f8c-9672-b1e53a35f945"}
+sendMessageToFriendIncludeResend successful
+send message v3 success descendentofsun
+***** send_message_v2 *****
+{ group_id: 'andrewwan:descendentofsun',
+  message: 'hihvo',
+  message_id: '72b011f7-6d71-4f8a-b90d-a78bb7942c45',
+  message_type: 'TEXT',
+  recipient_id: 'descendentofsun',
+  sender_id: 'andrewwan',
+  sender_name: 'AndrewWan',
+  video_type: '(null)',
+  dynamo_id: 'c814d0f3-c44f-4c0a-88ad-c3b7b45f2543',
+  create_at: '2017-08-09T10:04:12.676Z' }
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "72cc444c-fa4b-4e9a-9e3c-7fb6ea01054f", "messageId" : "60DF3C85-C52D-461B-9A12-546F7E02CDE4-307-000000B120FF6284"},"packet_id":"bfd08083-c852-4152-bfa2-ceff2090cc69"}
+72cc444c-fa4b-4e9a-9e3c-7fb6ea01054f
+ok
+send sns data, data is {"awesome_id":"descendentofsun","message":"AndrewWan : hihvo","extra":{"message_type":"single_chat","from_player":"andrewwan"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"andrewwan"}
+1
+Total Unread: 1
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/607703dd-981a-3a6c-a349-57560a9cc483
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '2bba7971-e487-5d75-b6c0-2b7504db2d43' },
+  MessageId: '0066987f-32ce-5dba-9a89-ca7bd2920d8c' }
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d189614a-2e5c-46bd-9cfc-4a91fb8f0ade", "messageId" : "ECA4C4DF-9E9B-47B0-BDCB-C652B7D3A2ED-307-000000B1130A68F4"},"packet_id":"21d1b6c4-05ea-4c32-b427-ebe692c26ee4"}
+d189614a-2e5c-46bd-9cfc-4a91fb8f0ade
+ok
+Send message channel:andrewwan:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"c814d0f3-c44f-4c0a-88ad-c3b7b45f2543","sender_id":"descendentofsun","message_id":"72b011f7-6d71-4f8a-b90d-a78bb7942c45","chat_id":"andrewwan:descendentofsun","recipient_id":"andrewwan"}}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d189614a-2e5c-46bd-9cfc-4a91fb8f0ade", "messageId" : "ECA4C4DF-9E9B-47B0-BDCB-C652B7D3A2ED-307-000000B1130A68F4"},"packet_id":"37df11f9-e08b-42cd-8203-fb5022c41f3a"}
+d189614a-2e5c-46bd-9cfc-4a91fb8f0ade
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d189614a-2e5c-46bd-9cfc-4a91fb8f0ade", "messageId" : "ECA4C4DF-9E9B-47B0-BDCB-C652B7D3A2ED-307-000000B1130A68F4"},"packet_id":"ed2ded77-04b4-4a75-b80b-1cae3d388ef0"}
+d189614a-2e5c-46bd-9cfc-4a91fb8f0ade
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d131e964-f686-421c-80d7-5fb5217bb2f0", "messageId" : "32CCBA0D-06F5-4AF5-8887-9BDB189E63FC-307-000000B1112DCC6C"},"packet_id":"8e346172-0ce2-4eea-99e1-86c97590f8cd"}
+d131e964-f686-421c-80d7-5fb5217bb2f0
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d131e964-f686-421c-80d7-5fb5217bb2f0", "messageId" : "32CCBA0D-06F5-4AF5-8887-9BDB189E63FC-307-000000B1112DCC6C"},"packet_id":"b86f608c-48f8-4d21-ad02-2aa1621a0182"}
+d131e964-f686-421c-80d7-5fb5217bb2f0
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d131e964-f686-421c-80d7-5fb5217bb2f0", "messageId" : "32CCBA0D-06F5-4AF5-8887-9BDB189E63FC-307-000000B1112DCC6C"},"packet_id":"480fcb9f-7eda-4bfc-93aa-a39e20dfbf8c"}
+d131e964-f686-421c-80d7-5fb5217bb2f0
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "d131e964-f686-421c-80d7-5fb5217bb2f0", "messageId" : "32CCBA0D-06F5-4AF5-8887-9BDB189E63FC-307-000000B1112DCC6C"},"packet_id":"8c6c26c1-d69a-4490-9d4e-79b9763b80d7"}
+d131e964-f686-421c-80d7-5fb5217bb2f0
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ccb89b6e-afcc-411b-85cc-bc6583f13a26", "messageId" : "53DE4EFA-9F0A-4C30-8974-8BBA50F37B41-307-000000B10E68332B"},"packet_id":"0a409277-7c36-4efe-b947-68e7faee77f9"}
+ccb89b6e-afcc-411b-85cc-bc6583f13a26
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ccb89b6e-afcc-411b-85cc-bc6583f13a26", "messageId" : "53DE4EFA-9F0A-4C30-8974-8BBA50F37B41-307-000000B10E68332B"},"packet_id":"59ab0c9e-63fd-4152-b56f-fa288b0842e4"}
+ccb89b6e-afcc-411b-85cc-bc6583f13a26
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ccb89b6e-afcc-411b-85cc-bc6583f13a26", "messageId" : "53DE4EFA-9F0A-4C30-8974-8BBA50F37B41-307-000000B10E68332B"},"packet_id":"c528031c-4c2c-4af1-8f21-cb299366b9b7"}
+ccb89b6e-afcc-411b-85cc-bc6583f13a26
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ccb89b6e-afcc-411b-85cc-bc6583f13a26", "messageId" : "53DE4EFA-9F0A-4C30-8974-8BBA50F37B41-307-000000B10E68332B"},"packet_id":"7f413efe-5f54-41a9-a7cc-20bef63d6372"}
+ccb89b6e-afcc-411b-85cc-bc6583f13a26
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "00f8bfcf-701b-489f-96cc-37f340736fb7", "messageId" : "C6434E36-8400-4132-B270-911B16130CD5-307-000000B10A5AB639"},"packet_id":"8222e322-161c-4228-a4a2-a5eed91144e2"}
+00f8bfcf-701b-489f-96cc-37f340736fb7
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "00f8bfcf-701b-489f-96cc-37f340736fb7", "messageId" : "C6434E36-8400-4132-B270-911B16130CD5-307-000000B10A5AB639"},"packet_id":"2935f0fe-573d-4c0f-9c28-55ee8b02b36d"}
+00f8bfcf-701b-489f-96cc-37f340736fb7
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "00f8bfcf-701b-489f-96cc-37f340736fb7", "messageId" : "C6434E36-8400-4132-B270-911B16130CD5-307-000000B10A5AB639"},"packet_id":"f942f041-3554-4999-9b37-13d8a52ca1a6"}
+00f8bfcf-701b-489f-96cc-37f340736fb7
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "00f8bfcf-701b-489f-96cc-37f340736fb7", "messageId" : "C6434E36-8400-4132-B270-911B16130CD5-307-000000B10A5AB639"},"packet_id":"756f4754-85ea-46ee-85c1-05caed54acee"}
+00f8bfcf-701b-489f-96cc-37f340736fb7
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"1","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"1","awesome_chips":"1612","onlineStatus":"2"}
+hgetallvincent9
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "12ff256b-5045-432b-b3fd-443d84e542f7", "messageId" : "925B4C21-DB70-47B4-AFFE-9CC0C4FEE089-307-000000B0AF1EC936"},"packet_id":"6860e601-9e83-40ea-866f-090dd7773662"}
+12ff256b-5045-432b-b3fd-443d84e542f7
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "12ff256b-5045-432b-b3fd-443d84e542f7", "messageId" : "925B4C21-DB70-47B4-AFFE-9CC0C4FEE089-307-000000B0AF1EC936"},"packet_id":"76307608-ecc8-4a36-978f-7f4e1c1576b2"}
+12ff256b-5045-432b-b3fd-443d84e542f7
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "12ff256b-5045-432b-b3fd-443d84e542f7", "messageId" : "925B4C21-DB70-47B4-AFFE-9CC0C4FEE089-307-000000B0AF1EC936"},"packet_id":"dd971183-f5d9-4bd9-a45b-868cd920af01"}
+12ff256b-5045-432b-b3fd-443d84e542f7
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "12ff256b-5045-432b-b3fd-443d84e542f7", "messageId" : "925B4C21-DB70-47B4-AFFE-9CC0C4FEE089-307-000000B0AF1EC936"},"packet_id":"e1d2ddb6-2fca-4d27-a183-104d7120dbb9"}
+12ff256b-5045-432b-b3fd-443d84e542f7
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5d1bca8e-4089-41ba-af5a-765e33ef0c0e", "messageId" : "68479632-8F43-4410-89FC-E429AF5A4F61-307-000000B0AB95F60C"},"packet_id":"50a2fbd4-c99a-4e9b-98b5-888301144a7d"}
+5d1bca8e-4089-41ba-af5a-765e33ef0c0e
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5d1bca8e-4089-41ba-af5a-765e33ef0c0e", "messageId" : "68479632-8F43-4410-89FC-E429AF5A4F61-307-000000B0AB95F60C"},"packet_id":"52fa23ca-cdf4-4554-8b07-28120d4a834c"}
+5d1bca8e-4089-41ba-af5a-765e33ef0c0e
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5d1bca8e-4089-41ba-af5a-765e33ef0c0e", "messageId" : "68479632-8F43-4410-89FC-E429AF5A4F61-307-000000B0AB95F60C"},"packet_id":"183ad369-5808-417e-81a2-5eee77e6ef27"}
+5d1bca8e-4089-41ba-af5a-765e33ef0c0e
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5d1bca8e-4089-41ba-af5a-765e33ef0c0e", "messageId" : "68479632-8F43-4410-89FC-E429AF5A4F61-307-000000B0AB95F60C"},"packet_id":"dcfa156d-1ba0-4d78-acd4-476515d1584d"}
+5d1bca8e-4089-41ba-af5a-765e33ef0c0e
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "32b4ad31-ad69-49b5-9b0d-a85430004082", "messageId" : "2CCB2295-904A-4D61-8804-AB9022E8B8EB-307-000000B0A8C4CEC2"},"packet_id":"edef85e1-2f8e-4e2c-a620-dcf71ab13aa9"}
+32b4ad31-ad69-49b5-9b0d-a85430004082
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "32b4ad31-ad69-49b5-9b0d-a85430004082", "messageId" : "2CCB2295-904A-4D61-8804-AB9022E8B8EB-307-000000B0A8C4CEC2"},"packet_id":"d059b88d-ccb5-4781-aa90-db18567b0729"}
+32b4ad31-ad69-49b5-9b0d-a85430004082
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "32b4ad31-ad69-49b5-9b0d-a85430004082", "messageId" : "2CCB2295-904A-4D61-8804-AB9022E8B8EB-307-000000B0A8C4CEC2"},"packet_id":"2fa6e29d-1864-47e0-a7fd-111b14c33ef1"}
+32b4ad31-ad69-49b5-9b0d-a85430004082
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "32b4ad31-ad69-49b5-9b0d-a85430004082", "messageId" : "2CCB2295-904A-4D61-8804-AB9022E8B8EB-307-000000B0A8C4CEC2"},"packet_id":"81e1e6e1-1493-4e26-bf54-d3f41c6f686c"}
+32b4ad31-ad69-49b5-9b0d-a85430004082
+ok
+ok
+[0mGET / [32m200 [0m2.865 ms - 11[0m
+[0mGET / [32m200 [0m1.503 ms - 11[0m
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ed4ec4a-635e-4cd5-8bde-e4ee41acd638", "messageId" : "9F294D82-54CD-41E1-A043-9E3F236574DA-307-000000B0A549DE5A"},"packet_id":"5b59e47d-1a13-4553-b6a3-23c72c3cb656"}
+9ed4ec4a-635e-4cd5-8bde-e4ee41acd638
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ed4ec4a-635e-4cd5-8bde-e4ee41acd638", "messageId" : "9F294D82-54CD-41E1-A043-9E3F236574DA-307-000000B0A549DE5A"},"packet_id":"91423f61-c60e-4dcd-82c7-cc3d3875037d"}
+9ed4ec4a-635e-4cd5-8bde-e4ee41acd638
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ed4ec4a-635e-4cd5-8bde-e4ee41acd638", "messageId" : "9F294D82-54CD-41E1-A043-9E3F236574DA-307-000000B0A549DE5A"},"packet_id":"1a26997c-333c-414a-958d-11e3e77a5304"}
+9ed4ec4a-635e-4cd5-8bde-e4ee41acd638
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ed4ec4a-635e-4cd5-8bde-e4ee41acd638", "messageId" : "9F294D82-54CD-41E1-A043-9E3F236574DA-307-000000B0A549DE5A"},"packet_id":"e564fa82-dbde-4a5d-8929-9dbfc25e2eb5"}
+9ed4ec4a-635e-4cd5-8bde-e4ee41acd638
+ok
+ok
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5270f2a7-9ba5-4e66-af5b-787c7282e167", "messageId" : "CC5FE48A-159C-450B-96ED-0D818CDB50CA-307-000000B09F71849A"},"packet_id":"4bb7ced3-db4e-43c6-acd2-87c8bbadd369"}
+5270f2a7-9ba5-4e66-af5b-787c7282e167
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5270f2a7-9ba5-4e66-af5b-787c7282e167", "messageId" : "CC5FE48A-159C-450B-96ED-0D818CDB50CA-307-000000B09F71849A"},"packet_id":"3f47a2fe-7d57-4f46-9a89-93adb7998547"}
+5270f2a7-9ba5-4e66-af5b-787c7282e167
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5270f2a7-9ba5-4e66-af5b-787c7282e167", "messageId" : "CC5FE48A-159C-450B-96ED-0D818CDB50CA-307-000000B09F71849A"},"packet_id":"1dd6190f-f688-46e6-93ea-5c9ecdcbb1d0"}
+5270f2a7-9ba5-4e66-af5b-787c7282e167
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5270f2a7-9ba5-4e66-af5b-787c7282e167", "messageId" : "CC5FE48A-159C-450B-96ED-0D818CDB50CA-307-000000B09F71849A"},"packet_id":"d187c82b-749f-4c74-a381-63fdba426e09"}
+5270f2a7-9ba5-4e66-af5b-787c7282e167
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "13a3271b-91c1-4c63-b650-e04797cd9a3d", "messageId" : "97172B9A-42DB-470C-AD5E-2C4BC273A063-307-000000B096ECFFFA"},"packet_id":"f0bbc9ca-0e84-4388-bb68-ba6b3f6a91f0"}
+13a3271b-91c1-4c63-b650-e04797cd9a3d
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "13a3271b-91c1-4c63-b650-e04797cd9a3d", "messageId" : "97172B9A-42DB-470C-AD5E-2C4BC273A063-307-000000B096ECFFFA"},"packet_id":"e1abb77c-e2c1-468d-8c4b-c03a3fca96d6"}
+13a3271b-91c1-4c63-b650-e04797cd9a3d
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "13a3271b-91c1-4c63-b650-e04797cd9a3d", "messageId" : "97172B9A-42DB-470C-AD5E-2C4BC273A063-307-000000B096ECFFFA"},"packet_id":"0d0ae146-998f-40f8-bb04-62f3110d4e14"}
+13a3271b-91c1-4c63-b650-e04797cd9a3d
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "13a3271b-91c1-4c63-b650-e04797cd9a3d", "messageId" : "97172B9A-42DB-470C-AD5E-2C4BC273A063-307-000000B096ECFFFA"},"packet_id":"e18475ff-a995-4930-b553-5a23280d854f"}
+13a3271b-91c1-4c63-b650-e04797cd9a3d
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5b599e14-fc3e-4f2e-84c7-5e8aeb524d35", "messageId" : "0228FD58-D11E-4516-B83B-49F9C462092D-307-000000B0829411FB"},"packet_id":"fae55718-96df-4b84-89b3-52b096ec1c24"}
+5b599e14-fc3e-4f2e-84c7-5e8aeb524d35
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5b599e14-fc3e-4f2e-84c7-5e8aeb524d35", "messageId" : "0228FD58-D11E-4516-B83B-49F9C462092D-307-000000B0829411FB"},"packet_id":"e8e7d933-8571-4c32-8434-32a0f4defd60"}
+5b599e14-fc3e-4f2e-84c7-5e8aeb524d35
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5b599e14-fc3e-4f2e-84c7-5e8aeb524d35", "messageId" : "0228FD58-D11E-4516-B83B-49F9C462092D-307-000000B0829411FB"},"packet_id":"aa52d9d7-a5b3-4f06-9a01-10c8352521d2"}
+5b599e14-fc3e-4f2e-84c7-5e8aeb524d35
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "5b599e14-fc3e-4f2e-84c7-5e8aeb524d35", "messageId" : "0228FD58-D11E-4516-B83B-49F9C462092D-307-000000B0829411FB"},"packet_id":"b3fae966-eb92-4eb0-8e2d-6e0df2a98bb7"}
+5b599e14-fc3e-4f2e-84c7-5e8aeb524d35
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "c6f41003-f706-45db-a355-1d4b89b9d670", "messageId" : "E82F9008-18D7-466D-BA32-802AB9122B7B-307-000000B06FFF07E8"},"packet_id":"9c5b33da-80c6-4c82-88e6-058cedbccb3b"}
+c6f41003-f706-45db-a355-1d4b89b9d670
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "c6f41003-f706-45db-a355-1d4b89b9d670", "messageId" : "E82F9008-18D7-466D-BA32-802AB9122B7B-307-000000B06FFF07E8"},"packet_id":"7ac23bf1-2388-4cb2-a35e-a6f7472b0e53"}
+c6f41003-f706-45db-a355-1d4b89b9d670
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "c6f41003-f706-45db-a355-1d4b89b9d670", "messageId" : "E82F9008-18D7-466D-BA32-802AB9122B7B-307-000000B06FFF07E8"},"packet_id":"e6e0c381-3508-42f6-95cc-785ebcb470fb"}
+c6f41003-f706-45db-a355-1d4b89b9d670
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "c6f41003-f706-45db-a355-1d4b89b9d670", "messageId" : "E82F9008-18D7-466D-BA32-802AB9122B7B-307-000000B06FFF07E8"},"packet_id":"128e7d21-64c8-42d1-8e62-9256c8a932d4"}
+c6f41003-f706-45db-a355-1d4b89b9d670
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ecc3bed-6743-423a-ac08-a0559274c79a", "messageId" : "F514254D-4533-4B7F-9F19-97330023372D-307-000000B06C96730D"},"packet_id":"5ac30a18-43cc-45a7-b4fa-ba42422db35d"}
+9ecc3bed-6743-423a-ac08-a0559274c79a
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ecc3bed-6743-423a-ac08-a0559274c79a", "messageId" : "F514254D-4533-4B7F-9F19-97330023372D-307-000000B06C96730D"},"packet_id":"3d8132bd-5d20-45a2-a916-9f98470546cd"}
+9ecc3bed-6743-423a-ac08-a0559274c79a
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ecc3bed-6743-423a-ac08-a0559274c79a", "messageId" : "F514254D-4533-4B7F-9F19-97330023372D-307-000000B06C96730D"},"packet_id":"19740c8b-9c91-4457-9e22-045be8f116f3"}
+9ecc3bed-6743-423a-ac08-a0559274c79a
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "9ecc3bed-6743-423a-ac08-a0559274c79a", "messageId" : "F514254D-4533-4B7F-9F19-97330023372D-307-000000B06C96730D"},"packet_id":"01de0151-99c0-4cd9-a83d-7724b222488b"}
+9ecc3bed-6743-423a-ac08-a0559274c79a
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ba313d48-b76b-40e6-9c3a-1f513fd2b394", "messageId" : "F838FCDD-C0D3-49E6-A2D9-9F9FC39014A6-307-000000B0642B2399"},"packet_id":"6a8e5273-4320-420e-8246-06efe1ff3276"}
+ba313d48-b76b-40e6-9c3a-1f513fd2b394
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ba313d48-b76b-40e6-9c3a-1f513fd2b394", "messageId" : "F838FCDD-C0D3-49E6-A2D9-9F9FC39014A6-307-000000B0642B2399"},"packet_id":"e1c9085f-7476-4b3a-aa0a-27ca99230d50"}
+ba313d48-b76b-40e6-9c3a-1f513fd2b394
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ba313d48-b76b-40e6-9c3a-1f513fd2b394", "messageId" : "F838FCDD-C0D3-49E6-A2D9-9F9FC39014A6-307-000000B0642B2399"},"packet_id":"f6471948-a278-4115-b98f-f7e100e223eb"}
+ba313d48-b76b-40e6-9c3a-1f513fd2b394
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "ba313d48-b76b-40e6-9c3a-1f513fd2b394", "messageId" : "F838FCDD-C0D3-49E6-A2D9-9F9FC39014A6-307-000000B0642B2399"},"packet_id":"ffa6d494-463c-41b9-b124-4e5bc15916b3"}
+ba313d48-b76b-40e6-9c3a-1f513fd2b394
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "e02c8d74-0494-48ac-b40e-e07493b5cda7", "messageId" : "8AE19976-3928-4C42-B05E-9FD86844EF5B-307-000000B05D95FEF6"},"packet_id":"c1b1dba0-2755-418e-9b52-6d86cd595406"}
+e02c8d74-0494-48ac-b40e-e07493b5cda7
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "e02c8d74-0494-48ac-b40e-e07493b5cda7", "messageId" : "8AE19976-3928-4C42-B05E-9FD86844EF5B-307-000000B05D95FEF6"},"packet_id":"406d7be2-89d0-4fad-9382-2f4689ada2fc"}
+e02c8d74-0494-48ac-b40e-e07493b5cda7
+ok
+ok
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "e02c8d74-0494-48ac-b40e-e07493b5cda7", "messageId" : "8AE19976-3928-4C42-B05E-9FD86844EF5B-307-000000B05D95FEF6"},"packet_id":"9680fd1e-9e2a-4131-9633-649f6d57bc27"}
+e02c8d74-0494-48ac-b40e-e07493b5cda7
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "e02c8d74-0494-48ac-b40e-e07493b5cda7", "messageId" : "8AE19976-3928-4C42-B05E-9FD86844EF5B-307-000000B05D95FEF6"},"packet_id":"69de2c13-0a57-46e1-8dc2-daac0b229c45"}
+e02c8d74-0494-48ac-b40e-e07493b5cda7
+ok
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+action_packet {"action_content":{"group_id":"andrewwan:descendentofsun","message":"igxc9y","message_id":"5ab3c153-0792-4005-b0a1-2d0215d947c8","message_type":"TEXT","recipient_id":"descendentofsun","sender_id":"andrewwan","sender_name":"AndrewWan"},"action_name":"send_message","header":"action_packet","packet_id":"416dbcbe-f9a1-4517-9dc0-e5bff644848e"}
+sendMessageToFriendIncludeResend successful
+send message v3 success descendentofsun
+***** send_message_v2 *****
+{ group_id: 'andrewwan:descendentofsun',
+  message: 'igxc9y',
+  message_id: '5ab3c153-0792-4005-b0a1-2d0215d947c8',
+  message_type: 'TEXT',
+  recipient_id: 'descendentofsun',
+  sender_id: 'andrewwan',
+  sender_name: 'AndrewWan',
+  video_type: '(null)',
+  dynamo_id: 'f130490e-1e5d-4a1f-95d8-5aa18dc6ea78',
+  create_at: '2017-08-09T10:04:22.813Z' }
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+send sns data, data is {"awesome_id":"descendentofsun","message":"AndrewWan : igxc9y","extra":{"message_type":"single_chat","from_player":"andrewwan"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"andrewwan"}
+2
+Total Unread: 2
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/607703dd-981a-3a6c-a349-57560a9cc483
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '31eeb00c-f24d-5ac9-b2b7-e208122b0d5c' },
+  MessageId: '3c0110bf-f36c-5d49-ae00-42bb130a5adc' }
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"1","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"1","awesome_chips":"1612","onlineStatus":"2"}
+hgetallvincent9
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"vincent9"}
+Send message channel:andrewwan:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"f130490e-1e5d-4a1f-95d8-5aa18dc6ea78","sender_id":"descendentofsun","message_id":"5ab3c153-0792-4005-b0a1-2d0215d947c8","chat_id":"andrewwan:descendentofsun","recipient_id":"andrewwan"}}
+[0mGET / [32m200 [0m2.972 ms - 11[0m
+[0mGET / [32m200 [0m3.189 ms - 11[0m
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:action_packet msg:{"header":"action_packet","action_name":"update_message_read","action_content":{"dynamo_id":"f130490e-1e5d-4a1f-95d8-5aa18dc6ea78","message_id":"5ab3c153-0792-4005-b0a1-2d0215d947c8","chat_id":"andrewwan:descendentofsun"}}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:andrewwan:m msg:{"message":"Tfyfugi","send_by":"descendentofsun","message_type":"TEXT","message_id":"4649753E-7267-4E27-98AA-02A33F8E1779-311-000000B2DF7CD7F0","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:04:36.835Z","dynamo_id":"e51a05f9-fd0f-457a-b1ed-a810dd30c239","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"andrewwan:descendentofsun","dynamo_id":"e51a05f9-fd0f-457a-b1ed-a810dd30c239","message_id":"4649753E-7267-4E27-98AA-02A33F8E1779-311-000000B2DF7CD7F0","recipient_id":"descendentofsun","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"7c9c54c5-ac70-468d-a001-f5ffe8fc8ffb"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:m msg:{"message":"Ghi","send_by":"descendentofsun","message_type":"TEXT","message_id":"3F0FEC27-A3E2-43F8-B9C3-9EBC13F3D8B4-311-000000B2E325F7CB","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:04:39.385Z","dynamo_id":"dee0f1e1-9e36-410b-a7c5-b70e4e20c85f","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"andrewwan:descendentofsun","dynamo_id":"dee0f1e1-9e36-410b-a7c5-b70e4e20c85f","message_id":"3F0FEC27-A3E2-43F8-B9C3-9EBC13F3D8B4-311-000000B2E325F7CB","recipient_id":"descendentofsun","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"0dcc9373-a944-46e2-84a4-7e0637195a56"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:m msg:{"message":"Gh","send_by":"descendentofsun","message_type":"TEXT","message_id":"F80BFD4B-2E80-44CA-815A-215023E5A57C-311-000000B2E491E8DA","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:04:40.368Z","dynamo_id":"7d8ffcdb-7e3c-4188-9f00-b3f757d38086","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"andrewwan:descendentofsun","dynamo_id":"7d8ffcdb-7e3c-4188-9f00-b3f757d38086","message_id":"F80BFD4B-2E80-44CA-815A-215023E5A57C-311-000000B2E491E8DA","recipient_id":"descendentofsun","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"2ccc25f1-896e-4fb6-9a55-fed3582843bd"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:m msg:{"message":"Uig","send_by":"descendentofsun","message_type":"TEXT","message_id":"43CFC8EC-CFE2-4545-923D-6548B8DC8F2D-311-000000B2E6EF051B","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:04:42.276Z","dynamo_id":"089f250f-7f31-47c4-8d16-6cc901c6934a","video_type":".mov"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+action_packet {"action_content":{"chat_id":"andrewwan:descendentofsun","dynamo_id":"089f250f-7f31-47c4-8d16-6cc901c6934a","message_id":"43CFC8EC-CFE2-4545-923D-6548B8DC8F2D-311-000000B2E6EF051B","recipient_id":"descendentofsun","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"1290fe48-8a28-4903-99eb-035eaa281beb"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"1","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent9","friendIds":"[\"vincent9\",\"a58330\",\"hellowin\",\"a6\",\"ant3\",\"ant2\",\"ant8\",\"vincent5\",\"a7\",\"vincent\",\"ck\",\"wilson\",\"testonly\",\"vincent8\",\"an4\",\"vincent28\",\"vincent31\",\"ant7\",\"68666666\",\"vincent7\",\"vincent32\",\"ant9\",\"conniechen\",\"ant5\",\"eric\",\"eddy\",\"awesome\",\"andrewwan\",\"vincent2\",\"samsung\",\"vincent63472\",\"ant1\",\"ivan\",\"123123123\",\"v7\",\"descendentofsun\"]","login_times":"1","awesome_chips":"1612","onlineStatus":"2"}
+hgetallvincent9
+Send message channel:andrewwan:friend_offline msg:{"friendId":"vincent9"}
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "089f250f-7f31-47c4-8d16-6cc901c6934a", "messageId" : "43CFC8EC-CFE2-4545-923D-6548B8DC8F2D-311-000000B2E6EF051B"},"packet_id":"bb9d1302-8788-4839-b698-d8e7e4c3cc71"}
+089f250f-7f31-47c4-8d16-6cc901c6934a
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "7d8ffcdb-7e3c-4188-9f00-b3f757d38086", "messageId" : "F80BFD4B-2E80-44CA-815A-215023E5A57C-311-000000B2E491E8DA"},"packet_id":"2262f4e5-937b-4618-8138-d24b2d5e217e"}
+7d8ffcdb-7e3c-4188-9f00-b3f757d38086
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "dee0f1e1-9e36-410b-a7c5-b70e4e20c85f", "messageId" : "3F0FEC27-A3E2-43F8-B9C3-9EBC13F3D8B4-311-000000B2E325F7CB"},"packet_id":"a823d5f6-167d-4b89-bc29-5d9dec82791d"}
+dee0f1e1-9e36-410b-a7c5-b70e4e20c85f
+ok
+request_packet {"request_name":"Notify_A_Lot_Of_Messages_Read","request_content":{ "chatId" : "andrewwan:descendentofsun", "postBy" : "descendentofsun", "dynamoId" : "e51a05f9-fd0f-457a-b1ed-a810dd30c239", "messageId" : "4649753E-7267-4E27-98AA-02A33F8E1779-311-000000B2DF7CD7F0"},"packet_id":"139dca05-6be8-48b5-880e-c5cdf0313435"}
+e51a05f9-fd0f-457a-b1ed-a810dd30c239
+ok
+[0mGET / [32m200 [0m0.519 ms - 11[0m
+[0mGET / [32m200 [0m0.921 ms - 11[0m
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+action_packet {"action_content":{"group_id":"andrewwan:descendentofsun","message":"gi8gv9","message_id":"92106201-110a-4480-a833-a04a3e408480","message_type":"TEXT","recipient_id":"descendentofsun","sender_id":"andrewwan","sender_name":"AndrewWan"},"action_name":"send_message","header":"action_packet","packet_id":"619541f9-91b6-4417-aa6f-5784b797091f"}
+sendMessageToFriendIncludeResend successful
+send message v3 success descendentofsun
+***** send_message_v2 *****
+{ group_id: 'andrewwan:descendentofsun',
+  message: 'gi8gv9',
+  message_id: '92106201-110a-4480-a833-a04a3e408480',
+  message_type: 'TEXT',
+  recipient_id: 'descendentofsun',
+  sender_id: 'andrewwan',
+  sender_name: 'AndrewWan',
+  video_type: '(null)',
+  dynamo_id: 'c20b04b7-8892-4802-93ba-70de6f77cd1f',
+  create_at: '2017-08-09T10:04:47.695Z' }
+typing {"header":"typing","friendId":"descendentofsun","text":".,x.hideTyping"}
+send sns data, data is {"awesome_id":"descendentofsun","message":"AndrewWan : gi8gv9","extra":{"message_type":"single_chat","from_player":"andrewwan"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"andrewwan"}
+3
+Total Unread: 3
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/607703dd-981a-3a6c-a349-57560a9cc483
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: 'c12a6839-03d4-5428-bffb-3a3de3ab5b9e' },
+  MessageId: 'abcf85b1-dc03-56a8-8123-d7b53c7c491e' }
+Send message channel:andrewwan:action_packet msg:{"action_name":"update_message_delivered","action_content":{"dynamo_id":"c20b04b7-8892-4802-93ba-70de6f77cd1f","sender_id":"descendentofsun","message_id":"92106201-110a-4480-a833-a04a3e408480","chat_id":"andrewwan:descendentofsun","recipient_id":"andrewwan"}}
+Send message channel:andrewwan:action_packet msg:{"header":"action_packet","action_name":"update_message_read","action_content":{"dynamo_id":"c20b04b7-8892-4802-93ba-70de6f77cd1f","message_id":"92106201-110a-4480-a833-a04a3e408480","chat_id":"andrewwan:descendentofsun"}}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"1","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+[0mGET / [32m200 [0m0.555 ms - 11[0m
+[0mGET / [32m200 [0m0.743 ms - 11[0m
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:m msg:{"message":"Hoovhh","send_by":"descendentofsun","message_type":"TEXT","message_id":"74BB2A0B-465E-48DF-B996-445C41026049-311-000000B30B6D9E6D","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:05:07.569Z","dynamo_id":"45d39474-fee6-4ca4-9b15-1a4ca17452fc","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"andrewwan:descendentofsun","dynamo_id":"45d39474-fee6-4ca4-9b15-1a4ca17452fc","message_id":"74BB2A0B-465E-48DF-B996-445C41026049-311-000000B30B6D9E6D","recipient_id":"descendentofsun","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"5a6a56cd-d558-4483-9c95-0a137d0ba741"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:m msg:{"message":"Yes ","send_by":"descendentofsun","message_type":"TEXT","message_id":"5D2EDE70-6669-46B2-9A20-28FC5C1DF8C2-311-000000B30EE92A2B","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:05:10.026Z","dynamo_id":"15722bec-67dc-4481-9996-f16815514a21","video_type":".mov"}
+action_packet {"action_content":{"chat_id":"andrewwan:descendentofsun","dynamo_id":"15722bec-67dc-4481-9996-f16815514a21","message_id":"5D2EDE70-6669-46B2-9A20-28FC5C1DF8C2-311-000000B30EE92A2B","recipient_id":"descendentofsun","sender_id":"andrewwan"},"action_name":"Notify_Message_Delivered","header":"action_packet","packet_id":"36f72445-a0b8-492b-b503-449dca1349ae"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:typing msg:{"friendId":"descendentofsun","text":".,x.hideTyping"}
+Send message channel:andrewwan:m msg:{"message":"Chogoh","send_by":"descendentofsun","message_type":"TEXT","message_id":"57794DAF-0DCE-405A-9640-23EA12CD93DE-311-000000B31572D706","chat_id":"andrewwan:descendentofsun","create_at":"2017-08-09T10:05:14.551Z","dynamo_id":"9166aba6-36cf-4268-8197-766f4cf47d45","video_type":".mov"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","friendIds":"[\"andrewwan\",\"ant7\",\"123123123\",\"andrew-chevk\",\"ant5\",\"andrew\",\"ivannew\",\"awesome\",\"ck\",\"andrew-test\",\"descendentofsun\",\"howareyou\",\"vincent63472\",\"ivanlgpro2\",\"vincent9\",\"vincent8\",\"vincent6\",\"ant8\",\"ivan\",\"conniechen\",\"eddy\",\"elvis\",\"ivan-nokia6\",\"samsung\",\"testonly\",\"ivanlgv10\",\"vincent\",\"vincent7\",\"cara\",\"vincent31\",\"ant2\",\"a3\",\"ivanipad\",\"vincent5\",\"68666666\",\"ant1\",\"a6\",\"ant9\",\"ant3\",\"vincent32\",\"hellowin\",\"vincent2\",\"vincent28\",\"wilson\",\"an4\",\"ant4\"]","login_times":"1","awesome_chips":"99779","onlineStatus":"2"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"1","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+disconnect andrewwan
+disconnect andrewwan redis
+friend ids andrewwan,ant7,123123123,andrew-chevk,ant5,andrew,ivannew,awesome,ck,andrew-test,descendentofsun,howareyou,vincent63472,ivanlgpro2,vincent9,vincent8,vincent6,ant8,ivan,conniechen,eddy,elvis,ivan-nokia6,samsung,testonly,ivanlgv10,vincent,vincent7,cara,vincent31,ant2,a3,ivanipad,vincent5,68666666,ant1,a6,ant9,ant3,vincent32,hellowin,vincent2,vincent28,wilson,an4,ant4
+send disconnect to andrewwan
+send disconnect to ant7
+send disconnect to 123123123
+send disconnect to andrew-chevk
+send disconnect to ant5
+send disconnect to andrew
+send disconnect to ivannew
+send disconnect to awesome
+send disconnect to ck
+send disconnect to andrew-test
+send disconnect to descendentofsun
+send disconnect to howareyou
+send disconnect to vincent63472
+send disconnect to ivanlgpro2
+send disconnect to vincent9
+send disconnect to vincent8
+send disconnect to vincent6
+send disconnect to ant8
+send disconnect to ivan
+send disconnect to conniechen
+send disconnect to eddy
+send disconnect to elvis
+send disconnect to ivan-nokia6
+send disconnect to samsung
+send disconnect to testonly
+send disconnect to ivanlgv10
+send disconnect to vincent
+send disconnect to vincent7
+send disconnect to cara
+send disconnect to vincent31
+send disconnect to ant2
+send disconnect to a3
+send disconnect to ivanipad
+send disconnect to vincent5
+send disconnect to 68666666
+send disconnect to ant1
+send disconnect to a6
+send disconnect to ant9
+send disconnect to ant3
+send disconnect to vincent32
+send disconnect to hellowin
+send disconnect to vincent2
+send disconnect to vincent28
+send disconnect to wilson
+send disconnect to an4
+send disconnect to ant4
+[0mGET / [32m200 [0m0.492 ms - 11[0m
+[0mGET / [32m200 [0m0.723 ms - 11[0m
+[0mGET / [32m200 [0m0.539 ms - 11[0m
+[0mGET / [32m200 [0m1.320 ms - 11[0m
+[0mGET / [32m200 [0m0.496 ms - 11[0m
+[0mGET / [32m200 [0m0.740 ms - 11[0m
+[0mGET / [32m200 [0m0.518 ms - 11[0m
+[0mGET / [32m200 [0m0.773 ms - 11[0m
+[0mGET / [32m200 [0m1.853 ms - 11[0m
+[0mGET / [32m200 [0m2.961 ms - 11[0m
+[0mGET / [32m200 [0m0.581 ms - 11[0m
+[0mGET / [32m200 [0m0.762 ms - 11[0m
+[0mGET / [32m200 [0m1.372 ms - 11[0m
+[0mGET / [32m200 [0m1.373 ms - 11[0m
+[0mGET / [32m200 [0m0.599 ms - 11[0m
+[0mGET / [32m200 [0m0.754 ms - 11[0m
+[0mGET / [32m200 [0m0.524 ms - 11[0m
+[0mGET / [32m200 [0m0.750 ms - 11[0m
+[0mGET / [32m200 [0m1.104 ms - 11[0m
+[0mGET / [32m200 [0m0.812 ms - 11[0m
+[0mGET / [32m200 [0m2.214 ms - 11[0m
+[0mGET / [32m200 [0m1.952 ms - 11[0m
+[0mGET / [32m200 [0m0.555 ms - 11[0m
+[0mGET / [32m200 [0m0.782 ms - 11[0m
+register_endpoint_v2 3FBC5CD3-24B6-45D3-ACFE-41FA163424B2 1d31ed9127ffb95e017259f8da55364dc9fee5e8ca5bc78ce3b1b79e67865c97 descendentofsun IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m2.830 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+[0mGET / [32m200 [0m1.022 ms - 11[0m
+[0mGET / [32m200 [0m6.127 ms - 11[0m
+[0mGET / [32m200 [0m0.327 ms - 11[0m
+[0mGET / [32m200 [0m0.244 ms - 11[0m
+[0mGET / [32m200 [0m1.048 ms - 11[0m
+[0mGET / [32m200 [0m0.912 ms - 11[0m
+[0mGET / [32m200 [0m0.646 ms - 11[0m
+[0mGET / [32m200 [0m0.793 ms - 11[0m
+[0mGET / [32m200 [0m0.673 ms - 11[0m
+[0mGET / [32m200 [0m0.968 ms - 11[0m
+[0mGET / [32m200 [0m0.486 ms - 11[0m
+[0mGET / [32m200 [0m0.281 ms - 11[0m
+[0mGET / [32m200 [0m0.481 ms - 11[0m
+[0mGET / [32m200 [0m0.719 ms - 11[0m
+[0mGET / [32m200 [0m0.569 ms - 11[0m
+[0mGET / [32m200 [0m0.833 ms - 11[0m
+[0mGET / [32m200 [0m0.579 ms - 11[0m
+[0mGET / [32m200 [0m0.735 ms - 11[0m
+[0mGET / [32m200 [0m1.116 ms - 11[0m
+[0mGET / [32m200 [0m0.779 ms - 11[0m
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598adfa1-7e2de972495cbbca1425f685","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"zwC/rxTjqJxklH05F18fmQ==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:10:41 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502273441156,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_id":"andrewwan","onlineStatus":2,"awesome_chips":0,"login_times":1}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '99779' } } ]
+hmsent awesomeChips {"awesome_id":"andrewwan","onlineStatus":"2","awesome_chips":"99779","login_times":"1"}
+disconnect andrewwan
+disconnect andrewwan redis
+[0mGET / [32m200 [0m1.559 ms - 11[0m
+[0mGET / [32m200 [0m0.762 ms - 11[0m
+[0mGET / [32m200 [0m9.613 ms - 11[0m
+[0mGET / [32m200 [0m9.907 ms - 11[0m
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598adfbe-6cfcb5c57bf7308064587080","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"+UqRuUml1GSsiM6sLPZPTg==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:11:10 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502273470740,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+hmsent register {"awesome_id":"andrewwan","onlineStatus":2,"awesome_chips":0,"login_times":1}
+[ { id: { S: 'andrewwan' }, awesome_chips: { N: '99779' } } ]
+hmsent awesomeChips {"awesome_id":"andrewwan","onlineStatus":"2","awesome_chips":"99779","login_times":"1"}
+Send message channel:andrewwan:friend_online msg:{"friendId":"descendentofsun"}
+notify_online {"friend_ids" : ["andrewwan","ant7","123123123","andrew-chevk","ant5","andrew","ivannew","awesome","ck","andrew-test","descendentofsun","howareyou","vincent63472","ivanlgpro2","vincent9","vincent8","vincent6","ant8","ivan","conniechen","eddy","elvis","ivan-nokia6","samsung","testonly","ivanlgv10","vincent","vincent7","cara","vincent31","ant2","a3","ivanipad","vincent5","68666666","ant1","a6","ant9","ant3","vincent32","hellowin","vincent2","vincent28","wilson","an4","ant4"]}
+hgetall{"awesome_id":"andrewwan","onlineStatus":"2","awesome_chips":"99779","login_times":"1"}
+hgetallandrewwan
+hgetall{"awesome_chips":"964","onlineStatus":"2","awesome_id":"123123123","friendIds":"[\"123123123\",\"awesome\",\"vincent\",\"andrewwan\",\"vincent6\",\"eric\",\"vincent5\",\"ivannew\",\"ivanipad\",\"ivan\",\"descendentofsun\",\"ant9\",\"eddy\",\"ant5\",\"vincent8\",\"vincent7\",\"vincent9\",\"vincent31\",\"ivan-nokia6\",\"a3\",\"cara\",\"wilson\",\"vincent28\",\"ant1\",\"a6\",\"vincent32\",\"68666666\",\"conniechen\",\"ant4\",\"ant2\",\"andrew\",\"vincent63472\",\"ivanlgpro2\",\"hellowin\",\"ivanlgv10\",\"samsung\",\"ck\",\"ant3\",\"testonly\",\"an4\",\"ant7\",\"vincent2\",\"andrew-chevk\"]"}
+hgetall123123123
+hgetall{"awesome_id":"descendentofsun","friendIds":"[\"descendentofsun\",\"andrewwan\",\"awesome\",\"howareyou\",\"eddy\",\"vincent6\",\"andrew\",\"eric\",\"123123123\",\"vincent\",\"ivan\",\"vincent7\",\"ck\"]","login_times":"1","awesome_chips":"1052","onlineStatus":"2"}
+hgetalldescendentofsun
+hgetall{"awesome_id":"vincent7","friendIds":"[\"vincent7\",\"vincent5\",\"vincent9\",\"vincent6\",\"vincent8\",\"vincent\",\"eddy\",\"vincent2\",\"awesome\",\"ivan\",\"andrewwan\",\"andrew-chevk\",\"68666666\",\"a6\",\"ant3\",\"an4\",\"ant4\",\"ant7\",\"conniechen\",\"ant9\",\"hellowin\",\"vincent28\",\"vincent31\",\"vincent32\",\"vincent63472\",\"wilson\",\"123123123\",\"ant2\",\"ant5\",\"testonly\",\"ant1\",\"(null)\",\"descendentofsun\",\"ck\"]","login_times":"1","awesome_chips":"96210","onlineStatus":"2"}
+hgetallvincent7
+Send message channel:andrewwan:friend_online msg:{"friendId":"andrewwan"}
+[0mGET / [32m200 [0m0.840 ms - 11[0m
+[0mGET / [32m200 [0m1.372 ms - 11[0m
+disconnect andrewwan
+disconnect andrewwan redis
+friend ids andrewwan,ant7,123123123,andrew-chevk,ant5,andrew,ivannew,awesome,ck,andrew-test,descendentofsun,howareyou,vincent63472,ivanlgpro2,vincent9,vincent8,vincent6,ant8,ivan,conniechen,eddy,elvis,ivan-nokia6,samsung,testonly,ivanlgv10,vincent,vincent7,cara,vincent31,ant2,a3,ivanipad,vincent5,68666666,ant1,a6,ant9,ant3,vincent32,hellowin,vincent2,vincent28,wilson,an4,ant4
+send disconnect to andrewwan
+send disconnect to ant7
+send disconnect to 123123123
+send disconnect to andrew-chevk
+send disconnect to ant5
+send disconnect to andrew
+send disconnect to ivannew
+send disconnect to awesome
+send disconnect to ck
+send disconnect to andrew-test
+send disconnect to descendentofsun
+send disconnect to howareyou
+send disconnect to vincent63472
+send disconnect to ivanlgpro2
+send disconnect to vincent9
+send disconnect to vincent8
+send disconnect to vincent6
+send disconnect to ant8
+send disconnect to ivan
+send disconnect to conniechen
+send disconnect to eddy
+send disconnect to elvis
+send disconnect to ivan-nokia6
+send disconnect to samsung
+send disconnect to testonly
+send disconnect to ivanlgv10
+send disconnect to vincent
+send disconnect to vincent7
+send disconnect to cara
+send disconnect to vincent31
+send disconnect to ant2
+send disconnect to a3
+send disconnect to ivanipad
+send disconnect to vincent5
+send disconnect to 68666666
+send disconnect to ant1
+send disconnect to a6
+send disconnect to ant9
+send disconnect to ant3
+send disconnect to vincent32
+send disconnect to hellowin
+send disconnect to vincent2
+send disconnect to vincent28
+send disconnect to wilson
+send disconnect to an4
+send disconnect to ant4
+[0mGET / [32m200 [0m0.986 ms - 11[0m
+[0mGET / [32m200 [0m1.185 ms - 11[0m
+[0mGET / [32m200 [0m3.636 ms - 11[0m
+[0mGET / [32m200 [0m2.063 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

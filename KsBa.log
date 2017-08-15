@@ -1,0 +1,411 @@
+ok
+Config
+2017-08-11T04:14:21.557Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2f25-502ed1972a5021f16515b162","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"d2tmZGpvYmhhcXF3cGdjYw=="},"time":"Fri Aug 11 2017 04:14:29 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502424869661,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"onlineStatus":"2","login_times":2,"friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+[ { id: { S: 'vincent63472' }, awesome_chips: { N: '590' } } ]
+hmsent awesomeChips {"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+[0mGET / [32m200 [0m4.999 ms - 11[0m
+[0mGET / [32m200 [0m0.693 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m21.672 ms - 11[0m
+[0mGET / [32m200 [0m4.358 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m1.154 ms - 11[0m
+[0mGET / [32m200 [0m1.584 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m0.591 ms - 11[0m
+[0mGET / [32m200 [0m0.884 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m0.798 ms - 11[0m
+[0mGET / [32m200 [0m0.852 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m0.430 ms - 11[0m
+[0mGET / [32m200 [0m0.273 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m0.556 ms - 11[0m
+[0mGET / [32m200 [0m0.861 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+[0mGET / [32m200 [0m1.523 ms - 11[0m
+[0mGET / [32m200 [0m1.225 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"2","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2f94-696ee0946c212c6356bb5c95","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"cmhrc2dhZ2RsaXl2ZHF3dg=="},"time":"Fri Aug 11 2017 04:16:20 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502424980688,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-11T04:16:21.267Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+encrypted phone number a4YhnIh2OFsokuZNsDJhuw==
+encrypted country code ee+yuOXCLtUQ0mvDOiDtrA==
+country code 
+phone number phone_number
+identityId us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55
+get_open_id _phoneNumber phone_number
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NzIxZTUwMTUtODJkYy00ZGRkLTliNzgtOTg3MDg3ZGQxYTU1IiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTpwaG9uZV9udW1iZXIiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJleHAiOjE1MDI0Mjg1ODIsImlhdCI6MTUwMjQyNDk4Mn0.hSgpOmFZt16oNHAmM_EMp7jJQo8M1ImTyPnkBcYf0ZU3hfBS70Jmz8TcuKUhQwH9nqf73XOfoHGxdWX0YeOK39HKry8itxisJ88Q5fQz4QcumUT6imq6ln5HvXNp4FosBFgbJM5wZGxlFSJoIKL8h0XHEEkf6fRFz5oW_1fS8i5FjDWfFPdBNfvxSixTIumYkH2J-hlxkWV5NsJ0u1jXYuHh8hAQ9Nf5g_q-gXM2NWuBbeZTUtsFWH9Vct4J5EidumGMg6cL5EAyZzm20q6ppOK5c53usEuzIM9YZb0aMCrdzvxxSSJdoUqanYkmxmCmUpYiSIWABq6KtZAgbnEcrA' }
+[0mGET /get_token/a4YhnIh2OFsokuZNsDJhuw==/ee+yuOXCLtUQ0mvDOiDtrA==/us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55 [32m200 [0m143.726 ms - 907[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2f96-319c2db74152b0552b22891f","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"Z2Job2RwbHB2aGtrcG51eQ=="},"time":"Fri Aug 11 2017 04:16:22 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502424982200,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-11T04:16:22.765Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+[0mGET / [32m200 [0m5.762 ms - 11[0m
+[0mGET / [32m200 [0m5.361 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fa0-71bd586429c4eae959b3f2c2","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"ZmluYWF3ZXBiZnRhdWttcA=="},"time":"Fri Aug 11 2017 04:16:32 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502424992148,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+2017-08-11T04:16:32.725Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fa0-08dc3039384dc72e3b3b0bf1","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"cXV4cXltcHVqbmRxZmJqcg=="},"time":"Fri Aug 11 2017 04:16:32 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502424992867,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1

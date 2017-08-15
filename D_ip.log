@@ -1,0 +1,4693 @@
+ok
+Config
+Thu Aug 03 2017 07:17:10 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+Thu Aug 03 2017 07:17:15 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+Thu Aug 03 2017 07:17:21 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+Thu Aug 03 2017 07:17:27 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+ok
+Config
+Thu Aug 03 2017 07:17:33 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+ok
+Config
+Thu Aug 03 2017 07:17:39 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+ok
+Config
+Thu Aug 03 2017 07:17:44 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+ok
+Config
+Thu Aug 03 2017 07:17:50 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+ok
+Config
+Thu Aug 03 2017 07:17:56 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+ok
+Config
+Thu Aug 03 2017 07:18:01 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+ok
+Config
+Thu Aug 03 2017 07:18:07 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+ok
+Config
+Thu Aug 03 2017 07:18:13 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+ok
+Config
+Thu Aug 03 2017 07:18:18 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+ok
+Config
+Thu Aug 03 2017 07:18:24 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+ok
+Config
+Thu Aug 03 2017 07:18:30 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+ok
+Config
+Thu Aug 03 2017 07:18:35 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+ok
+Config
+Thu Aug 03 2017 07:18:41 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+ok
+Config
+Thu Aug 03 2017 07:18:47 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+ok
+Config
+Thu Aug 03 2017 07:18:52 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+ok
+Config
+Thu Aug 03 2017 07:18:58 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+ok
+Config
+Thu Aug 03 2017 07:19:03 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+ok
+Config
+Thu Aug 03 2017 07:19:09 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+ok
+Config
+Thu Aug 03 2017 07:19:15 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #23
+ok
+Config
+Thu Aug 03 2017 07:19:20 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #24
+ok
+Config
+Thu Aug 03 2017 07:19:26 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #25
+ok
+Config
+Thu Aug 03 2017 07:19:32 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #26
+ok
+Config
+Thu Aug 03 2017 07:19:37 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #27
+ok
+Config
+Thu Aug 03 2017 07:19:43 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #28
+ok
+Config
+Thu Aug 03 2017 07:19:49 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #29
+ok
+Config
+Thu Aug 03 2017 07:19:54 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #30
+ok
+Config
+Thu Aug 03 2017 07:20:00 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #31
+ok
+Config
+Thu Aug 03 2017 07:20:06 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #32
+ok
+Config
+Thu Aug 03 2017 07:20:11 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #33
+ok
+Config
+Thu Aug 03 2017 07:20:17 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #34
+ok
+Config
+Thu Aug 03 2017 07:20:22 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #35
+ok
+Config
+Thu Aug 03 2017 07:20:28 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #36
+ok
+Config
+Thu Aug 03 2017 07:20:34 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #37
+ok
+Config
+Thu Aug 03 2017 07:20:39 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #38
+ok
+Config
+Thu Aug 03 2017 07:20:45 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #39
+ok
+Config
+Thu Aug 03 2017 07:20:51 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #40
+ok
+Config
+Thu Aug 03 2017 07:20:56 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #41
+ok
+Config
+Thu Aug 03 2017 07:21:02 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #42
+ok
+Config
+Thu Aug 03 2017 07:21:08 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #43
+ok
+Config
+Thu Aug 03 2017 07:21:13 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #44
+ok
+Config
+Thu Aug 03 2017 07:21:19 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #45
+ok
+Config
+Thu Aug 03 2017 07:21:25 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #46
+ok
+Config
+Thu Aug 03 2017 07:21:30 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #47
+ok
+Config
+Thu Aug 03 2017 07:21:36 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #48
+ok
+Config
+Thu Aug 03 2017 07:21:42 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #49
+ok
+Config
+Thu Aug 03 2017 07:21:47 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #50
+ok
+Config
+Thu Aug 03 2017 07:21:53 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #51
+ok
+Config
+Thu Aug 03 2017 07:21:59 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #52
+ok
+Config
+Thu Aug 03 2017 07:22:04 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #53
+ok
+Config
+Thu Aug 03 2017 07:22:10 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #54
+ok
+Config
+Thu Aug 03 2017 07:22:16 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #55
+ok
+Config
+Thu Aug 03 2017 07:22:22 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #56
+ok
+Config
+Thu Aug 03 2017 07:22:28 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #57
+ok
+Config
+Thu Aug 03 2017 07:22:34 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #58
+ok
+Config
+Thu Aug 03 2017 07:22:39 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #59
+ok
+Config
+Thu Aug 03 2017 07:22:45 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #60
+ok
+Config
+Thu Aug 03 2017 07:22:50 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #61
+ok
+Config
+Thu Aug 03 2017 07:22:56 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #62
+ok
+Config
+Thu Aug 03 2017 07:23:02 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #63
+ok
+Config
+Thu Aug 03 2017 07:23:07 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #64
+ok
+Config
+Thu Aug 03 2017 07:23:13 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #65
+ok
+Config
+Thu Aug 03 2017 07:23:19 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #66
+ok
+Config
+Thu Aug 03 2017 07:23:24 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #67
+ok
+Config
+Thu Aug 03 2017 07:23:30 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #68
+ok
+Config
+Thu Aug 03 2017 07:23:36 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #69
+ok
+Config
+Thu Aug 03 2017 07:23:41 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #70
+ok
+Config
+Thu Aug 03 2017 07:23:47 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #71
+ok
+Config
+Thu Aug 03 2017 07:23:52 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #72
+ok
+Config
+Thu Aug 03 2017 07:23:58 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #73
+ok
+Config
+Thu Aug 03 2017 07:24:04 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #74
+ok
+Config
+Thu Aug 03 2017 07:24:09 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #75
+ok
+Config
+Thu Aug 03 2017 07:24:15 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #76
+ok
+Config
+Thu Aug 03 2017 07:24:21 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #77
+ok
+Config
+Thu Aug 03 2017 07:24:26 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #78
+ok
+Config
+Thu Aug 03 2017 07:24:32 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #79
+ok
+Config
+Thu Aug 03 2017 07:24:38 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #80
+ok
+Config
+Thu Aug 03 2017 07:24:43 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #81
+ok
+Config
+Thu Aug 03 2017 07:24:49 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #82
+ok
+Config
+Thu Aug 03 2017 07:24:55 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #83
+ok
+Config
+Thu Aug 03 2017 07:25:00 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #84
+ok
+Config
+Thu Aug 03 2017 07:25:06 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #85
+ok
+Config
+Thu Aug 03 2017 07:25:11 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #86
+ok
+Config
+Thu Aug 03 2017 07:25:17 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #87
+ok
+Config
+Thu Aug 03 2017 07:25:23 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #88
+ok
+Config
+Thu Aug 03 2017 07:25:29 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #89
+ok
+Config
+Thu Aug 03 2017 07:25:35 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #90
+ok
+Config
+Thu Aug 03 2017 07:25:41 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #91
+ok
+Config
+Thu Aug 03 2017 07:25:46 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #92
+ok
+Config
+Thu Aug 03 2017 07:25:52 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #93
+ok
+Config
+Thu Aug 03 2017 07:25:58 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #94
+ok
+Config
+Thu Aug 03 2017 07:26:04 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #95
+ok
+Config
+Thu Aug 03 2017 07:26:10 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #96
+ok
+Config
+Thu Aug 03 2017 07:26:15 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #97
+ok
+Config
+Thu Aug 03 2017 07:26:21 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #98
+ok
+Config
+Thu Aug 03 2017 07:26:27 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #99
+ok
+Config
+Thu Aug 03 2017 07:26:32 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #100
+ok
+Config
+Thu Aug 03 2017 07:26:38 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #101
+ok
+Config
+Thu Aug 03 2017 07:26:44 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #102
+ok
+Config
+Thu Aug 03 2017 07:26:49 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #103
+ok
+Config
+Thu Aug 03 2017 07:26:55 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #104
+ok
+Config
+Thu Aug 03 2017 07:27:01 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #105
+ok
+Config
+Thu Aug 03 2017 07:27:06 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #106
+ok
+Config
+Thu Aug 03 2017 07:27:12 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #107
+ok
+Config
+Thu Aug 03 2017 07:27:18 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #108
+ok
+Config
+Thu Aug 03 2017 07:27:23 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #109
+ok
+Config
+Thu Aug 03 2017 07:27:29 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #110
+ok
+Config
+Thu Aug 03 2017 07:27:35 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #111
+ok
+Config
+Thu Aug 03 2017 07:27:40 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #112
+ok
+Config
+Thu Aug 03 2017 07:27:46 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #113
+ok
+Config
+Thu Aug 03 2017 07:27:52 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #114
+ok
+Config
+Thu Aug 03 2017 07:27:57 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #115
+ok
+Config
+Thu Aug 03 2017 07:28:03 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #116
+ok
+Config
+Thu Aug 03 2017 07:28:08 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #117
+ok
+Config
+Thu Aug 03 2017 07:28:14 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #118
+ok
+Config
+Thu Aug 03 2017 07:28:20 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #119
+ok
+Config
+Thu Aug 03 2017 07:28:25 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #120
+ok
+Config
+Thu Aug 03 2017 07:28:31 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:870:11)
+    at exports._exceptionWithHostPort (util.js:893:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1061:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #121
+ok
+Config
+Thu Aug 03 2017 07:28:37 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #122
+ok
+Config
+Thu Aug 03 2017 07:28:42 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #123
+ok
+Config
+Thu Aug 03 2017 07:28:48 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #124
+ok
+Config
+Thu Aug 03 2017 07:28:54 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #125
+ok
+Config
+Thu Aug 03 2017 07:28:59 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #126
+ok
+Config
+Thu Aug 03 2017 07:29:05 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #127
+ok
+Config
+Thu Aug 03 2017 07:29:11 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #128
+ok
+Config
+Thu Aug 03 2017 07:29:16 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #129
+ok
+Config
+Thu Aug 03 2017 07:29:22 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #130
+ok
+Config
+Thu Aug 03 2017 07:29:28 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #131
+ok
+Config
+Thu Aug 03 2017 07:29:33 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #132
+ok
+Config
+Thu Aug 03 2017 07:29:39 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #133
+ok
+Config
+Thu Aug 03 2017 07:29:45 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #134
+ok
+Config
+Thu Aug 03 2017 07:29:51 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #135
+ok
+Config
+Thu Aug 03 2017 07:29:56 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #136
+ok
+Config
+Thu Aug 03 2017 07:30:02 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #137
+ok
+Config
+Thu Aug 03 2017 07:30:07 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #138
+ok
+Config
+Thu Aug 03 2017 07:30:13 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #139
+ok
+Config
+Thu Aug 03 2017 07:30:19 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #140
+ok
+Config
+Thu Aug 03 2017 07:30:25 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #141
+ok
+Config
+Thu Aug 03 2017 07:30:31 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #142
+ok
+Config
+Thu Aug 03 2017 07:30:37 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #143
+ok
+Config
+Thu Aug 03 2017 07:30:42 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #144
+ok
+Config
+Thu Aug 03 2017 07:30:48 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+
+events.js:141
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: Ready check failed: DENIED Redis is running in protected mode because protected mode is enabled, no bind address was specified, no authentication password is requested to clients. In this mode connections are only accepted from the loopback interface. If you want to connect from external computers to Redis you may adopt one of the following solutions: 1) Just disable protected mode sending the command 'CONFIG SET protected-mode no' from the loopback interface by connecting to Redis from the same host the server is running, however MAKE SURE Redis is not publicly accessible from internet if you do so. Use CONFIG REWRITE to make this change permanent. 2) Alternatively you can just disable the protected mode by editing the Redis configuration file, and setting the protected mode option to 'no', and then restarting the server. 3) If you started the server manually just for testing, restart it with the '--protected-mode no' option. 4) Setup a bind address or an authentication password. NOTE: You only need to do one of the above things in order for the server to start accepting connections from the outside.
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #145
+ok
+Config
+Thu Aug 03 2017 07:30:54 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2499
+tcpPort listening 3006
+======================
+Server listening at port 3006
+[0mGET / [32m200 [0m42.397 ms - 11[0m
+[0mGET / [32m200 [0m75.579 ms - 11[0m
+[0mGET / [32m200 [0m2.430 ms - 11[0m
+[0mGET / [32m200 [0m0.345 ms - 11[0m
+[0mGET / [32m200 [0m36.275 ms - 11[0m
+[0mGET / [32m200 [0m22.168 ms - 11[0m
+[0mGET / [32m200 [0m2.098 ms - 11[0m
+[0mGET / [32m200 [0m1.872 ms - 11[0m
+[0mGET / [32m200 [0m16.685 ms - 11[0m
+[0mGET / [32m200 [0m17.116 ms - 11[0m
+[0mGET / [32m200 [0m1.137 ms - 11[0m
+[0mGET / [32m200 [0m0.400 ms - 11[0m
+[0mGET / [32m200 [0m5.236 ms - 11[0m
+[0mGET / [32m200 [0m9.541 ms - 11[0m
+[0mGET / [32m200 [0m3.494 ms - 11[0m
+[0mGET / [32m200 [0m10.017 ms - 11[0m
+[0mGET / [32m200 [0m13.278 ms - 11[0m
+[0mGET / [32m200 [0m7.775 ms - 11[0m
+[0mGET / [32m200 [0m69.459 ms - 11[0m
+[0mGET / [32m200 [0m21.691 ms - 11[0m
+[0mGET / [32m200 [0m2.985 ms - 11[0m
+[0mGET / [32m200 [0m2.844 ms - 11[0m
+[0mGET / [32m200 [0m2.344 ms - 11[0m
+[0mGET / [32m200 [0m0.370 ms - 11[0m
+[0mGET / [32m200 [0m1.730 ms - 11[0m
+[0mGET / [32m200 [0m0.545 ms - 11[0m
+[0mGET / [32m200 [0m2.013 ms - 11[0m
+[0mGET / [32m200 [0m0.384 ms - 11[0m
+[0mGET / [32m200 [0m10.176 ms - 11[0m
+[0mGET / [32m200 [0m10.397 ms - 11[0m
+[0mGET / [32m200 [0m6.224 ms - 11[0m
+[0mGET / [32m200 [0m1.078 ms - 11[0m
+[0mGET / [32m200 [0m1.252 ms - 11[0m
+[0mGET / [32m200 [0m1.258 ms - 11[0m
+[0mGET / [32m200 [0m3.023 ms - 11[0m
+[0mGET / [32m200 [0m0.512 ms - 11[0m
+[0mGET / [32m200 [0m0.419 ms - 11[0m
+[0mGET / [32m200 [0m0.318 ms - 11[0m
+[0mGET / [32m200 [0m0.568 ms - 11[0m
+[0mGET / [32m200 [0m13.265 ms - 11[0m
+[0mGET / [32m200 [0m7.405 ms - 11[0m
+[0mGET / [32m200 [0m7.860 ms - 11[0m
+[0mGET / [32m200 [0m9.590 ms - 11[0m
+[0mGET / [32m200 [0m13.972 ms - 11[0m
+[0mGET / [32m200 [0m11.499 ms - 11[0m
+[0mGET / [32m200 [0m13.004 ms - 11[0m
+[0mGET / [32m200 [0m4.586 ms - 11[0m
+[0mGET / [32m200 [0m0.381 ms - 11[0m
+[0mGET / [32m200 [0m11.447 ms - 11[0m
+[0mGET / [32m200 [0m6.517 ms - 11[0m
+[0mGET / [32m200 [0m19.212 ms - 11[0m
+[0mGET / [32m200 [0m28.543 ms - 11[0m
+[0mGET / [32m200 [0m11.044 ms - 11[0m
+[0mGET / [32m200 [0m0.555 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

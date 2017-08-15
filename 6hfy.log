@@ -1,0 +1,220 @@
+ok
+Config
+2017-08-11T04:52:54.191Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3827-7900086439ac7c9f2a37db4e","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"c2p5YW9rZWVjZ2pyY2liZw=="},"time":"Fri Aug 11 2017 04:52:55 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502427175283,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"onlineStatus":"2","login_times":8,"friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+[ { id: { S: 'vincent63472' }, awesome_chips: { N: '590' } } ]
+hmsent awesomeChips {"onlineStatus":"2","login_times":"8","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"onlineStatus":"2","login_times":"8","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m11.610 ms - 11[0m
+[0mGET / [32m200 [0m10.462 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"onlineStatus":"2","login_times":"8","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m27.336 ms - 11[0m
+[0mGET / [32m200 [0m1.594 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"onlineStatus":"2","login_times":"8","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+************************************************************************
+==============================Disconnect================================
+************************************************************************
+disconnect vincent63472
+disconnect count playerID vincent63472:{"onlineStatus":"2","login_times":7,"friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+[0mGET / [32m200 [0m1.095 ms - 11[0m
+[0mGET / [32m200 [0m2.158 ms - 11[0m
+[0mGET / [32m200 [0m3.175 ms - 11[0m
+[0mGET / [32m200 [0m7.001 ms - 11[0m
+[0mGET / [32m200 [0m0.654 ms - 11[0m
+[0mGET / [32m200 [0m1.608 ms - 11[0m
+[0mGET / [32m200 [0m0.570 ms - 11[0m
+[0mGET / [32m200 [0m0.997 ms - 11[0m
+[0mGET / [32m200 [0m0.651 ms - 11[0m
+[0mGET / [32m200 [0m0.997 ms - 11[0m
+[0mGET / [32m200 [0m1.196 ms - 11[0m
+[0mGET / [32m200 [0m1.654 ms - 11[0m
+[0mGET / [32m200 [0m1.412 ms - 11[0m
+[0mGET / [32m200 [0m0.922 ms - 11[0m
+[0mGET / [32m200 [0m0.593 ms - 11[0m
+[0mGET / [32m200 [0m3.608 ms - 11[0m
+[0mGET / [32m200 [0m0.371 ms - 11[0m
+[0mGET / [32m200 [0m0.364 ms - 11[0m
+[0mGET / [32m200 [0m1.702 ms - 11[0m
+[0mGET / [32m200 [0m1.828 ms - 11[0m
+[0mGET / [32m200 [0m1.840 ms - 11[0m
+[0mGET / [32m200 [0m2.265 ms - 11[0m
+[0mGET / [32m200 [0m0.351 ms - 11[0m
+[0mGET / [32m200 [0m0.248 ms - 11[0m
+[0mGET / [32m200 [0m1.010 ms - 11[0m
+[0mGET / [32m200 [0m1.218 ms - 11[0m
+[0mGET / [32m200 [0m0.497 ms - 11[0m
+[0mGET / [32m200 [0m0.903 ms - 11[0m
+[0mGET / [32m200 [0m1.133 ms - 11[0m
+[0mGET / [32m200 [0m0.931 ms - 11[0m
+[0mGET / [32m200 [0m0.381 ms - 11[0m
+[0mGET / [32m200 [0m0.229 ms - 11[0m
+[0mGET / [32m200 [0m0.494 ms - 11[0m
+[0mGET / [32m200 [0m2.124 ms - 11[0m
+[0mGET / [32m200 [0m0.314 ms - 11[0m
+[0mGET / [32m200 [0m0.227 ms - 11[0m
+[0mGET / [32m200 [0m1.138 ms - 11[0m
+[0mGET / [32m200 [0m0.836 ms - 11[0m
+[0mGET / [32m200 [0m0.368 ms - 11[0m
+[0mGET / [32m200 [0m1.925 ms - 11[0m
+[0mGET / [32m200 [0m0.500 ms - 11[0m
+[0mGET / [32m200 [0m0.846 ms - 11[0m
+[0mGET / [32m200 [0m0.625 ms - 11[0m
+[0mGET / [32m200 [0m0.846 ms - 11[0m
+[0mGET / [32m200 [0m0.501 ms - 11[0m
+[0mGET / [32m200 [0m0.827 ms - 11[0m
+[0mGET / [32m200 [0m1.141 ms - 11[0m
+[0mGET / [32m200 [0m1.413 ms - 11[0m
+[0mGET / [32m200 [0m0.466 ms - 11[0m
+[0mGET / [32m200 [0m1.369 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

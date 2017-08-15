@@ -1,0 +1,41 @@
+ok
+Config
+2017-08-09T10:01:29.423Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+io enter middleware
+before decrypt 1KTVrMYy/Ecrba5M8HkfSg==
+after decrypt vincent9
+Player ID isvincent9
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598add79-46bd8551275c31df43346f96","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"ZXloaWNzY2RzZHRzaG93Zw=="},"time":"Wed Aug 09 2017 10:01:29 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502272889795,"url":"/socket.io/?transport=websocket&pass=1KTVrMYy%2FEcrba5M8HkfSg%3D%3D&playerId=vincent9","query":{"transport":"websocket","pass":"1KTVrMYy/Ecrba5M8HkfSg==","playerId":"vincent9"}}
+player id vincent9
+/home/ec2-user/abc/awsome_modules/IOConnection.js:127
+        console.log("hmsent register " + JSON.stringify(playerInfo));
+                                                        ^
+
+ReferenceError: playerInfo is not defined
+    at Namespace.<anonymous> (/home/ec2-user/abc/awsome_modules/IOConnection.js:127:57)
+    at emitOne (events.js:115:13)
+    at Namespace.emit (events.js:210:7)
+    at Namespace.emit (/home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+error: Forever detected script exited with code: 1

@@ -1,0 +1,32 @@
+ok
+Config
+2017-08-11T04:22:44.517Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening redis://172.31.10.82:7000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 172.31.10.82:6379 failed - connect ECONNREFUSED 172.31.10.82:6379
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1

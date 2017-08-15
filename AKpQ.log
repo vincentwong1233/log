@@ -1,0 +1,5847 @@
+ok
+Config
+2017-08-11T04:06:29.870Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-11T04:06:31.292Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-11T04:06:32.709Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+2017-08-11T04:06:34.134Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+ok
+Config
+2017-08-11T04:06:35.549Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+ok
+Config
+2017-08-11T04:06:36.970Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+ok
+Config
+2017-08-11T04:06:38.409Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+ok
+Config
+2017-08-11T04:06:39.823Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+ok
+Config
+2017-08-11T04:06:41.235Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+ok
+Config
+2017-08-11T04:06:42.677Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+ok
+Config
+2017-08-11T04:06:44.096Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+ok
+Config
+2017-08-11T04:06:45.518Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+ok
+Config
+2017-08-11T04:06:46.935Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+ok
+Config
+2017-08-11T04:06:48.350Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #14
+ok
+Config
+2017-08-11T04:06:49.763Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #15
+ok
+Config
+2017-08-11T04:06:51.175Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #16
+ok
+Config
+2017-08-11T04:06:52.593Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #17
+ok
+Config
+2017-08-11T04:06:53.993Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #18
+ok
+Config
+2017-08-11T04:06:55.405Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #19
+ok
+Config
+2017-08-11T04:06:56.823Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #20
+ok
+Config
+2017-08-11T04:06:58.250Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #21
+ok
+Config
+2017-08-11T04:06:59.684Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #22
+ok
+Config
+2017-08-11T04:07:01.115Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #23
+ok
+Config
+2017-08-11T04:07:02.549Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #24
+ok
+Config
+2017-08-11T04:07:03.980Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #25
+ok
+Config
+2017-08-11T04:07:05.460Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #26
+ok
+Config
+2017-08-11T04:07:06.884Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #27
+ok
+Config
+2017-08-11T04:07:08.309Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #28
+ok
+Config
+2017-08-11T04:07:09.725Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #29
+ok
+Config
+2017-08-11T04:07:11.131Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #30
+ok
+Config
+2017-08-11T04:07:12.548Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #31
+ok
+Config
+2017-08-11T04:07:13.963Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #32
+ok
+Config
+2017-08-11T04:07:15.375Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #33
+ok
+Config
+2017-08-11T04:07:16.777Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #34
+ok
+Config
+2017-08-11T04:07:18.194Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #35
+ok
+Config
+2017-08-11T04:07:19.609Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #36
+ok
+Config
+2017-08-11T04:07:21.024Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #37
+ok
+Config
+2017-08-11T04:07:22.443Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #38
+ok
+Config
+2017-08-11T04:07:23.865Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #39
+ok
+Config
+2017-08-11T04:07:25.283Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #40
+ok
+Config
+2017-08-11T04:07:26.713Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #41
+ok
+Config
+2017-08-11T04:07:28.121Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #42
+ok
+Config
+2017-08-11T04:07:29.535Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #43
+ok
+Config
+2017-08-11T04:07:30.962Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #44
+ok
+Config
+2017-08-11T04:07:32.393Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #45
+ok
+Config
+2017-08-11T04:07:33.822Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #46
+ok
+Config
+2017-08-11T04:07:35.228Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #47
+ok
+Config
+2017-08-11T04:07:36.656Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #48
+ok
+Config
+2017-08-11T04:07:38.071Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #49
+ok
+Config
+2017-08-11T04:07:39.502Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #50
+ok
+Config
+2017-08-11T04:07:40.934Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #51
+ok
+Config
+2017-08-11T04:07:42.372Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #52
+ok
+Config
+2017-08-11T04:07:43.815Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #53
+ok
+Config
+2017-08-11T04:07:45.251Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #54
+ok
+Config
+2017-08-11T04:07:46.695Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #55
+ok
+Config
+2017-08-11T04:07:48.122Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #56
+ok
+Config
+2017-08-11T04:07:49.543Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #57
+ok
+Config
+2017-08-11T04:07:50.955Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #58
+ok
+Config
+2017-08-11T04:07:52.379Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #59
+ok
+Config
+2017-08-11T04:07:53.812Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #60
+ok
+Config
+2017-08-11T04:07:55.223Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #61
+ok
+Config
+2017-08-11T04:07:56.651Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #62
+ok
+Config
+2017-08-11T04:07:58.047Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #63
+ok
+Config
+2017-08-11T04:07:59.437Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #64
+ok
+Config
+2017-08-11T04:08:00.855Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #65
+ok
+Config
+2017-08-11T04:08:02.295Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #66
+ok
+Config
+2017-08-11T04:08:03.719Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #67
+ok
+Config
+2017-08-11T04:08:05.139Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #68
+ok
+Config
+2017-08-11T04:08:06.551Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #69
+ok
+Config
+2017-08-11T04:08:07.972Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #70
+ok
+Config
+2017-08-11T04:08:09.391Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #71
+ok
+Config
+2017-08-11T04:08:10.803Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #72
+ok
+Config
+2017-08-11T04:08:12.231Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #73
+ok
+Config
+2017-08-11T04:08:13.647Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #74
+ok
+Config
+2017-08-11T04:08:15.071Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #75
+ok
+Config
+2017-08-11T04:08:16.506Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #76
+ok
+Config
+2017-08-11T04:08:17.929Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #77
+ok
+Config
+2017-08-11T04:08:19.352Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #78
+ok
+Config
+2017-08-11T04:08:20.813Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #79
+ok
+Config
+2017-08-11T04:08:22.230Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #80
+ok
+Config
+2017-08-11T04:08:23.661Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #81
+ok
+Config
+2017-08-11T04:08:25.076Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #82
+ok
+Config
+2017-08-11T04:08:26.496Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #83
+ok
+Config
+2017-08-11T04:08:27.923Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #84
+ok
+Config
+2017-08-11T04:08:29.331Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #85
+ok
+Config
+2017-08-11T04:08:30.739Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #86
+ok
+Config
+2017-08-11T04:08:32.145Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #87
+ok
+Config
+2017-08-11T04:08:33.559Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #88
+ok
+Config
+2017-08-11T04:08:34.967Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #89
+ok
+Config
+2017-08-11T04:08:36.376Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #90
+ok
+Config
+2017-08-11T04:08:37.783Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #91
+ok
+Config
+2017-08-11T04:08:39.191Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #92
+ok
+Config
+2017-08-11T04:08:40.608Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #93
+ok
+Config
+2017-08-11T04:08:42.017Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #94
+ok
+Config
+2017-08-11T04:08:43.431Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #95
+ok
+Config
+2017-08-11T04:08:44.835Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #96
+ok
+Config
+2017-08-11T04:08:46.245Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #97
+ok
+Config
+2017-08-11T04:08:47.653Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #98
+ok
+Config
+2017-08-11T04:08:49.055Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #99
+ok
+Config
+2017-08-11T04:08:50.468Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #100
+ok
+Config
+2017-08-11T04:08:51.875Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #101
+ok
+Config
+2017-08-11T04:08:53.301Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #102
+ok
+Config
+2017-08-11T04:08:54.690Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #103
+ok
+Config
+2017-08-11T04:08:56.103Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #104
+ok
+Config
+2017-08-11T04:08:57.513Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #105
+ok
+Config
+2017-08-11T04:08:58.917Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #106
+ok
+Config
+2017-08-11T04:09:00.315Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #107
+ok
+Config
+2017-08-11T04:09:01.724Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #108
+ok
+Config
+2017-08-11T04:09:03.135Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #109
+ok
+Config
+2017-08-11T04:09:04.559Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #110
+ok
+Config
+2017-08-11T04:09:05.977Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #111
+ok
+Config
+2017-08-11T04:09:07.383Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #112
+ok
+Config
+2017-08-11T04:09:08.807Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #113
+ok
+Config
+2017-08-11T04:09:10.238Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #114
+ok
+Config
+2017-08-11T04:09:11.675Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #115
+ok
+Config
+2017-08-11T04:09:13.095Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #116
+ok
+Config
+2017-08-11T04:09:14.521Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #117
+ok
+Config
+2017-08-11T04:09:15.934Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #118
+ok
+Config
+2017-08-11T04:09:17.351Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #119
+ok
+Config
+2017-08-11T04:09:18.763Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #120
+ok
+Config
+2017-08-11T04:09:20.178Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #121
+ok
+Config
+2017-08-11T04:09:21.588Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #122
+ok
+Config
+2017-08-11T04:09:23.005Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #123
+ok
+Config
+2017-08-11T04:09:24.406Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #124
+ok
+Config
+2017-08-11T04:09:25.820Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #125
+ok
+Config
+2017-08-11T04:09:27.243Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #126
+ok
+Config
+2017-08-11T04:09:28.647Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #127
+ok
+Config
+2017-08-11T04:09:30.071Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #128
+ok
+Config
+2017-08-11T04:09:31.499Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #129
+ok
+Config
+2017-08-11T04:09:32.925Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #130
+ok
+Config
+2017-08-11T04:09:34.339Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #131
+ok
+Config
+2017-08-11T04:09:35.802Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #132
+ok
+Config
+2017-08-11T04:09:37.211Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #133
+ok
+Config
+2017-08-11T04:09:38.624Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #134
+ok
+Config
+2017-08-11T04:09:40.039Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #135
+ok
+Config
+2017-08-11T04:09:41.445Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #136
+ok
+Config
+2017-08-11T04:09:42.877Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #137
+ok
+Config
+2017-08-11T04:09:44.279Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #138
+ok
+Config
+2017-08-11T04:09:45.683Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #139
+ok
+Config
+2017-08-11T04:09:47.081Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #140
+ok
+Config
+2017-08-11T04:09:48.467Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #141
+ok
+Config
+2017-08-11T04:09:49.877Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #142
+ok
+Config
+2017-08-11T04:09:51.298Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #143
+ok
+Config
+2017-08-11T04:09:52.715Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #144
+ok
+Config
+2017-08-11T04:09:54.143Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #145
+ok
+Config
+2017-08-11T04:09:55.563Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #146
+ok
+Config
+2017-08-11T04:09:56.983Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #147
+ok
+Config
+2017-08-11T04:09:58.383Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #148
+ok
+Config
+2017-08-11T04:09:59.791Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #149
+ok
+Config
+2017-08-11T04:10:01.223Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #150
+ok
+Config
+2017-08-11T04:10:02.663Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #151
+ok
+Config
+2017-08-11T04:10:04.085Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #152
+ok
+Config
+2017-08-11T04:10:05.516Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #153
+ok
+Config
+2017-08-11T04:10:06.947Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #154
+ok
+Config
+2017-08-11T04:10:08.366Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #155
+ok
+Config
+2017-08-11T04:10:09.787Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #156
+ok
+Config
+2017-08-11T04:10:11.205Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #157
+ok
+Config
+2017-08-11T04:10:12.634Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #158
+ok
+Config
+2017-08-11T04:10:14.043Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #159
+ok
+Config
+2017-08-11T04:10:15.463Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #160
+ok
+Config
+2017-08-11T04:10:16.898Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #161
+ok
+Config
+2017-08-11T04:10:18.319Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #162
+ok
+Config
+2017-08-11T04:10:19.741Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #163
+ok
+Config
+2017-08-11T04:10:21.163Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #164
+ok
+Config
+2017-08-11T04:10:22.587Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #165
+ok
+Config
+2017-08-11T04:10:24.009Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #166
+ok
+Config
+2017-08-11T04:10:25.423Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #167
+ok
+Config
+2017-08-11T04:10:26.855Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #168
+ok
+Config
+2017-08-11T04:10:28.278Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #169
+ok
+Config
+2017-08-11T04:10:29.684Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #170
+ok
+Config
+2017-08-11T04:10:31.080Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #171
+ok
+Config
+2017-08-11T04:10:32.487Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #172
+ok
+Config
+2017-08-11T04:10:33.923Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #173
+ok
+Config
+2017-08-11T04:10:35.345Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #174
+ok
+Config
+2017-08-11T04:10:36.747Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #175
+ok
+Config
+2017-08-11T04:10:38.175Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #176
+ok
+Config
+2017-08-11T04:10:39.588Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #177
+ok
+Config
+2017-08-11T04:10:41.019Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #178
+ok
+Config
+2017-08-11T04:10:42.451Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #179
+ok
+Config
+2017-08-11T04:10:43.872Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #180
+ok
+Config
+2017-08-11T04:10:45.283Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #181
+ok
+Config
+2017-08-11T04:10:46.847Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: Redis connection to 127.0.0.1:7000 failed - connect ECONNREFUSED 127.0.0.1:7000
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1150:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #182
+ok
+Config
+2017-08-11T04:10:48.254Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+error: Forever detected script was killed by signal: SIGKILL

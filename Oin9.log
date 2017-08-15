@@ -1,0 +1,77 @@
+ok
+Config
+2017-08-10T06:33:15.197Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m11.522 ms - 11[0m
+[0mGET / [32m200 [0m9.803 ms - 11[0m
+io enter middleware
+before decrypt idumk7nXUY3HfzkpbRkghw==
+after decrypt fafafa
+Player ID isfafafa
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598bfe36-7e17277c0944bf487b635871","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"anRwa3Nvdnd2ZHBxdHBoZQ=="},"time":"Thu Aug 10 2017 06:33:26 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502346806099,"url":"/socket.io/?transport=websocket&pass=idumk7nXUY3HfzkpbRkghw%3D%3D&playerId=fafafa","query":{"transport":"websocket","pass":"idumk7nXUY3HfzkpbRkghw==","playerId":"fafafa"}}
+player id fafafa
+hmsent register {"awesome_id":"fafafa","onlineStatus":2,"awesome_chips":0,"login_times":1}
+[ { id: { S: 'fafafa' }, awesome_chips: { N: '1000' } } ]
+hmsent awesomeChips {"awesome_id":"fafafa","onlineStatus":"2","awesome_chips":"1000","login_times":"1"}
+notify_online {
+  "friend_ids" : [
+    "awesome",
+    "vincent"
+  ]
+}
+disconnect fafafa
+disconnect fafafa redis
+friend ids awesome,vincent
+send disconnect to awesome
+send disconnect to vincent
+[0mGET / [32m200 [0m3.577 ms - 11[0m
+[0mGET / [32m200 [0m3.977 ms - 11[0m
+[0mGET / [32m200 [0m2.631 ms - 11[0m
+[0mGET / [32m200 [0m3.227 ms - 11[0m
+[0mGET / [32m200 [0m0.566 ms - 11[0m
+[0mGET / [32m200 [0m0.872 ms - 11[0m
+[0mGET / [32m200 [0m2.080 ms - 11[0m
+[0mGET / [32m200 [0m1.268 ms - 11[0m
+[0mGET / [32m200 [0m1.160 ms - 11[0m
+[0mGET / [32m200 [0m1.524 ms - 11[0m
+[0mGET / [32m200 [0m0.568 ms - 11[0m
+[0mGET / [32m200 [0m0.973 ms - 11[0m
+[0mGET / [32m200 [0m3.136 ms - 11[0m
+[0mGET / [32m200 [0m1.474 ms - 11[0m
+[0mGET / [32m200 [0m0.528 ms - 11[0m
+[0mGET / [32m200 [0m1.400 ms - 11[0m
+[0mGET / [32m200 [0m2.988 ms - 11[0m
+[0mGET / [32m200 [0m4.768 ms - 11[0m
+[0mGET / [32m200 [0m2.822 ms - 11[0m
+[0mGET / [32m200 [0m3.388 ms - 11[0m
+[0mGET / [32m200 [0m1.844 ms - 11[0m
+[0mGET / [32m200 [0m1.743 ms - 11[0m
+[0mGET / [32m200 [0m0.556 ms - 11[0m
+[0mGET / [32m200 [0m0.803 ms - 11[0m
+[0mGET / [32m200 [0m0.554 ms - 11[0m
+[0mGET / [32m200 [0m1.429 ms - 11[0m
+[0mGET / [32m200 [0m0.440 ms - 11[0m
+[0mGET / [32m200 [0m0.253 ms - 11[0m
+[0mGET / [32m200 [0m0.580 ms - 11[0m
+[0mGET / [32m200 [0m2.135 ms - 11[0m
+[0mGET / [32m200 [0m1.053 ms - 11[0m
+[0mGET / [32m200 [0m0.765 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

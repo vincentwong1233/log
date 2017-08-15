@@ -1,0 +1,228 @@
+ok
+Config
+2017-08-11T04:23:02.166Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening redis://172.31.10.82:7001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d312c-1348d138291756fa75f655ba","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"YXdyeHNueHVxZ2hmbG1xZA=="},"time":"Fri Aug 11 2017 04:23:08 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425388503,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-11T04:23:09.078Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening redis://172.31.10.82:7001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m23.032 ms - 11[0m
+[0mGET / [32m200 [0m12.510 ms - 11[0m
+[0mGET / [32m200 [0m8.549 ms - 11[0m
+[0mGET / [32m200 [0m13.236 ms - 11[0m
+[0mGET / [32m200 [0m1.135 ms - 11[0m
+[0mGET / [32m200 [0m1.716 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d315b-63092508519945df299deed6","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"eWNqY3ZvdXFoeGlraXNiaA=="},"time":"Fri Aug 11 2017 04:23:55 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425435650,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-11T04:23:56.234Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening redis://172.31.10.82:7001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m18.566 ms - 11[0m
+[0mGET / [32m200 [0m20.048 ms - 11[0m
+[0mGET / [32m200 [0m5.622 ms - 11[0m
+[0mGET / [32m200 [0m9.295 ms - 11[0m
+[0mGET / [32m200 [0m9.498 ms - 11[0m
+[0mGET / [32m200 [0m9.050 ms - 11[0m
+[0mGET / [32m200 [0m1.931 ms - 11[0m
+[0mGET / [32m200 [0m1.404 ms - 11[0m
+[0mGET / [32m200 [0m0.860 ms - 11[0m
+[0mGET / [32m200 [0m0.985 ms - 11[0m
+[0mGET / [32m200 [0m0.554 ms - 11[0m
+[0mGET / [32m200 [0m0.828 ms - 11[0m
+[0mGET / [32m200 [0m0.565 ms - 11[0m
+[0mGET / [32m200 [0m0.874 ms - 11[0m
+[0mGET / [32m200 [0m1.920 ms - 11[0m
+[0mGET / [32m200 [0m2.258 ms - 11[0m
+[0mGET / [32m200 [0m0.504 ms - 11[0m
+[0mGET / [32m200 [0m0.822 ms - 11[0m
+[0mGET / [32m200 [0m1.280 ms - 11[0m
+[0mGET / [32m200 [0m2.913 ms - 11[0m
+[0mGET / [32m200 [0m1.211 ms - 11[0m
+[0mGET / [32m200 [0m0.371 ms - 11[0m
+[0mGET / [32m200 [0m1.437 ms - 11[0m
+[0mGET / [32m200 [0m1.620 ms - 11[0m
+[0mGET / [32m200 [0m0.672 ms - 11[0m
+[0mGET / [32m200 [0m0.843 ms - 11[0m
+[0mGET / [32m200 [0m0.547 ms - 11[0m
+[0mGET / [32m200 [0m0.916 ms - 11[0m
+[0mGET / [32m200 [0m0.726 ms - 11[0m
+[0mGET / [32m200 [0m1.276 ms - 11[0m
+[0mGET / [32m200 [0m1.227 ms - 11[0m
+[0mGET / [32m200 [0m1.070 ms - 11[0m
+[0mGET / [32m200 [0m1.475 ms - 11[0m
+[0mGET / [32m200 [0m1.048 ms - 11[0m
+[0mGET / [32m200 [0m0.542 ms - 11[0m
+[0mGET / [32m200 [0m0.777 ms - 11[0m
+[0mGET / [32m200 [0m0.512 ms - 11[0m
+[0mGET / [32m200 [0m0.782 ms - 11[0m
+[0mGET / [32m200 [0m1.099 ms - 11[0m
+[0mGET / [32m200 [0m0.296 ms - 11[0m
+[0mGET / [32m200 [0m1.181 ms - 11[0m
+[0mGET / [32m200 [0m0.771 ms - 11[0m
+[0mGET / [32m200 [0m0.492 ms - 11[0m
+[0mGET / [32m200 [0m1.216 ms - 11[0m
+[0mGET / [32m200 [0m0.492 ms - 11[0m
+[0mGET / [32m200 [0m0.762 ms - 11[0m
+[0mGET / [32m200 [0m0.556 ms - 11[0m
+[0mGET / [32m200 [0m0.758 ms - 11[0m
+[0mGET / [32m200 [0m1.855 ms - 11[0m
+[0mGET / [32m200 [0m0.758 ms - 11[0m
+[0mGET / [32m200 [0m0.490 ms - 11[0m
+[0mGET / [32m200 [0m0.775 ms - 11[0m
+[0mGET / [32m200 [0m0.511 ms - 11[0m
+[0mGET / [32m200 [0m0.756 ms - 11[0m
+[0mGET / [32m200 [0m1.839 ms - 11[0m
+[0mGET / [32m200 [0m2.056 ms - 11[0m
+[0mGET / [32m200 [0m1.995 ms - 11[0m
+[0mGET / [32m200 [0m2.978 ms - 11[0m
+[0mGET / [32m200 [0m0.499 ms - 11[0m
+[0mGET / [32m200 [0m0.726 ms - 11[0m
+[0mGET / [32m200 [0m2.483 ms - 11[0m
+[0mGET / [32m200 [0m0.316 ms - 11[0m
+[0mGET / [32m200 [0m0.550 ms - 11[0m
+[0mGET / [32m200 [0m0.784 ms - 11[0m
+[0mGET / [32m200 [0m4.926 ms - 11[0m
+[0mGET / [32m200 [0m4.628 ms - 11[0m
+[0mGET / [32m200 [0m1.389 ms - 11[0m
+[0mGET / [32m200 [0m2.020 ms - 11[0m
+[0mGET / [32m200 [0m1.066 ms - 11[0m
+[0mGET / [32m200 [0m0.854 ms - 11[0m
+[0mGET / [32m200 [0m0.471 ms - 11[0m
+[0mGET / [32m200 [0m0.767 ms - 11[0m
+[0mGET / [32m200 [0m0.467 ms - 11[0m
+[0mGET / [32m200 [0m1.101 ms - 11[0m
+[0mGET / [32m200 [0m1.586 ms - 11[0m
+[0mGET / [32m200 [0m1.931 ms - 11[0m
+[0mGET / [32m200 [0m2.325 ms - 11[0m
+[0mGET / [32m200 [0m0.764 ms - 11[0m
+[0mGET / [32m200 [0m0.536 ms - 11[0m
+[0mGET / [32m200 [0m5.753 ms - 11[0m
+[0mGET / [32m200 [0m0.478 ms - 11[0m
+[0mGET / [32m200 [0m0.735 ms - 11[0m
+[0mGET / [32m200 [0m0.640 ms - 11[0m
+[0mGET / [32m200 [0m2.140 ms - 11[0m
+[0mGET / [32m200 [0m0.629 ms - 11[0m
+[0mGET / [32m200 [0m0.741 ms - 11[0m
+[0mGET / [32m200 [0m0.646 ms - 11[0m
+[0mGET / [32m200 [0m0.764 ms - 11[0m
+[0mGET / [32m200 [0m0.508 ms - 11[0m
+[0mGET / [32m200 [0m0.745 ms - 11[0m
+[0mGET / [32m200 [0m1.346 ms - 11[0m
+[0mGET / [32m200 [0m1.039 ms - 11[0m
+[0mGET / [32m200 [0m1.578 ms - 11[0m
+[0mGET / [32m200 [0m0.788 ms - 11[0m
+[0mGET / [32m200 [0m1.416 ms - 11[0m
+[0mGET / [32m200 [0m0.790 ms - 11[0m
+[0mGET / [32m200 [0m0.951 ms - 11[0m
+[0mGET / [32m200 [0m1.835 ms - 11[0m
+[0mGET / [32m200 [0m0.501 ms - 11[0m
+[0mGET / [32m200 [0m0.738 ms - 11[0m
+[0mGET / [32m200 [0m0.510 ms - 11[0m
+[0mGET / [32m200 [0m0.753 ms - 11[0m
+[0mGET / [32m200 [0m0.542 ms - 11[0m
+[0mGET / [32m200 [0m0.743 ms - 11[0m
+[0mGET / [32m200 [0m0.463 ms - 11[0m
+[0mGET / [32m200 [0m0.702 ms - 11[0m
+[0mGET / [32m200 [0m2.234 ms - 11[0m
+[0mGET / [32m200 [0m2.451 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

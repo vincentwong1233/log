@@ -1,0 +1,57 @@
+ok
+Config
+Tue Aug 01 2017 10:22:03 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2451
+tcpPort listening 3008
+======================
+Server listening at port 3008
+[0mGET / [32m200 [0m23.962 ms - 11[0m
+[0mGET / [32m200 [0m32.058 ms - 11[0m
+[0mGET / [32m200 [0m10.031 ms - 11[0m
+[0mGET / [32m200 [0m14.084 ms - 11[0m
+[0mGET / [32m200 [0m13.993 ms - 11[0m
+[0mGET / [32m200 [0m1.013 ms - 11[0m
+[0mGET / [32m200 [0m1.415 ms - 11[0m
+[0mGET / [32m200 [0m13.972 ms - 11[0m
+[0mGET / [32m200 [0m1.819 ms - 11[0m
+[0mGET / [32m200 [0m0.392 ms - 11[0m
+[0mGET / [32m200 [0m11.760 ms - 11[0m
+[0mGET / [32m200 [0m0.959 ms - 11[0m
+[0mGET / [32m200 [0m9.853 ms - 11[0m
+[0mGET / [32m200 [0m9.125 ms - 11[0m
+[0mGET / [32m200 [0m13.161 ms - 11[0m
+[0mGET / [32m200 [0m11.324 ms - 11[0m
+[0mGET / [32m200 [0m0.814 ms - 11[0m
+[0mGET / [32m200 [0m2.474 ms - 11[0m
+[0mGET / [32m200 [0m3.892 ms - 11[0m
+[0mGET / [32m200 [0m7.637 ms - 11[0m
+[0mGET / [32m200 [0m2.294 ms - 11[0m
+[0mGET / [32m200 [0m9.287 ms - 11[0m
+[0mGET / [32m200 [0m10.726 ms - 11[0m
+[0mGET / [32m200 [0m2.095 ms - 11[0m
+[0mGET / [32m200 [0m16.149 ms - 11[0m
+[0mGET / [32m200 [0m0.463 ms - 11[0m
+[0mGET / [32m200 [0m9.151 ms - 11[0m
+[0mGET / [32m200 [0m0.354 ms - 11[0m
+[0mGET / [32m200 [0m11.169 ms - 11[0m
+[0mGET / [32m200 [0m0.952 ms - 11[0m
+[0mGET / [32m200 [0m18.662 ms - 11[0m
+[0mGET / [32m200 [0m5.402 ms - 11[0m
+[0mGET / [32m200 [0m1.886 ms - 11[0m
+[0mGET / [32m200 [0m3.259 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

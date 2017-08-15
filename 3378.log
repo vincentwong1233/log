@@ -1,0 +1,432 @@
+ok
+Config
+2017-08-11T04:16:56.279Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m20.039 ms - 11[0m
+[0mGET / [32m200 [0m27.959 ms - 11[0m
+[0mGET / [32m200 [0m8.875 ms - 11[0m
+[0mGET / [32m200 [0m7.534 ms - 11[0m
+[0mGET / [32m200 [0m1.149 ms - 11[0m
+[0mGET / [32m200 [0m1.888 ms - 11[0m
+[0mGET / [32m200 [0m0.609 ms - 11[0m
+[0mGET / [32m200 [0m1.306 ms - 11[0m
+[0mGET / [32m200 [0m0.840 ms - 11[0m
+[0mGET / [32m200 [0m1.051 ms - 11[0m
+[0mGET / [32m200 [0m0.469 ms - 11[0m
+[0mGET / [32m200 [0m0.307 ms - 11[0m
+[0mGET / [32m200 [0m0.596 ms - 11[0m
+[0mGET / [32m200 [0m0.898 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3018-6488810775b6443162ce8bee","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"eGNvcnVzbXliY2plZG5xbg=="},"time":"Fri Aug 11 2017 04:18:32 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425112033,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-11T04:18:32.617Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d301c-4cb1df851638d4cc1b5e290e","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"Z2dsZnZvdG1td3VoZGl1eA=="},"time":"Fri Aug 11 2017 04:18:37 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425117015,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-11T04:18:37.601Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m10.427 ms - 11[0m
+[0mGET / [32m200 [0m10.694 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3025-531e125326f400bd63281dec","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"d3NmYmxtZW5yeXFhZ3N1aQ=="},"time":"Fri Aug 11 2017 04:18:45 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425125243,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+2017-08-11T04:18:45.822Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3029-53e1e77906ab8b2e5eced633","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"aHFzcnR0eXFldGZsb3ZydQ=="},"time":"Fri Aug 11 2017 04:18:50 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425130004,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+ok
+Config
+2017-08-11T04:18:50.589Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d302e-7caf12c80da186040c4cdb6e","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"b25reGJtZ3l2amp1bXd5ag=="},"time":"Fri Aug 11 2017 04:18:54 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425134668,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+ok
+Config
+2017-08-11T04:18:55.242Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m10.425 ms - 11[0m
+[0mGET / [32m200 [0m10.642 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3034-7453126253850b90783bc61c","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"YXV0bWplZnNsamh4c3hmcQ=="},"time":"Fri Aug 11 2017 04:19:00 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425140548,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+ok
+Config
+2017-08-11T04:19:01.128Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3036-617797d0036b157b32a08021","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"eWlkc2tidWtjaGZ5a29qZA=="},"time":"Fri Aug 11 2017 04:19:02 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425142228,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+ok
+Config
+2017-08-11T04:19:02.804Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+encrypted phone number a4YhnIh2OFsokuZNsDJhuw==
+encrypted country code ee+yuOXCLtUQ0mvDOiDtrA==
+country code 
+phone number phone_number
+identityId us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55
+get_open_id _phoneNumber phone_number
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NzIxZTUwMTUtODJkYy00ZGRkLTliNzgtOTg3MDg3ZGQxYTU1IiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTpwaG9uZV9udW1iZXIiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJleHAiOjE1MDI0Mjg3NDMsImlhdCI6MTUwMjQyNTE0M30.NmPCt78gqzu943RtaL6uu7Mm7M0okFyOtw6785C71WiJLNR9qoG9nklYxujK2-QUa5LkhaWnQjf8S_fejvzID-Ym5nXf3gm1EdQF9coF4iFZhXxBJjsqioBkghpNp2s6ye0s9OWLcK6bs0oLvvL49oNkKL3F6B3f0qrTwEy_D7MG1Q2V__XeU0ky0McSVTzrJ3auZay9DvmrGx2ak_ZEUuNZQTvd_0G5I6lKTG7lkEGGxJV03G9aCqKn5N5n7B7ORAsKGNsuNL2sHnLzs5U1JLgFbReqSXfkzgNhzPjuGc0uLURRHWeJ3SD4yDtz_9r8eJp8aeuKxqAVKsrcjM4aWw' }
+[0mGET /get_token/a4YhnIh2OFsokuZNsDJhuw==/ee+yuOXCLtUQ0mvDOiDtrA==/us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55 [32m200 [0m146.583 ms - 907[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3039-3952b4c7356e77fa7964d153","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"eGF5YmR3b3NybXFjZGtscQ=="},"time":"Fri Aug 11 2017 04:19:05 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425145050,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"awesome_id":"vincent63472","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 7909 172.31.10.82:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+ok
+Config
+2017-08-11T04:19:05.619Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+redisPort listening 7001
+======================
+Server listening at port 3001
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3039-70347340080bf29f362f2212","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"anFtZGJia21tcmtseG93bg=="},"time":"Fri Aug 11 2017 04:19:05 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425145884,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1

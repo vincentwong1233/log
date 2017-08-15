@@ -1,0 +1,169 @@
+ok
+Config
+2017-08-09T10:01:31.082Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+[0mGET / [32m200 [0m10.244 ms - 11[0m
+[0mGET / [32m200 [0m10.511 ms - 11[0m
+io enter middleware
+before decrypt LyCnrCX0iHgRGm2b+5eHKg==
+after decrypt andrewwan
+Player ID isandrewwan
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598add84-1ee2532e02ff7a935556d8b1","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"jk6ZHv/upmoiN8QYqJXlCg==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Wed Aug 09 2017 10:01:40 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":false,"secure":false,"issued":1502272900013,"url":"/socket.io/?EIO=3&playerId=andrewwan&pass=LyCnrCX0iHgRGm2b%2B5eHKg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"andrewwan","pass":"LyCnrCX0iHgRGm2b+5eHKg==","transport":"websocket"}}
+player id andrewwan
+/home/ec2-user/abc/awsome_modules/IOConnection.js:127
+        console.log("hmsent register " + JSON.stringify(playerInfo));
+                                                        ^
+
+ReferenceError: playerInfo is not defined
+    at Namespace.<anonymous> (/home/ec2-user/abc/awsome_modules/IOConnection.js:127:57)
+    at emitOne (events.js:115:13)
+    at Namespace.emit (events.js:210:7)
+    at Namespace.emit (/home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-09T10:01:40.586Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+io enter middleware
+before decrypt 1KTVrMYy/Ecrba5M8HkfSg==
+after decrypt vincent9
+Player ID isvincent9
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598add85-570aee9d2d39490e425334b4","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"d2lrbXdzd3NhZ2Zpdm14dQ=="},"time":"Wed Aug 09 2017 10:01:41 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502272901359,"url":"/socket.io/?transport=websocket&pass=1KTVrMYy%2FEcrba5M8HkfSg%3D%3D&playerId=vincent9","query":{"transport":"websocket","pass":"1KTVrMYy/Ecrba5M8HkfSg==","playerId":"vincent9"}}
+player id vincent9
+/home/ec2-user/abc/awsome_modules/IOConnection.js:127
+        console.log("hmsent register " + JSON.stringify(playerInfo));
+                                                        ^
+
+ReferenceError: playerInfo is not defined
+    at Namespace.<anonymous> (/home/ec2-user/abc/awsome_modules/IOConnection.js:127:57)
+    at emitOne (events.js:115:13)
+    at Namespace.emit (events.js:210:7)
+    at Namespace.emit (/home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-09T10:01:42.064Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+io enter middleware
+before decrypt 1KTVrMYy/Ecrba5M8HkfSg==
+after decrypt vincent9
+Player ID isvincent9
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598add87-6a795818064ada3869efcc68","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"bWNlY2F4aHJ1YXZ5d3Zwdg=="},"time":"Wed Aug 09 2017 10:01:43 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502272903685,"url":"/socket.io/?transport=websocket&pass=1KTVrMYy%2FEcrba5M8HkfSg%3D%3D&playerId=vincent9","query":{"transport":"websocket","pass":"1KTVrMYy/Ecrba5M8HkfSg==","playerId":"vincent9"}}
+player id vincent9
+/home/ec2-user/abc/awsome_modules/IOConnection.js:127
+        console.log("hmsent register " + JSON.stringify(playerInfo));
+                                                        ^
+
+ReferenceError: playerInfo is not defined
+    at Namespace.<anonymous> (/home/ec2-user/abc/awsome_modules/IOConnection.js:127:57)
+    at emitOne (events.js:115:13)
+    at Namespace.emit (events.js:210:7)
+    at Namespace.emit (/home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+2017-08-09T10:01:44.253Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+Server listening at port 3001
+io enter middleware
+before decrypt 1KTVrMYy/Ecrba5M8HkfSg==
+after decrypt vincent9
+Player ID isvincent9
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598add88-1bd139ae3e0fe13c007210ef","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"cmJpbmlvaG1nZnh0bnN5eQ=="},"time":"Wed Aug 09 2017 10:01:44 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502272904564,"url":"/socket.io/?transport=websocket&pass=1KTVrMYy%2FEcrba5M8HkfSg%3D%3D&playerId=vincent9","query":{"transport":"websocket","pass":"1KTVrMYy/Ecrba5M8HkfSg==","playerId":"vincent9"}}
+player id vincent9
+/home/ec2-user/abc/awsome_modules/IOConnection.js:127
+        console.log("hmsent register " + JSON.stringify(playerInfo));
+                                                        ^
+
+ReferenceError: playerInfo is not defined
+    at Namespace.<anonymous> (/home/ec2-user/abc/awsome_modules/IOConnection.js:127:57)
+    at emitOne (events.js:115:13)
+    at Namespace.emit (events.js:210:7)
+    at Namespace.emit (/home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:212:10)
+    at /home/ec2-user/abc/node_modules/socket.io/lib/namespace.js:180:14
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+error: Forever detected script exited with code: 1

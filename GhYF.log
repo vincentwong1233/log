@@ -1,0 +1,1099 @@
+ok
+Config
+2017-08-11T04:59:51.508Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt dNby31RU6x6ebAn0Z5hU8A==
+after decrypt eric
+Player ID iseric
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.225.29","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d39d0-4eb2643f396b2dec3d80ac87","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"Z29qdm1vb3lkaW5mdnltdg=="},"time":"Fri Aug 11 2017 05:00:00 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502427600888,"url":"/socket.io/?transport=websocket&pass=dNby31RU6x6ebAn0Z5hU8A%3D%3D&playerId=eric","query":{"transport":"websocket","pass":"dNby31RU6x6ebAn0Z5hU8A==","playerId":"eric"}}
+player id eric
+hmsent register {"login_times":1}
+[ { id: { S: 'eric' }, awesome_chips: { N: '50591' } } ]
+hmsent awesomeChips {"login_times":"1","awesome_chips":"50591"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+hgetall{"login_times":"1","awesome_chips":"50591"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+action_packet {
+  "packet_id" : "59714519-0597-4B17-A99A-EB7D4C4E2CE5-14208-000015E5FB49576F",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "7e2a1439-6bde-443a-93d3-8c4bd13ed5bd",
+    "sender_id" : "eric",
+    "message_id" : "BE21E509-B199-42D7-B6B2-71044BDB00DE-2515-000002980166C2CD",
+    "chat_id" : "2017-08-09T15:11:25.621Z_sharonli",
+    "recipient_id" : "sharonli"
+  }
+}
+************************************************************************
+=========================Notify message deliveryed======================
+************************************************************************
+{
+  "packet_id" : "59714519-0597-4B17-A99A-EB7D4C4E2CE5-14208-000015E5FB49576F",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "7e2a1439-6bde-443a-93d3-8c4bd13ed5bd",
+    "sender_id" : "eric",
+    "message_id" : "BE21E509-B199-42D7-B6B2-71044BDB00DE-2515-000002980166C2CD",
+    "chat_id" : "2017-08-09T15:11:25.621Z_sharonli",
+    "recipient_id" : "sharonli"
+  }
+}
+[0mGET / [32m200 [0m18.107 ms - 11[0m
+[0mGET / [32m200 [0m0.774 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m4.213 ms - 11[0m
+[0mGET / [32m200 [0m2.624 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m0.623 ms - 11[0m
+[0mGET / [32m200 [0m1.012 ms - 11[0m
+[0mGET / [32m200 [0m0.574 ms - 11[0m
+[0mGET / [32m200 [0m0.873 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m2.117 ms - 11[0m
+[0mGET / [32m200 [0m0.703 ms - 11[0m
+[0mGET / [32m200 [0m5.397 ms - 11[0m
+[0mGET / [32m200 [0m0.320 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m0.522 ms - 11[0m
+[0mGET / [32m200 [0m0.883 ms - 11[0m
+[0mGET / [32m200 [0m1.115 ms - 11[0m
+[0mGET / [32m200 [0m0.307 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "rick",
+    "eric",
+    "eddy",
+    "ck",
+    "ivanlgpro2",
+    "cara",
+    "ivannew",
+    "ant7",
+    "ant5",
+    "elvisyeung",
+    "awesome",
+    "andrew",
+    "ivan-nokia6",
+    "andrew-chevk",
+    "descendentofsun",
+    "andrew-test",
+    "conniechen",
+    "vincent6",
+    "vincent",
+    "andrewwan",
+    "123123123",
+    "lingtse",
+    "sharonli",
+    "maclo",
+    "katrinaluisy",
+    "ivan",
+    "vincent9",
+    "(null)",
+    "chun",
+    "roy"
+  ]
+}
+Send message channel:eric:friend_online msg:{"friendId":"eric"}
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"awesome_chips":"50591","friendIds":"[\"rick\",\"eric\",\"eddy\",\"ck\",\"ivanlgpro2\",\"cara\",\"ivannew\",\"ant7\",\"ant5\",\"elvisyeung\",\"awesome\",\"andrew\",\"ivan-nokia6\",\"andrew-chevk\",\"descendentofsun\",\"andrew-test\",\"conniechen\",\"vincent6\",\"vincent\",\"andrewwan\",\"123123123\",\"lingtse\",\"sharonli\",\"maclo\",\"katrinaluisy\",\"ivan\",\"vincent9\",\"(null)\",\"chun\",\"roy\"]","login_times":"1"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m0.485 ms - 11[0m
+[0mGET / [32m200 [0m0.790 ms - 11[0m
+************************************************************************
+==============================Disconnect================================
+************************************************************************
+disconnect eric
+disconnect eric redis
+friend ids rick,eric,eddy,ck,ivanlgpro2,cara,ivannew,ant7,ant5,elvisyeung,awesome,andrew,ivan-nokia6,andrew-chevk,descendentofsun,andrew-test,conniechen,vincent6,vincent,andrewwan,123123123,lingtse,sharonli,maclo,katrinaluisy,ivan,vincent9,(null),chun,roy
+send disconnect to rick
+send disconnect to eric
+send disconnect to eddy
+send disconnect to ck
+send disconnect to ivanlgpro2
+send disconnect to cara
+send disconnect to ivannew
+send disconnect to ant7
+send disconnect to ant5
+send disconnect to elvisyeung
+send disconnect to awesome
+send disconnect to andrew
+send disconnect to ivan-nokia6
+send disconnect to andrew-chevk
+send disconnect to descendentofsun
+send disconnect to andrew-test
+send disconnect to conniechen
+send disconnect to vincent6
+send disconnect to vincent
+send disconnect to andrewwan
+send disconnect to 123123123
+send disconnect to lingtse
+send disconnect to sharonli
+send disconnect to maclo
+send disconnect to katrinaluisy
+send disconnect to ivan
+send disconnect to vincent9
+send disconnect to (null)
+send disconnect to chun
+send disconnect to roy
+[0mGET / [32m200 [0m2.222 ms - 11[0m
+[0mGET / [32m200 [0m1.667 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

@@ -1,0 +1,560 @@
+ok
+Config
+2017-08-11T04:52:20.553Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-11T04:52:22.174Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-11T04:52:23.784Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+2017-08-11T04:52:25.390Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+ok
+Config
+2017-08-11T04:52:26.999Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+ok
+Config
+2017-08-11T04:52:28.607Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+ok
+Config
+2017-08-11T04:52:30.211Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #7
+ok
+Config
+2017-08-11T04:52:31.810Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #8
+ok
+Config
+2017-08-11T04:52:33.781Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #9
+ok
+Config
+2017-08-11T04:52:35.553Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #10
+ok
+Config
+2017-08-11T04:52:37.156Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #11
+ok
+Config
+2017-08-11T04:52:38.765Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #12
+ok
+Config
+2017-08-11T04:52:40.488Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2493
+tcpPort listening 3001
+======================
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: listen EADDRINUSE :::3001
+    at Object.exports._errnoException (util.js:1024:11)
+    at exports._exceptionWithHostPort (util.js:1047:20)
+    at Server.setupListenHandle [as _listen2] (net.js:1319:14)
+    at listenInCluster (net.js:1367:12)
+    at Server.listen (net.js:1467:7)
+    at Object.init (/home/ec2-user/abc/awsome_modules/IOConnection.js:51:12)
+    at Object.<anonymous> (/home/ec2-user/abc/Server.js:81:55)
+    at Module._compile (module.js:569:30)
+    at Object.Module._extensions..js (module.js:580:10)
+    at Module.load (module.js:503:32)
+    at tryModuleLoad (module.js:466:12)
+    at Function.Module._load (module.js:458:3)
+    at Function.Module.runMain (module.js:605:10)
+    at startup (bootstrap_node.js:158:16)
+    at bootstrap_node.js:575:3
+error: Forever detected script exited with code: 1
+error: Script restart attempt #13
+error: Forever detected script was killed by signal: SIGKILL

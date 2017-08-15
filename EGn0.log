@@ -1,0 +1,644 @@
+ok
+Config
+2017-08-11T04:37:57.711Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening undefined
+======================
+Server listening at port 3000
+[0mGET / [32m200 [0m12.979 ms - 11[0m
+[0mGET / [32m200 [0m16.342 ms - 11[0m
+[0mGET / [32m200 [0m2.327 ms - 11[0m
+[0mGET / [32m200 [0m4.175 ms - 11[0m
+[0mGET / [32m200 [0m2.870 ms - 11[0m
+[0mGET / [32m200 [0m2.780 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt QG6M8MAJWKZiQQ/1Vr3aHA==
+after decrypt vincent
+Player ID isvincent
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.170.146","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d34d1-12fee9bb632cc7aa68514fd3","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"aW9jbnBuY2h5dG1ibGhoaQ=="},"time":"Fri Aug 11 2017 04:38:41 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502426321233,"url":"/socket.io/?transport=websocket&pass=QG6M8MAJWKZiQQ%2F1Vr3aHA%3D%3D&playerId=vincent","query":{"transport":"websocket","pass":"QG6M8MAJWKZiQQ/1Vr3aHA==","playerId":"vincent"}}
+player id vincent
+hmsent register {"login_times":1}
+[ { id: { S: 'vincent' }, awesome_chips: { N: '17022' } } ]
+hmsent awesomeChips {"login_times":"1","awesome_chips":"17022"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "vincent",
+    "a4",
+    "hellowin",
+    "wilson",
+    "vincent8",
+    "ant8",
+    "68666666",
+    "cara",
+    "samsung",
+    "ck",
+    "vincent7",
+    "vincent6",
+    "123123123",
+    "a3",
+    "a58330",
+    "vincent2",
+    "a5",
+    "vincent3",
+    "vincent4",
+    "vincent5",
+    "a",
+    "wilson2",
+    "abc",
+    "asdx",
+    "abav",
+    "abxl",
+    "ascv",
+    "testonly",
+    "an4",
+    "vincent28",
+    "an2",
+    "vincent31",
+    "vin999",
+    "vincent32",
+    "68111111",
+    "68000000",
+    "68333333",
+    "ant9",
+    "ant7",
+    "ant5",
+    "eddy",
+    "eric",
+    "awesome",
+    "descendentofsun",
+    "v1",
+    "vv4",
+    "ivan",
+    "andrewwan",
+    "pet",
+    "fafafa",
+    "vincent9",
+    "lufa",
+    "vincent63472",
+    "ivannew",
+    "ivan-nokia6"
+  ]
+}
+Send message channel:vincent:friend_online msg:{"friendId":"vincent"}
+hgetall{"login_times":"1","awesome_chips":"17022"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"onlineStatus":"2","login_times":"7","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+[0mGET / [32m200 [0m0.742 ms - 11[0m
+[0mGET / [32m200 [0m0.407 ms - 11[0m
+************************************************************************
+==============================Disconnect================================
+************************************************************************
+disconnect vincent
+disconnect vincent redis
+friend ids vincent,a4,hellowin,wilson,vincent8,ant8,68666666,cara,samsung,ck,vincent7,vincent6,123123123,a3,a58330,vincent2,a5,vincent3,vincent4,vincent5,a,wilson2,abc,asdx,abav,abxl,ascv,testonly,an4,vincent28,an2,vincent31,vin999,vincent32,68111111,68000000,68333333,ant9,ant7,ant5,eddy,eric,awesome,descendentofsun,v1,vv4,ivan,andrewwan,pet,fafafa,vincent9,lufa,vincent63472,ivannew,ivan-nokia6
+send disconnect to vincent
+send disconnect to a4
+send disconnect to hellowin
+send disconnect to wilson
+send disconnect to vincent8
+send disconnect to ant8
+send disconnect to 68666666
+send disconnect to cara
+send disconnect to samsung
+send disconnect to ck
+send disconnect to vincent7
+send disconnect to vincent6
+send disconnect to 123123123
+send disconnect to a3
+send disconnect to a58330
+send disconnect to vincent2
+send disconnect to a5
+send disconnect to vincent3
+send disconnect to vincent4
+send disconnect to vincent5
+send disconnect to a
+send disconnect to wilson2
+send disconnect to abc
+send disconnect to asdx
+send disconnect to abav
+send disconnect to abxl
+send disconnect to ascv
+send disconnect to testonly
+send disconnect to an4
+send disconnect to vincent28
+send disconnect to an2
+send disconnect to vincent31
+send disconnect to vin999
+send disconnect to vincent32
+send disconnect to 68111111
+send disconnect to 68000000
+send disconnect to 68333333
+send disconnect to ant9
+send disconnect to ant7
+send disconnect to ant5
+send disconnect to eddy
+send disconnect to eric
+send disconnect to awesome
+send disconnect to descendentofsun
+send disconnect to v1
+send disconnect to vv4
+send disconnect to ivan
+send disconnect to andrewwan
+send disconnect to pet
+send disconnect to fafafa
+send disconnect to vincent9
+send disconnect to lufa
+send disconnect to vincent63472
+send disconnect to ivannew
+send disconnect to ivan-nokia6
+[0mGET / [32m200 [0m1.024 ms - 11[0m
+[0mGET / [32m200 [0m1.228 ms - 11[0m
+[0mGET / [32m200 [0m0.569 ms - 11[0m
+[0mGET / [32m200 [0m0.917 ms - 11[0m
+[0mGET / [32m200 [0m0.635 ms - 11[0m
+[0mGET / [32m200 [0m0.979 ms - 11[0m
+[0mGET / [32m200 [0m4.546 ms - 11[0m
+[0mGET / [32m200 [0m0.270 ms - 11[0m
+[0mGET / [32m200 [0m0.663 ms - 11[0m
+[0mGET / [32m200 [0m0.963 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt QG6M8MAJWKZiQQ/1Vr3aHA==
+after decrypt vincent
+Player ID isvincent
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.170.146","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d3528-3d37b3c028d48b4a4843773b","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"aHVpYmJqZ3Vma3RsdmJ5cg=="},"time":"Fri Aug 11 2017 04:40:08 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502426408918,"url":"/socket.io/?transport=websocket&pass=QG6M8MAJWKZiQQ%2F1Vr3aHA%3D%3D&playerId=vincent","query":{"transport":"websocket","pass":"QG6M8MAJWKZiQQ/1Vr3aHA==","playerId":"vincent"}}
+player id vincent
+hmsent register {"login_times":1}
+[ { id: { S: 'vincent' }, awesome_chips: { N: '17022' } } ]
+hmsent awesomeChips {"login_times":"1","awesome_chips":"17022"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "vincent",
+    "a4",
+    "hellowin",
+    "wilson",
+    "vincent8",
+    "ant8",
+    "68666666",
+    "cara",
+    "samsung",
+    "ck",
+    "vincent7",
+    "vincent6",
+    "123123123",
+    "a3",
+    "a58330",
+    "vincent2",
+    "a5",
+    "vincent3",
+    "vincent4",
+    "vincent5",
+    "a",
+    "wilson2",
+    "abc",
+    "asdx",
+    "abav",
+    "abxl",
+    "ascv",
+    "testonly",
+    "an4",
+    "vincent28",
+    "an2",
+    "vincent31",
+    "vin999",
+    "vincent32",
+    "68111111",
+    "68000000",
+    "68333333",
+    "ant9",
+    "ant7",
+    "ant5",
+    "eddy",
+    "eric",
+    "awesome",
+    "descendentofsun",
+    "v1",
+    "vv4",
+    "ivan",
+    "andrewwan",
+    "pet",
+    "fafafa",
+    "vincent9",
+    "lufa",
+    "vincent63472",
+    "ivannew",
+    "ivan-nokia6"
+  ]
+}
+Send message channel:vincent:friend_online msg:{"friendId":"vincent"}
+hgetall{"login_times":"1","awesome_chips":"17022"}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{"onlineStatus":"2","login_times":"7","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+hgetall{}
+hgetallundefined
+action_packet {
+  "packet_id" : "FABAE960-3DC1-43EE-9BFA-B239EE324887-6004-00000DA7DE6059EE",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "44177fac-d16f-4417-9580-4110fe08f573",
+    "sender_id" : "vincent",
+    "message_id" : "705B64F9-F2E9-4EA9-ACAB-78EE46FC6D78-71219-000096A903A51A05",
+    "chat_id" : "vincent:vincent63472",
+    "recipient_id" : "vincent63472"
+  }
+}
+************************************************************************
+=========================Notify message deliveryed======================
+************************************************************************
+{
+  "packet_id" : "FABAE960-3DC1-43EE-9BFA-B239EE324887-6004-00000DA7DE6059EE",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "44177fac-d16f-4417-9580-4110fe08f573",
+    "sender_id" : "vincent",
+    "message_id" : "705B64F9-F2E9-4EA9-ACAB-78EE46FC6D78-71219-000096A903A51A05",
+    "chat_id" : "vincent:vincent63472",
+    "recipient_id" : "vincent63472"
+  }
+}
+************************************************************************
+==============================Disconnect================================
+************************************************************************
+disconnect vincent
+disconnect vincent redis
+friend ids vincent,a4,hellowin,wilson,vincent8,ant8,68666666,cara,samsung,ck,vincent7,vincent6,123123123,a3,a58330,vincent2,a5,vincent3,vincent4,vincent5,a,wilson2,abc,asdx,abav,abxl,ascv,testonly,an4,vincent28,an2,vincent31,vin999,vincent32,68111111,68000000,68333333,ant9,ant7,ant5,eddy,eric,awesome,descendentofsun,v1,vv4,ivan,andrewwan,pet,fafafa,vincent9,lufa,vincent63472,ivannew,ivan-nokia6
+send disconnect to vincent
+send disconnect to a4
+send disconnect to hellowin
+send disconnect to wilson
+send disconnect to vincent8
+send disconnect to ant8
+send disconnect to 68666666
+send disconnect to cara
+send disconnect to samsung
+send disconnect to ck
+send disconnect to vincent7
+send disconnect to vincent6
+send disconnect to 123123123
+send disconnect to a3
+send disconnect to a58330
+send disconnect to vincent2
+send disconnect to a5
+send disconnect to vincent3
+send disconnect to vincent4
+send disconnect to vincent5
+send disconnect to a
+send disconnect to wilson2
+send disconnect to abc
+send disconnect to asdx
+send disconnect to abav
+send disconnect to abxl
+send disconnect to ascv
+send disconnect to testonly
+send disconnect to an4
+send disconnect to vincent28
+send disconnect to an2
+send disconnect to vincent31
+send disconnect to vin999
+send disconnect to vincent32
+send disconnect to 68111111
+send disconnect to 68000000
+send disconnect to 68333333
+send disconnect to ant9
+send disconnect to ant7
+send disconnect to ant5
+send disconnect to eddy
+send disconnect to eric
+send disconnect to awesome
+send disconnect to descendentofsun
+send disconnect to v1
+send disconnect to vv4
+send disconnect to ivan
+send disconnect to andrewwan
+send disconnect to pet
+send disconnect to fafafa
+send disconnect to vincent9
+send disconnect to lufa
+send disconnect to vincent63472
+send disconnect to ivannew
+send disconnect to ivan-nokia6
+[0mGET / [32m200 [0m3.078 ms - 11[0m
+[0mGET / [32m200 [0m0.303 ms - 11[0m
+register_endpoint_v2 2ABB617F-48F0-4D45-986B-FBDAEE8051FF 00fa714d52ed1ca79d26e7ffc4e389458c7678ceacc8539f08f57f6643709d93 vincent IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m17.105 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+[0mGET / [32m200 [0m0.429 ms - 11[0m
+[0mGET / [32m200 [0m0.475 ms - 11[0m
+[0mGET / [32m200 [0m3.016 ms - 11[0m
+[0mGET / [32m200 [0m3.338 ms - 11[0m
+[0mGET / [32m200 [0m0.414 ms - 11[0m
+[0mGET / [32m200 [0m0.228 ms - 11[0m
+[0mGET / [32m200 [0m0.579 ms - 11[0m
+[0mGET / [32m200 [0m0.891 ms - 11[0m
+[0mGET / [32m200 [0m0.575 ms - 11[0m
+[0mGET / [32m200 [0m0.965 ms - 11[0m
+[0mGET / [32m200 [0m0.456 ms - 11[0m
+[0mGET / [32m200 [0m0.884 ms - 11[0m
+[0mGET / [32m200 [0m0.516 ms - 11[0m
+[0mGET / [32m200 [0m0.909 ms - 11[0m
+[0mGET / [32m200 [0m3.500 ms - 11[0m
+[0mGET / [32m200 [0m0.879 ms - 11[0m
+[0mGET / [32m200 [0m1.812 ms - 11[0m
+[0mGET / [32m200 [0m2.204 ms - 11[0m
+[0mGET / [32m200 [0m1.329 ms - 11[0m
+[0mGET / [32m200 [0m0.830 ms - 11[0m
+[0mGET / [32m200 [0m0.493 ms - 11[0m
+[0mGET / [32m200 [0m0.295 ms - 11[0m
+[0mGET / [32m200 [0m3.034 ms - 11[0m
+[0mGET / [32m200 [0m1.365 ms - 11[0m
+[0mGET / [32m200 [0m0.606 ms - 11[0m
+[0mGET / [32m200 [0m0.993 ms - 11[0m
+[0mGET / [32m200 [0m2.123 ms - 11[0m
+[0mGET / [32m200 [0m0.827 ms - 11[0m
+[0mGET / [32m200 [0m0.415 ms - 11[0m
+[0mGET / [32m200 [0m2.148 ms - 11[0m
+[0mGET / [32m200 [0m0.529 ms - 11[0m
+[0mGET / [32m200 [0m0.845 ms - 11[0m
+[0mGET / [32m200 [0m0.454 ms - 11[0m
+[0mGET / [32m200 [0m0.308 ms - 11[0m
+[0mGET / [32m200 [0m0.569 ms - 11[0m
+[0mGET / [32m200 [0m0.800 ms - 11[0m
+[0mGET / [32m200 [0m0.609 ms - 11[0m
+[0mGET / [32m200 [0m0.891 ms - 11[0m
+[0mGET / [32m200 [0m7.618 ms - 11[0m
+[0mGET / [32m200 [0m0.309 ms - 11[0m
+[0mGET / [32m200 [0m2.497 ms - 11[0m
+[0mGET / [32m200 [0m2.863 ms - 11[0m
+[0mGET / [32m200 [0m0.576 ms - 11[0m
+[0mGET / [32m200 [0m1.058 ms - 11[0m
+[0mGET / [32m200 [0m1.760 ms - 11[0m
+[0mGET / [32m200 [0m2.120 ms - 11[0m
+[0mGET / [32m200 [0m0.550 ms - 11[0m
+[0mGET / [32m200 [0m1.927 ms - 11[0m
+[0mGET / [32m200 [0m0.548 ms - 11[0m
+[0mGET / [32m200 [0m0.943 ms - 11[0m
+[0mGET / [32m200 [0m0.571 ms - 11[0m
+[0mGET / [32m200 [0m0.863 ms - 11[0m
+[0mGET / [32m200 [0m0.459 ms - 11[0m
+[0mGET / [32m200 [0m1.565 ms - 11[0m
+[0mGET / [32m200 [0m0.667 ms - 11[0m
+[0mGET / [32m200 [0m0.833 ms - 11[0m
+[0mGET / [32m200 [0m0.430 ms - 11[0m
+[0mGET / [32m200 [0m0.304 ms - 11[0m
+[0mGET / [32m200 [0m0.526 ms - 11[0m
+[0mGET / [32m200 [0m0.788 ms - 11[0m
+[0mGET / [32m200 [0m0.639 ms - 11[0m
+[0mGET / [32m200 [0m0.779 ms - 11[0m
+[0mGET / [32m200 [0m0.362 ms - 11[0m
+[0mGET / [32m200 [0m0.260 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

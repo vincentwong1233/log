@@ -1,0 +1,739 @@
+ok
+Config
+2017-08-11T04:16:54.755Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+[0mGET / [32m200 [0m40.494 ms - 11[0m
+[0mGET / [32m200 [0m25.439 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fbf-13ddc29c6eaebaa73c5a8597","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"amRmdmV0bGRxZ2lqYmJrcw=="},"time":"Fri Aug 11 2017 04:17:03 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502425023198,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"onlineStatus":"2","login_times":3,"friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+[ { id: { S: 'vincent63472' }, awesome_chips: { N: '590' } } ]
+hmsent awesomeChips {"onlineStatus":"2","login_times":"3","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"3","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"3","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+************************************************************************
+==================================Typing================================
+************************************************************************
+{
+  "text" : ".,x.hideTyping",
+  "friendId" : "vincent9"
+}
+action_packet {
+  "packet_id" : "F5E495AD-1492-4B25-B823-7AB5DF1024A1-71219-0000969DEC1A2A90",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "381E8C23-9C44-4986-A606-37C3E93C9E53-71219-0000969DCF8600A2",
+    "message_type" : "TEXT",
+    "message" : "1",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+************************************************************************
+===============================Send message=============================
+************************************************************************
+{
+  "packet_id" : "F5E495AD-1492-4B25-B823-7AB5DF1024A1-71219-0000969DEC1A2A90",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "381E8C23-9C44-4986-A606-37C3E93C9E53-71219-0000969DCF8600A2",
+    "message_type" : "TEXT",
+    "message" : "1",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ recipient_id: 'vincent9',
+  sender_name: 'vincent6',
+  group_id: 'vincent63472:vincent9',
+  message_id: '381E8C23-9C44-4986-A606-37C3E93C9E53-71219-0000969DCF8600A2',
+  message_type: 'TEXT',
+  message: '1',
+  video_type: '.mov',
+  sender_id: 'vincent63472',
+  dynamo_id: 'b3a11429-4e91-41b3-9056-d3ab95cd9a04',
+  create_at: '2017-08-11T04:17:06.913Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"vincent6 : 1","extra":{"message_type":"single_chat","from_player":"vincent63472"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent63472"}
+************************************************************************
+==================================Typing================================
+************************************************************************
+{
+  "text" : ".,x.hideTyping",
+  "friendId" : "vincent9"
+}
+action_packet {
+  "packet_id" : "37AAC8A2-2E23-4884-889B-60E42A45ACEB-71219-0000969E789EA018",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "370BFC2F-DA4E-4F19-8212-2AD165CACE13-71219-0000969E765D1786",
+    "message_type" : "TEXT",
+    "message" : "2",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+************************************************************************
+===============================Send message=============================
+************************************************************************
+{
+  "packet_id" : "37AAC8A2-2E23-4884-889B-60E42A45ACEB-71219-0000969E789EA018",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "370BFC2F-DA4E-4F19-8212-2AD165CACE13-71219-0000969E765D1786",
+    "message_type" : "TEXT",
+    "message" : "2",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ recipient_id: 'vincent9',
+  sender_name: 'vincent6',
+  group_id: 'vincent63472:vincent9',
+  message_id: '370BFC2F-DA4E-4F19-8212-2AD165CACE13-71219-0000969E765D1786',
+  message_type: 'TEXT',
+  message: '2',
+  video_type: '.mov',
+  sender_id: 'vincent63472',
+  dynamo_id: 'cf83b13b-c3a9-4051-8db0-b17ae86e29b0',
+  create_at: '2017-08-11T04:17:09.271Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"vincent6 : 2","extra":{"message_type":"single_chat","from_player":"vincent63472"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent63472"}
+************************************************************************
+==================================Typing================================
+************************************************************************
+{
+  "text" : ".,x.hideTyping",
+  "friendId" : "vincent9"
+}
+action_packet {
+  "packet_id" : "09FD1F92-A761-4698-91D4-8E4E89A270AA-71219-0000969E9DD97B2A",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "F42C2960-7B3C-418D-91D8-E71B8CBE0523-71219-0000969E9D064264",
+    "message_type" : "TEXT",
+    "message" : "3",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+************************************************************************
+===============================Send message=============================
+************************************************************************
+{
+  "packet_id" : "09FD1F92-A761-4698-91D4-8E4E89A270AA-71219-0000969E9DD97B2A",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "F42C2960-7B3C-418D-91D8-E71B8CBE0523-71219-0000969E9D064264",
+    "message_type" : "TEXT",
+    "message" : "3",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ recipient_id: 'vincent9',
+  sender_name: 'vincent6',
+  group_id: 'vincent63472:vincent9',
+  message_id: 'F42C2960-7B3C-418D-91D8-E71B8CBE0523-71219-0000969E9D064264',
+  message_type: 'TEXT',
+  message: '3',
+  video_type: '.mov',
+  sender_id: 'vincent63472',
+  dynamo_id: '6d07d8fd-2584-471a-91ca-f9695bac1fe5',
+  create_at: '2017-08-11T04:17:09.952Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"vincent6 : 3","extra":{"message_type":"single_chat","from_player":"vincent63472"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent63472"}
+************************************************************************
+==================================Typing================================
+************************************************************************
+{
+  "text" : ".,x.hideTyping",
+  "friendId" : "vincent9"
+}
+************************************************************************
+==================================Typing================================
+************************************************************************
+{
+  "text" : ".,x.hideTyping",
+  "friendId" : "vincent9"
+}
+action_packet {
+  "packet_id" : "F7519ED3-1112-42E9-BD84-6B192CB794BA-71219-0000969EBD1D4516",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "1EA7FD34-6904-4303-87FC-9F1AF6EA7F38-71219-0000969EBD06E9F3",
+    "message_type" : "TEXT",
+    "message" : "45",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+************************************************************************
+===============================Send message=============================
+************************************************************************
+{
+  "packet_id" : "F7519ED3-1112-42E9-BD84-6B192CB794BA-71219-0000969EBD1D4516",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "1EA7FD34-6904-4303-87FC-9F1AF6EA7F38-71219-0000969EBD06E9F3",
+    "message_type" : "TEXT",
+    "message" : "45",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ recipient_id: 'vincent9',
+  sender_name: 'vincent6',
+  group_id: 'vincent63472:vincent9',
+  message_id: '1EA7FD34-6904-4303-87FC-9F1AF6EA7F38-71219-0000969EBD06E9F3',
+  message_type: 'TEXT',
+  message: '45',
+  video_type: '.mov',
+  sender_id: 'vincent63472',
+  dynamo_id: 'f60402fc-52a9-4468-b9a3-0752e42d571e',
+  create_at: '2017-08-11T04:17:10.456Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"vincent6 : 45","extra":{"message_type":"single_chat","from_player":"vincent63472"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent63472"}
+************************************************************************
+==================================Typing================================
+************************************************************************
+{
+  "text" : ".,x.hideTyping",
+  "friendId" : "vincent9"
+}
+action_packet {
+  "packet_id" : "DA0D63BA-4C3D-44B1-B4CC-3C27A03107A6-71219-0000969EDAD3705A",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "0911E534-F2C7-46D4-8D53-37419DC3DE75-71219-0000969EDABC1CF0",
+    "message_type" : "TEXT",
+    "message" : "6",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+************************************************************************
+===============================Send message=============================
+************************************************************************
+{
+  "packet_id" : "DA0D63BA-4C3D-44B1-B4CC-3C27A03107A6-71219-0000969EDAD3705A",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "vincent6",
+    "group_id" : "vincent63472:vincent9",
+    "message_id" : "0911E534-F2C7-46D4-8D53-37419DC3DE75-71219-0000969EDABC1CF0",
+    "message_type" : "TEXT",
+    "message" : "6",
+    "video_type" : ".mov",
+    "sender_id" : "vincent63472"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ recipient_id: 'vincent9',
+  sender_name: 'vincent6',
+  group_id: 'vincent63472:vincent9',
+  message_id: '0911E534-F2C7-46D4-8D53-37419DC3DE75-71219-0000969EDABC1CF0',
+  message_type: 'TEXT',
+  message: '6',
+  video_type: '.mov',
+  sender_id: 'vincent63472',
+  dynamo_id: 'b5d4e664-2c03-49f5-85f0-364c8d693702',
+  create_at: '2017-08-11T04:17:10.960Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"vincent6 : 6","extra":{"message_type":"single_chat","from_player":"vincent63472"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent63472"}
+[0mGET / [32m200 [0m4.046 ms - 11[0m
+[0mGET / [32m200 [0m4.972 ms - 11[0m
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+hgetall{"onlineStatus":"2","login_times":"3","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fce-1d33b43e6c222e9a2d246959","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"bGR1b2duZ3N1Z3hsanloZQ=="},"time":"Fri Aug 11 2017 04:17:18 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425038896,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #1
+ok
+Config
+2017-08-11T04:17:19.474Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fd0-1d995c392a50893c6b7bf561","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"b2hpZHhpcnJ1aGhvdnhzaQ=="},"time":"Fri Aug 11 2017 04:17:20 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425040357,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #2
+ok
+Config
+2017-08-11T04:17:20.943Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+encrypted phone number a4YhnIh2OFsokuZNsDJhuw==
+encrypted country code ee+yuOXCLtUQ0mvDOiDtrA==
+country code 
+phone number phone_number
+identityId us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55
+get_open_id _phoneNumber phone_number
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NzIxZTUwMTUtODJkYy00ZGRkLTliNzgtOTg3MDg3ZGQxYTU1IiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTpwaG9uZV9udW1iZXIiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJleHAiOjE1MDI0Mjg2NDEsImlhdCI6MTUwMjQyNTA0MX0.dAVVnpAcT7BCWkWh0KaJLK6B10MUMJLyGgMRuNjaL_gou9ySqX1OjXOUbik0hxq0Udycf6sDGybdx_icUCbMQYGutFR0yLIuRRbUX27mmdcNjj544Q1gBa7gIG8pRkkbvnnM1ZhZJPv1utFCCBBeJZNI1aVyY7OSRRMXhOQpEVtXwGRHEFjD8uAOj-vzUTgI23s275O3V2uJF5xaUmMAtTDtg14cMgPGIvWrNh4kChubAOBx5ORPGyCc27BaUsRDbYpQP8fHVZBOmcPRAt31DunSzhMxEkSKJnTWpUCqK0tdz3t4btE0dffzKanmtg8bN_QSvlP05ihicV_u-BPP3w' }
+[0mGET /get_token/a4YhnIh2OFsokuZNsDJhuw==/ee+yuOXCLtUQ0mvDOiDtrA==/us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55 [32m200 [0m149.653 ms - 907[0m
+encrypted phone number a4YhnIh2OFsokuZNsDJhuw==
+encrypted country code ee+yuOXCLtUQ0mvDOiDtrA==
+country code 
+phone number phone_number
+identityId us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55
+get_open_id _phoneNumber phone_number
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NzIxZTUwMTUtODJkYy00ZGRkLTliNzgtOTg3MDg3ZGQxYTU1IiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTpwaG9uZV9udW1iZXIiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJleHAiOjE1MDI0Mjg2NDUsImlhdCI6MTUwMjQyNTA0NX0.TYAo6BrA6-N5p69ltUuqd293klrk-gzz_6KjDD53nUVBa4fDzDgmarFWh8_mzhrb1zYESLNMHtKri_ru0cLCEK3LZydCSf6lIDmGWEQO-eftj_a9d01XjTwC1pRu6FlEDZswBqLC-Qos0vKg1IHtLkN7IPvHRMPXN1XSBPWQb44Gjv32Hi1vuczltj96qwvOVlyO_Pb-Joe4uSXvkD0K9qyQOFhVjvSs-yeCz0V89mGmniSPt4cDAMsTNj9HEacz8GX2TCF6Yo4SgcjNu-n1VlG0tsHHf7-tU6_D7FFGwvyoW6IGzq7lDpb57nC4tXGvEHOqBvE3wmIL-kFkBy49Ew' }
+[0mGET /get_token/a4YhnIh2OFsokuZNsDJhuw==/ee+yuOXCLtUQ0mvDOiDtrA==/us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55 [32m200 [0m105.841 ms - 907[0m
+register_endpoint_v2 2ABB617F-48F0-4D45-986B-FBDAEE8051FF 00fa714d52ed1ca79d26e7ffc4e389458c7678ceacc8539f08f57f6643709d93 vincent IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m17.016 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+[0mGET / [32m200 [0m7.325 ms - 11[0m
+[0mGET / [32m200 [0m4.668 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt QG6M8MAJWKZiQQ/1Vr3aHA==
+after decrypt vincent
+Player ID isvincent
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.170.146","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fda-2a1426a05a721ba3011c1b78","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"cmN4c3Jld2tsb3dvZ3Zudw=="},"time":"Fri Aug 11 2017 04:17:30 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502425050058,"url":"/socket.io/?transport=websocket&pass=QG6M8MAJWKZiQQ%2F1Vr3aHA%3D%3D&playerId=vincent","query":{"transport":"websocket","pass":"QG6M8MAJWKZiQQ/1Vr3aHA==","playerId":"vincent"}}
+player id vincent
+hmsent register {"awesome_id":"vincent","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 105 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #3
+ok
+Config
+2017-08-11T04:17:30.636Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt +AG405pJ6B9uVlEtShVbbw==
+after decrypt vincent63472
+Player ID isvincent63472
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fda-58681b73150becca4bf4bc1c","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"c25tcnBnbGdmaHB2dW5qZw=="},"time":"Fri Aug 11 2017 04:17:30 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425050964,"url":"/socket.io/?transport=websocket&pass=%2BAG405pJ6B9uVlEtShVbbw%3D%3D&playerId=vincent63472","query":{"transport":"websocket","pass":"+AG405pJ6B9uVlEtShVbbw==","playerId":"vincent63472"}}
+player id vincent63472
+hmsent register {"onlineStatus":"2","login_times":4,"friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+[ { id: { S: 'vincent63472' }, awesome_chips: { N: '590' } } ]
+hmsent awesomeChips {"onlineStatus":"2","login_times":"4","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "conniechen",
+    "andrewwan",
+    "vincent8",
+    "awesome",
+    "vincent",
+    "vincent63472",
+    "ivan",
+    "hellowin",
+    "vincent9",
+    "vincent7",
+    "testonly"
+  ]
+}
+hgetall{"onlineStatus":"2","login_times":"4","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+hgetallvincent63472
+Send message channel:vincent63472:friend_online msg:{"friendId":"vincent63472"}
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt QG6M8MAJWKZiQQ/1Vr3aHA==
+after decrypt vincent
+Player ID isvincent
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.170.146","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fdb-12e67f8f669f6c36380db782","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"eWNtZXNwbnV0bWJzaXZmeA=="},"time":"Fri Aug 11 2017 04:17:31 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502425051833,"url":"/socket.io/?transport=websocket&pass=QG6M8MAJWKZiQQ%2F1Vr3aHA%3D%3D&playerId=vincent","query":{"transport":"websocket","pass":"QG6M8MAJWKZiQQ/1Vr3aHA==","playerId":"vincent"}}
+player id vincent
+hmsent register {"awesome_id":"vincent","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 105 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #4
+ok
+Config
+2017-08-11T04:17:32.407Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fe4-3ab4914d6cb3225536a4e28c","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"d3J2dHFvaGZtaWJua2h2dw=="},"time":"Fri Aug 11 2017 04:17:40 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425060014,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #5
+ok
+Config
+2017-08-11T04:17:40.597Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt d/5zGRwIv6pmnyZFJkt+XA==
+after decrypt roy
+Player ID isroy
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"124.244.83.51","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fe5-7d1c288677950135604c1668","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"Y2pueGdneG54c2x5amllcg=="},"time":"Fri Aug 11 2017 04:17:41 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":true,"secure":false,"issued":1502425061391,"url":"/socket.io/?transport=websocket&pass=d%2F5zGRwIv6pmnyZFJkt%2BXA%3D%3D&playerId=roy","query":{"transport":"websocket","pass":"d/5zGRwIv6pmnyZFJkt+XA==","playerId":"roy"}}
+player id roy
+hmsent register {"awesome_id":"roy","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 706 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1
+error: Script restart attempt #6
+ok
+Config
+2017-08-11T04:17:41.970Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+redisPort listening 7000
+======================
+Server listening at port 3000
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt QG6M8MAJWKZiQQ/1Vr3aHA==
+after decrypt vincent
+Player ID isvincent
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.170.146","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d2fe6-13b331a93dbbaed43901f8f5","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"cHdtZnRoam9pZHBvY2RjZA=="},"time":"Fri Aug 11 2017 04:17:42 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502425062169,"url":"/socket.io/?transport=websocket&pass=QG6M8MAJWKZiQQ%2F1Vr3aHA%3D%3D&playerId=vincent","query":{"transport":"websocket","pass":"QG6M8MAJWKZiQQ/1Vr3aHA==","playerId":"vincent"}}
+player id vincent
+hmsent register {"awesome_id":"vincent","onlineStatus":2,"awesome_chips":0,"login_times":1}
+
+events.js:182
+      throw er; // Unhandled 'error' event
+      ^
+ReplyError: MOVED 105 172.31.15.99:7000
+    at parseError (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:193:12)
+    at parseType (/home/ec2-user/abc/node_modules/redis-parser/lib/parser.js:303:14)
+error: Forever detected script exited with code: 1

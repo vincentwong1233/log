@@ -1,0 +1,208 @@
+ok
+Config
+2017-08-08T04:36:30.578Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+[0mGET / [32m200 [0m10.986 ms - 11[0m
+[0mGET / [32m200 [0m14.089 ms - 11[0m
+[0mGET / [32m200 [0m7.721 ms - 11[0m
+[0mGET / [32m200 [0m6.273 ms - 11[0m
+io enter middleware
+before decrypt XkYHm2Jk3Yx3tf64Evb9Wg==
+after decrypt 
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-59893ff0-05faa2986a7c619650159c66","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"b8oi5zTdg38KoaBU+4XgGw==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Tue Aug 08 2017 04:37:04 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502167024145,"url":"/socket.io/?EIO=3&playerId=&pass=XkYHm2Jk3Yx3tf64Evb9Wg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"","pass":"XkYHm2Jk3Yx3tf64Evb9Wg==","transport":"websocket"}}
+player id 
+hmsent register {"awesome_id":"","onlineStatus":2,"awesome_chips":0}
+{ ValidationException: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+    at Request.extractError (/home/ec2-user/abc/node_modules/aws-sdk/lib/protocol/json.js:43:27)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:105:20)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:77:10)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:595:14)
+    at Request.transition (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:21:10)
+    at AcceptorStateMachine.runTo (/home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:37:9)
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:597:12)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:115:18)
+  message: 'One or more parameter values were invalid: An AttributeValue may not contain an empty string',
+  code: 'ValidationException',
+  time: 2017-08-08T04:37:04.180Z,
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 0 }
+[0mGET / [32m200 [0m1.100 ms - 11[0m
+[0mGET / [32m200 [0m1.615 ms - 11[0m
+notify_online {"friend_ids" : []}
+disconnect 
+[0mGET / [32m200 [0m4.991 ms - 11[0m
+[0mGET / [32m200 [0m0.933 ms - 11[0m
+[0mGET / [32m200 [0m4.032 ms - 11[0m
+[0mGET / [32m200 [0m0.267 ms - 11[0m
+encrypted phone number xqys9v4w572ReAXMg2RaTw==
+encrypted country code UvZ+8tOpCc3DNB8rlCAGbg==
+country code 852
+phone number 66451327
+identityId null
+get_open_id _phoneNumber 85266451327
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:4d4466ff-c8e2-49d8-9e9b-6ae8cb80c22a',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NGQ0NDY2ZmYtYzhlMi00OWQ4LTllOWItNmFlOGNiODBjMjJhIiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTo4NTI2NjQ1MTMyNyJdLCJpc3MiOiJodHRwczovL2NvZ25pdG8taWRlbnRpdHkuYW1hem9uYXdzLmNvbSIsImV4cCI6MTUwMjE3MDY2NywiaWF0IjoxNTAyMTY3MDY3fQ.g7g5eJUrDbZbAEXa_i8H6Amt5OJCdhHfxiW4QcIMwBwpGTDyodRetzkqQWVPnVAvBRy-celhI8sX8A-PeOCkbL_KySYhbBeaP4iC2EM9BJU1NsZFra3K5lvX4VNyvRcFvyVtxVKCqS1zQWAySB7Y_nzmyW4pZw_CGrKID8WITATgdnDIe-TcCn4N2UEgXrgMzPi_aZA7x2LuSMdY_IzYlK2zHTJEiW7_j6tap6fi46cL3zt_AifjRV0xeWea8dRaBd8Zd-lMmqbxKvsJ2DQH7zDrFgZOuCDDBfoEKtkNSD_VdIOEEXZbAB3_BPhQ7pXlU818kQ2ZOqA-28KmHlYd5g' }
+[0mGET /get_token/xqys9v4w572ReAXMg2RaTw%3D%3D/UvZ%2B8tOpCc3DNB8rlCAGbg%3D%3D/null [32m200 [0m99.666 ms - 906[0m
+login matched
+[0mPOST /authorize/ [32m200 [0m46.861 ms - 164[0m
+[0mGET / [32m200 [0m0.596 ms - 11[0m
+[0mGET / [32m200 [0m1.404 ms - 11[0m
+[0mGET / [32m200 [0m3.413 ms - 11[0m
+[0mGET / [32m200 [0m0.961 ms - 11[0m
+[0mGET / [32m200 [0m3.427 ms - 11[0m
+[0mGET / [32m200 [0m0.275 ms - 11[0m
+[0mGET / [32m200 [0m2.937 ms - 11[0m
+[0mGET / [32m200 [0m6.718 ms - 11[0m
+server kick player 
+end socket with player
+[0mGET / [32m200 [0m0.477 ms - 11[0m
+[0mGET / [32m200 [0m1.296 ms - 11[0m
+[0mGET / [32m200 [0m0.621 ms - 11[0m
+[0mGET / [32m200 [0m1.080 ms - 11[0m
+[0mGET / [32m200 [0m2.454 ms - 11[0m
+[0mGET / [32m200 [0m0.247 ms - 11[0m
+[0mGET / [32m200 [0m5.770 ms - 11[0m
+[0mGET / [32m200 [0m0.344 ms - 11[0m
+[0mGET / [32m200 [0m0.441 ms - 11[0m
+[0mGET / [32m200 [0m0.296 ms - 11[0m
+io enter middleware
+before decrypt XkYHm2Jk3Yx3tf64Evb9Wg==
+after decrypt 
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598940a4-7e5745b1571e38b54f3879ce","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"uNYsW5bEWmrKFn66/65Glg==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Tue Aug 08 2017 04:40:04 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502167204766,"url":"/socket.io/?EIO=3&playerId=&pass=XkYHm2Jk3Yx3tf64Evb9Wg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"","pass":"XkYHm2Jk3Yx3tf64Evb9Wg==","transport":"websocket"}}
+player id 
+hmsent register {"awesome_id":"","onlineStatus":2,"awesome_chips":0}
+{ ValidationException: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+    at Request.extractError (/home/ec2-user/abc/node_modules/aws-sdk/lib/protocol/json.js:43:27)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:105:20)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:77:10)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:595:14)
+    at Request.transition (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:21:10)
+    at AcceptorStateMachine.runTo (/home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:37:9)
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:597:12)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:115:18)
+  message: 'One or more parameter values were invalid: An AttributeValue may not contain an empty string',
+  code: 'ValidationException',
+  time: 2017-08-08T04:40:04.790Z,
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 0 }
+notify_online {"friend_ids" : []}
+[0mGET / [32m200 [0m0.501 ms - 11[0m
+[0mGET / [32m200 [0m1.130 ms - 11[0m
+notify_online {"friend_ids" : []}
+disconnect 
+[0mGET / [32m200 [0m2.098 ms - 11[0m
+[0mGET / [32m200 [0m0.264 ms - 11[0m
+[0mGET / [32m200 [0m0.491 ms - 11[0m
+[0mGET / [32m200 [0m0.890 ms - 11[0m
+io enter middleware
+before decrypt XkYHm2Jk3Yx3tf64Evb9Wg==
+after decrypt 
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598940c9-016997e045bc609d16727fab","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"LuUKKo0opxAoPp3ZJV0Z1A==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Tue Aug 08 2017 04:40:41 GMT+0000 (UTC)","address":"::ffff:172.31.3.250","xdomain":false,"secure":false,"issued":1502167241649,"url":"/socket.io/?EIO=3&playerId=&pass=XkYHm2Jk3Yx3tf64Evb9Wg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"","pass":"XkYHm2Jk3Yx3tf64Evb9Wg==","transport":"websocket"}}
+player id 
+hmsent register {"awesome_id":"","onlineStatus":2,"awesome_chips":0}
+{ ValidationException: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+    at Request.extractError (/home/ec2-user/abc/node_modules/aws-sdk/lib/protocol/json.js:43:27)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:105:20)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:77:10)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:595:14)
+    at Request.transition (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:21:10)
+    at AcceptorStateMachine.runTo (/home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:37:9)
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:597:12)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:115:18)
+  message: 'One or more parameter values were invalid: An AttributeValue may not contain an empty string',
+  code: 'ValidationException',
+  time: 2017-08-08T04:40:41.675Z,
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 0 }
+disconnect 
+[0mGET / [32m200 [0m0.473 ms - 11[0m
+[0mGET / [32m200 [0m0.312 ms - 11[0m
+[0mGET / [32m200 [0m5.014 ms - 11[0m
+[0mGET / [32m200 [0m0.296 ms - 11[0m
+[0mGET / [32m200 [0m0.493 ms - 11[0m
+[0mGET / [32m200 [0m1.630 ms - 11[0m
+[0mGET / [32m200 [0m0.507 ms - 11[0m
+[0mGET / [32m200 [0m1.347 ms - 11[0m
+server kick player 
+end socket with player
+[0mGET / [32m200 [0m1.620 ms - 11[0m
+[0mGET / [32m200 [0m0.294 ms - 11[0m
+[0mGET / [32m200 [0m0.520 ms - 11[0m
+[0mGET / [32m200 [0m0.881 ms - 11[0m
+[0mGET / [32m200 [0m0.438 ms - 11[0m
+[0mGET / [32m200 [0m2.398 ms - 11[0m
+[0mGET / [32m200 [0m0.515 ms - 11[0m
+[0mGET / [32m200 [0m0.892 ms - 11[0m
+io enter middleware
+before decrypt XkYHm2Jk3Yx3tf64Evb9Wg==
+after decrypt 
+On Connection:{"headers":{"x-forwarded-for":"101.78.215.254","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-59894142-4a5b9b7241255db54a54d1ab","upgrade":"websocket","connection":"upgrade","cookie":"AWSALB=","sec-websocket-key":"CQT1N9Dhf7Mi8qdt2nrgGg==","sec-websocket-version":"13","accept-encoding":"gzip","user-agent":"okhttp/3.8.1"},"time":"Tue Aug 08 2017 04:42:42 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":false,"secure":false,"issued":1502167362401,"url":"/socket.io/?EIO=3&playerId=&pass=XkYHm2Jk3Yx3tf64Evb9Wg%3D%3D&transport=websocket","query":{"EIO":"3","playerId":"","pass":"XkYHm2Jk3Yx3tf64Evb9Wg==","transport":"websocket"}}
+player id 
+hmsent register {"awesome_id":"","onlineStatus":2,"awesome_chips":0}
+{ ValidationException: One or more parameter values were invalid: An AttributeValue may not contain an empty string
+    at Request.extractError (/home/ec2-user/abc/node_modules/aws-sdk/lib/protocol/json.js:43:27)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:105:20)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:77:10)
+    at Request.emit (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:595:14)
+    at Request.transition (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:21:10)
+    at AcceptorStateMachine.runTo (/home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:14:12)
+    at /home/ec2-user/abc/node_modules/aws-sdk/lib/state_machine.js:26:10
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:37:9)
+    at Request.<anonymous> (/home/ec2-user/abc/node_modules/aws-sdk/lib/request.js:597:12)
+    at Request.callListeners (/home/ec2-user/abc/node_modules/aws-sdk/lib/sequential_executor.js:115:18)
+  message: 'One or more parameter values were invalid: An AttributeValue may not contain an empty string',
+  code: 'ValidationException',
+  time: 2017-08-08T04:42:42.425Z,
+  statusCode: 400,
+  retryable: false,
+  retryDelay: 0 }
+notify_online {"friend_ids" : []}
+[0mGET / [32m200 [0m0.329 ms - 11[0m
+[0mGET / [32m200 [0m0.236 ms - 11[0m
+[0mGET / [32m200 [0m0.781 ms - 11[0m
+[0mGET / [32m200 [0m1.257 ms - 11[0m
+[0mGET / [32m200 [0m2.389 ms - 11[0m
+[0mGET / [32m200 [0m0.863 ms - 11[0m
+[0mGET / [32m200 [0m0.492 ms - 11[0m
+[0mGET / [32m200 [0m1.258 ms - 11[0m
+notify_online {"friend_ids" : []}
+disconnect 
+[0mGET / [32m200 [0m1.265 ms - 11[0m
+[0mGET / [32m200 [0m1.162 ms - 11[0m
+[0mGET / [32m200 [0m0.792 ms - 11[0m
+[0mGET / [32m200 [0m1.166 ms - 11[0m
+[0mGET / [32m200 [0m2.967 ms - 11[0m
+[0mGET / [32m200 [0m2.694 ms - 11[0m
+[0mGET / [32m200 [0m3.736 ms - 11[0m
+[0mGET / [32m200 [0m2.691 ms - 11[0m
+server kick player 
+end socket with player
+error: Forever detected script was killed by signal: SIGKILL

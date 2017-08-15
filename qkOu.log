@@ -1,0 +1,211 @@
+ok
+Config
+2017-08-11T06:14:57.771Z
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+Server listening at port 3000
+[0mGET / [32m200 [0m11.319 ms - 11[0m
+[0mGET / [32m200 [0m10.810 ms - 11[0m
+[0mGET / [32m200 [0m1.223 ms - 11[0m
+[0mGET / [32m200 [0m5.809 ms - 11[0m
+[0mGET / [32m200 [0m4.839 ms - 11[0m
+[0mGET / [32m200 [0m4.928 ms - 11[0m
+[0mGET / [32m200 [0m1.565 ms - 11[0m
+[0mGET / [32m200 [0m0.921 ms - 11[0m
+[0mGET / [32m200 [0m2.086 ms - 11[0m
+[0mGET / [32m200 [0m2.826 ms - 11[0m
+[0mGET / [32m200 [0m0.476 ms - 11[0m
+[0mGET / [32m200 [0m0.272 ms - 11[0m
+[0mGET / [32m200 [0m0.554 ms - 11[0m
+[0mGET / [32m200 [0m1.391 ms - 11[0m
+[0mGET / [32m200 [0m1.395 ms - 11[0m
+[0mGET / [32m200 [0m0.969 ms - 11[0m
+[0mGET / [32m200 [0m1.249 ms - 11[0m
+[0mGET / [32m200 [0m2.799 ms - 11[0m
+[0mGET / [32m200 [0m0.564 ms - 11[0m
+[0mGET / [32m200 [0m4.065 ms - 11[0m
+encrypted phone number a4YhnIh2OFsokuZNsDJhuw==
+encrypted country code ee+yuOXCLtUQ0mvDOiDtrA==
+country code 
+phone number phone_number
+identityId us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55
+get_open_id _phoneNumber phone_number
+get_open_id IdentityIdundefined
+{ IdentityId: 'us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55',
+  Token: 'eyJraWQiOiJ1cy1lYXN0LTExIiwidHlwIjoiSldTIiwiYWxnIjoiUlM1MTIifQ.eyJzdWIiOiJ1cy1lYXN0LTE6NzIxZTUwMTUtODJkYy00ZGRkLTliNzgtOTg3MDg3ZGQxYTU1IiwiYXVkIjoidXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYSIsImFtciI6WyJhdXRoZW50aWNhdGVkIiwibG9naW4udjNyZWUuYXdlc29tZSIsImxvZ2luLnYzcmVlLmF3ZXNvbWU6dXMtZWFzdC0xOjU1NTJhNTRiLWE1MTktNDRkMi05N2UzLWZlYjNkNDVjOWFmYTpwaG9uZV9udW1iZXIiXSwiaXNzIjoiaHR0cHM6Ly9jb2duaXRvLWlkZW50aXR5LmFtYXpvbmF3cy5jb20iLCJleHAiOjE1MDI0MzU4MzcsImlhdCI6MTUwMjQzMjIzN30.ipurtfztnvJomKAjuJHd7rs1m7w2bPJLsAjHedtdK7MZKOf-0fEE6sGgcn9VlyeBrMdUNZBvX5dstYVZEf6HFyvf4WTQXSOIMeT5aeS7zxcqjK2Z2aNZ0DX4XHwfT_jUKuyo8tisq1VXx3SLBsStQl4_8vpWRCPfMl32X7-gy3-tyAc0DpgI8qtb40mBhyaRRvBdjLbgXf0IApOQ69kkm-Yb_Hw0Uo1cTm7Y1xZoce_wZXoY7cGpIpPKXIEitEgGwgiLNXQzN-ncYwAuXenUFfbTrU_xRE1ZZ0bHuA4VDIXtR9V7AriQSoZ8srvL0DrOrOJCohMXR_CP6lBbGQZ2Uw' }
+[0mGET /get_token/a4YhnIh2OFsokuZNsDJhuw==/ee+yuOXCLtUQ0mvDOiDtrA==/us-east-1:721e5015-82dc-4ddd-9b78-987087dd1a55 [32m200 [0m83.450 ms - 907[0m
+register_endpoint_v2 2ABB617F-48F0-4D45-986B-FBDAEE8051FF 00fa714d52ed1ca79d26e7ffc4e389458c7678ceacc8539f08f57f6643709d93 vincent IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m26.023 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+[0mGET / [32m200 [0m2.187 ms - 11[0m
+[0mGET / [32m200 [0m2.840 ms - 11[0m
+[0mGET / [32m200 [0m1.511 ms - 11[0m
+[0mGET / [32m200 [0m3.447 ms - 11[0m
+[0mGET / [32m200 [0m1.785 ms - 11[0m
+[0mGET / [32m200 [0m0.982 ms - 11[0m
+[0mGET / [32m200 [0m0.460 ms - 11[0m
+[0mGET / [32m200 [0m0.257 ms - 11[0m
+************************************************************************
+==============================Middleware================================
+************************************************************************
+io enter middleware
+before decrypt QG6M8MAJWKZiQQ/1Vr3aHA==
+after decrypt vincent
+Player ID isvincent
+************************************************************************
+========================Register tcp connection=========================
+************************************************************************
+On Connection:{"headers":{"x-forwarded-for":"14.0.170.146","x-forwarded-proto":"http","x-forwarded-port":"3000","host":"socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","x-amzn-trace-id":"Root=1-598d4c2b-165212f34bb242c727f31347","upgrade":"websocket","connection":"upgrade","sec-websocket-version":"13","origin":"ws://socketioloadbalancer-1642928803.us-east-1.elb.amazonaws.com:3000","sec-websocket-key":"dnF1YWJzeHBpdmR5bHhkZg=="},"time":"Fri Aug 11 2017 06:18:19 GMT+0000 (UTC)","address":"::ffff:172.31.24.250","xdomain":true,"secure":false,"issued":1502432299138,"url":"/socket.io/?transport=websocket&pass=QG6M8MAJWKZiQQ%2F1Vr3aHA%3D%3D&playerId=vincent","query":{"transport":"websocket","pass":"QG6M8MAJWKZiQQ/1Vr3aHA==","playerId":"vincent"}}
+player id vincent
+hmsent register {"awesome_id":"vincent","login_times":3,"friendIds":"[\"vincent\",\"a4\",\"hellowin\",\"wilson\",\"vincent8\",\"ant8\",\"68666666\",\"cara\",\"samsung\",\"ck\",\"vincent7\",\"vincent6\",\"123123123\",\"a3\",\"a58330\",\"vincent2\",\"a5\",\"vincent3\",\"vincent4\",\"vincent5\",\"a\",\"wilson2\",\"abc\",\"asdx\",\"abav\",\"abxl\",\"ascv\",\"testonly\",\"an4\",\"vincent28\",\"an2\",\"vincent31\",\"vin999\",\"vincent32\",\"68111111\",\"68000000\",\"68333333\",\"ant9\",\"ant7\",\"ant5\",\"eddy\",\"eric\",\"awesome\",\"descendentofsun\",\"v1\",\"vv4\",\"ivan\",\"andrewwan\",\"pet\",\"fafafa\",\"vincent9\",\"lufa\",\"vincent63472\",\"ivannew\",\"ivan-nokia6\"]","onlineStatus":"2","awesome_chips":"17022"}
+[ { id: { S: 'vincent' }, awesome_chips: { N: '17022' } } ]
+hmsent awesomeChips {"awesome_id":"vincent","login_times":"3","friendIds":"[\"vincent\",\"a4\",\"hellowin\",\"wilson\",\"vincent8\",\"ant8\",\"68666666\",\"cara\",\"samsung\",\"ck\",\"vincent7\",\"vincent6\",\"123123123\",\"a3\",\"a58330\",\"vincent2\",\"a5\",\"vincent3\",\"vincent4\",\"vincent5\",\"a\",\"wilson2\",\"abc\",\"asdx\",\"abav\",\"abxl\",\"ascv\",\"testonly\",\"an4\",\"vincent28\",\"an2\",\"vincent31\",\"vin999\",\"vincent32\",\"68111111\",\"68000000\",\"68333333\",\"ant9\",\"ant7\",\"ant5\",\"eddy\",\"eric\",\"awesome\",\"descendentofsun\",\"v1\",\"vv4\",\"ivan\",\"andrewwan\",\"pet\",\"fafafa\",\"vincent9\",\"lufa\",\"vincent63472\",\"ivannew\",\"ivan-nokia6\"]","onlineStatus":"2","awesome_chips":"17022"}
+************************************************************************
+===============================Notify online============================
+************************************************************************
+{
+  "friend_ids" : [
+    "vincent",
+    "a4",
+    "hellowin",
+    "wilson",
+    "vincent8",
+    "ant8",
+    "68666666",
+    "cara",
+    "samsung",
+    "ck",
+    "vincent7",
+    "vincent6",
+    "123123123",
+    "a3",
+    "a58330",
+    "vincent2",
+    "a5",
+    "vincent3",
+    "vincent4",
+    "vincent5",
+    "a",
+    "wilson2",
+    "abc",
+    "asdx",
+    "abav",
+    "abxl",
+    "ascv",
+    "testonly",
+    "an4",
+    "vincent28",
+    "an2",
+    "vincent31",
+    "vin999",
+    "vincent32",
+    "68111111",
+    "68000000",
+    "68333333",
+    "ant9",
+    "ant7",
+    "ant5",
+    "eddy",
+    "eric",
+    "awesome",
+    "descendentofsun",
+    "v1",
+    "vv4",
+    "ivan",
+    "andrewwan",
+    "pet",
+    "fafafa",
+    "vincent9",
+    "lufa",
+    "vincent63472",
+    "ivannew",
+    "ivan-nokia6"
+  ]
+}
+Send message channel:vincent:friend_online msg:{"friendId":"vincent"}
+!hgetall! {"awesome_id":"vincent","login_times":"3","friendIds":"[\"vincent\",\"a4\",\"hellowin\",\"wilson\",\"vincent8\",\"ant8\",\"68666666\",\"cara\",\"samsung\",\"ck\",\"vincent7\",\"vincent6\",\"123123123\",\"a3\",\"a58330\",\"vincent2\",\"a5\",\"vincent3\",\"vincent4\",\"vincent5\",\"a\",\"wilson2\",\"abc\",\"asdx\",\"abav\",\"abxl\",\"ascv\",\"testonly\",\"an4\",\"vincent28\",\"an2\",\"vincent31\",\"vin999\",\"vincent32\",\"68111111\",\"68000000\",\"68333333\",\"ant9\",\"ant7\",\"ant5\",\"eddy\",\"eric\",\"awesome\",\"descendentofsun\",\"v1\",\"vv4\",\"ivan\",\"andrewwan\",\"pet\",\"fafafa\",\"vincent9\",\"lufa\",\"vincent63472\",\"ivannew\",\"ivan-nokia6\"]","onlineStatus":"2","awesome_chips":"17022"}
+!hgetall! vincent
+!hgetall! {"onlineStatus":"2","login_times":"10","friendIds":"[\"conniechen\",\"andrewwan\",\"vincent8\",\"awesome\",\"vincent\",\"vincent63472\",\"ivan\",\"hellowin\",\"vincent9\",\"vincent7\",\"testonly\"]","awesome_id":"vincent63472","awesome_chips":"590"}
+!hgetall! vincent63472
+action_packet {
+  "packet_id" : "DD70C730-5410-4726-B63B-5703DD331059-6036-00000DB25169E84A",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "3976373b-17d7-458f-9f6b-10170cd94670",
+    "sender_id" : "vincent",
+    "message_id" : "3E608A9B-5EF4-47C3-B460-4EF6A1AC5B89-75575-00009D35E6E65FB1",
+    "chat_id" : "vincent:vincent63472",
+    "recipient_id" : "vincent63472"
+  }
+}
+************************************************************************
+=========================Notify message deliveryed======================
+************************************************************************
+{
+  "packet_id" : "DD70C730-5410-4726-B63B-5703DD331059-6036-00000DB25169E84A",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "3976373b-17d7-458f-9f6b-10170cd94670",
+    "sender_id" : "vincent",
+    "message_id" : "3E608A9B-5EF4-47C3-B460-4EF6A1AC5B89-75575-00009D35E6E65FB1",
+    "chat_id" : "vincent:vincent63472",
+    "recipient_id" : "vincent63472"
+  }
+}
+************************************************************************
+==============================Disconnect================================
+************************************************************************
+disconnect vincent
+[0mGET / [32m200 [0m0.637 ms - 11[0m
+[0mGET / [32m200 [0m1.548 ms - 11[0m
+[0mGET / [32m200 [0m1.541 ms - 11[0m
+[0mGET / [32m200 [0m1.355 ms - 11[0m
+[0mGET / [32m200 [0m0.522 ms - 11[0m
+[0mGET / [32m200 [0m0.278 ms - 11[0m
+[0mGET / [32m200 [0m0.401 ms - 11[0m
+[0mGET / [32m200 [0m0.270 ms - 11[0m
+[0mGET / [32m200 [0m1.391 ms - 11[0m
+[0mGET / [32m200 [0m0.980 ms - 11[0m
+[0mGET / [32m200 [0m0.380 ms - 11[0m
+[0mGET / [32m200 [0m0.285 ms - 11[0m
+[0mGET / [32m200 [0m0.545 ms - 11[0m
+[0mGET / [32m200 [0m2.096 ms - 11[0m
+[0mGET / [32m200 [0m2.182 ms - 11[0m
+[0mGET / [32m200 [0m0.982 ms - 11[0m
+[0mGET / [32m200 [0m0.652 ms - 11[0m
+[0mGET / [32m200 [0m0.946 ms - 11[0m
+[0mGET / [32m200 [0m0.425 ms - 11[0m
+[0mGET / [32m200 [0m0.259 ms - 11[0m
+[0mGET / [32m200 [0m3.555 ms - 11[0m
+[0mGET / [32m200 [0m3.816 ms - 11[0m
+[0mGET / [32m200 [0m0.558 ms - 11[0m
+[0mGET / [32m200 [0m0.310 ms - 11[0m
+[0mGET / [32m200 [0m0.458 ms - 11[0m
+[0mGET / [32m200 [0m0.294 ms - 11[0m
+error: Forever detected script was killed by signal: SIGKILL

@@ -1,0 +1,810 @@
+ok
+Config
+Fri Jul 21 2017 10:21:48 GMT+0000 (UTC)
+Cognito
+the cognitoidentity is [object Object]
+SNS
+setting tcp
+setting sns
+PostAPI
+PostAPI_Chat
+PostAPI_Wall
+PostAPI_Pet
+PostAPI_Chips
+PostAPI_Login
+PostAPI_Shop
+PostAPI_Debug
+Game init
+======================
+apiPort listening 2492
+tcpPort listening 3000
+======================
+CloudSearch_Schedule
+Server listening at port 3000
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+action_packet {
+  "packet_id" : "04773FE1-249C-4CAD-9748-7A1FF4EE3313-1941-0000044C326A5F56",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "ea0f4629-f7a5-4710-890b-5dd8900e5e6a",
+    "sender_id" : "vincent",
+    "message_id" : "1BBC2719-0AFC-4947-B998-FAA6D0D0FA7C-10949-0000CAAC05533C8B",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+ack {
+  "playerId" : "vincent9"
+}
+player id vincent9
+[ { id: { S: 'vincent9' }, awesome_chips: { N: '1182' } } ]
+disconnect
+undefined disconnected
+disconnect
+undefined disconnected
+ack {
+  "playerId" : "vincent9"
+}
+player id vincent9
+action_packet {
+  "packet_id" : "5933AB6C-9D5F-4485-B125-9A61882322BC-14568-0000CAB4BC62DDE8",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "032882fd-03a0-4d36-8d67-7cd1583d4cd3",
+    "sender_id" : "vincent9",
+    "message_id" : "DBC81035-7818-481C-B2C0-0E116B2B9938-38518-00001D16FF69BB36",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent"
+  }
+}
+[ { id: { S: 'vincent9' }, awesome_chips: { N: '1182' } } ]
+[0mGET / [32m200 [0m6.072 ms - 11[0m
+[0mGET / [32m200 [0m5.850 ms - 11[0m
+[0mGET / [32m200 [0m6.078 ms - 11[0m
+[0mGET / [32m200 [0m1.020 ms - 11[0m
+[0mGET / [32m200 [0m1.332 ms - 11[0m
+[0mGET / [32m200 [0m1.469 ms - 11[0m
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+action_packet {
+  "packet_id" : "6CBE9EBB-313E-4659-9D48-0F49938E8EB5-14568-0000CAB6B860F11D",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "0557A0DA-BD9A-488E-B287-B30442CA5897-14568-0000CAB6B83466C8",
+    "message_type" : "TEXT",
+    "message" : "11121",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: '0557A0DA-BD9A-488E-B287-B30442CA5897-14568-0000CAB6B83466C8',
+  message_type: 'TEXT',
+  message: '11121',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '70636060-ed29-4be4-8dba-1db73bd15adb',
+  create_at: '2017-07-21T10:22:18.488Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 11121","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+1
+Total Unread: 1
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: 'f7cff99f-4803-5a7c-928d-a87490195ead' },
+  MessageId: 'cbbf3715-9b45-59b0-80bf-66fe435fbd61' }
+[0mGET / [32m200 [0m2.885 ms - 11[0m
+[0mGET / [32m200 [0m1.267 ms - 11[0m
+[0mGET / [32m200 [0m1.446 ms - 11[0m
+[0mGET / [32m200 [0m1.639 ms - 11[0m
+[0mGET / [32m200 [0m3.044 ms - 11[0m
+[0mGET / [32m200 [0m4.689 ms - 11[0m
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m2.485 ms - 11[0m
+[0mGET / [32m200 [0m2.754 ms - 11[0m
+[0mGET / [32m200 [0m3.398 ms - 11[0m
+[0mGET / [32m200 [0m1.540 ms - 11[0m
+[0mGET / [32m200 [0m1.789 ms - 11[0m
+[0mGET / [32m200 [0m1.984 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.939 ms - 11[0m
+[0mGET / [32m200 [0m1.298 ms - 11[0m
+[0mGET / [32m200 [0m1.489 ms - 11[0m
+[0mGET / [32m200 [0m1.046 ms - 11[0m
+[0mGET / [32m200 [0m2.128 ms - 11[0m
+[0mGET / [32m200 [0m2.203 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.984 ms - 11[0m
+[0mGET / [32m200 [0m1.291 ms - 11[0m
+[0mGET / [32m200 [0m1.483 ms - 11[0m
+[0mGET / [32m200 [0m1.574 ms - 11[0m
+[0mGET / [32m200 [0m1.291 ms - 11[0m
+[0mGET / [32m200 [0m1.470 ms - 11[0m
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+action_packet {
+  "packet_id" : "549AF47E-2924-4991-91A6-698EC01A36BB-14568-0000CAD5C9A4BB0B",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "EC7F6849-4D57-4421-9991-0795A19CDF12-14568-0000CAD5C98169FF",
+    "message_type" : "TEXT",
+    "message" : "1",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: 'EC7F6849-4D57-4421-9991-0795A19CDF12-14568-0000CAD5C98169FF',
+  message_type: 'TEXT',
+  message: '1',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '4a6a0c0f-61ae-41fb-be51-915b4cc97f43',
+  create_at: '2017-07-21T10:24:31.914Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 1","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+2
+Total Unread: 2
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '64f0ce4b-4cec-5200-8cd4-9fa0944cb659' },
+  MessageId: 'd5b9b541-1220-5ee1-b220-e4aaca807ab8' }
+[0mGET / [32m200 [0m2.662 ms - 11[0m
+[0mGET / [32m200 [0m3.090 ms - 11[0m
+[0mGET / [32m200 [0m2.156 ms - 11[0m
+[0mGET / [32m200 [0m2.385 ms - 11[0m
+[0mGET / [32m200 [0m2.610 ms - 11[0m
+[0mGET / [32m200 [0m1.468 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m1.079 ms - 11[0m
+[0mGET / [32m200 [0m1.308 ms - 11[0m
+[0mGET / [32m200 [0m1.851 ms - 11[0m
+[0mGET / [32m200 [0m1.244 ms - 11[0m
+[0mGET / [32m200 [0m1.370 ms - 11[0m
+[0mGET / [32m200 [0m2.023 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m2.163 ms - 11[0m
+[0mGET / [32m200 [0m1.947 ms - 11[0m
+[0mGET / [32m200 [0m2.840 ms - 11[0m
+[0mGET / [32m200 [0m0.848 ms - 11[0m
+[0mGET / [32m200 [0m1.235 ms - 11[0m
+[0mGET / [32m200 [0m0.858 ms - 11[0m
+[0mGET / [32m200 [0m1.015 ms - 11[0m
+[0mGET / [32m200 [0m2.247 ms - 11[0m
+[0mGET / [32m200 [0m2.824 ms - 11[0m
+[0mGET / [32m200 [0m1.014 ms - 11[0m
+[0mGET / [32m200 [0m1.265 ms - 11[0m
+[0mGET / [32m200 [0m1.443 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.990 ms - 11[0m
+[0mGET / [32m200 [0m2.739 ms - 11[0m
+[0mGET / [32m200 [0m2.944 ms - 11[0m
+[0mGET / [32m200 [0m1.003 ms - 11[0m
+[0mGET / [32m200 [0m1.688 ms - 11[0m
+[0mGET / [32m200 [0m1.864 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m1.030 ms - 11[0m
+[0mGET / [32m200 [0m1.190 ms - 11[0m
+[0mGET / [32m200 [0m1.358 ms - 11[0m
+[0mGET / [32m200 [0m2.311 ms - 11[0m
+[0mGET / [32m200 [0m2.549 ms - 11[0m
+[0mGET / [32m200 [0m3.084 ms - 11[0m
+[0mGET / [32m200 [0m1.196 ms - 11[0m
+[0mGET / [32m200 [0m1.294 ms - 11[0m
+[0mGET / [32m200 [0m1.466 ms - 11[0m
+[0mGET / [32m200 [0m0.969 ms - 11[0m
+[0mGET / [32m200 [0m1.182 ms - 11[0m
+[0mGET / [32m200 [0m2.459 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m1.482 ms - 11[0m
+[0mGET / [32m200 [0m1.281 ms - 11[0m
+[0mGET / [32m200 [0m1.411 ms - 11[0m
+[0mGET / [32m200 [0m1.016 ms - 11[0m
+[0mGET / [32m200 [0m1.293 ms - 11[0m
+[0mGET / [32m200 [0m1.476 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.987 ms - 11[0m
+[0mGET / [32m200 [0m2.429 ms - 11[0m
+[0mGET / [32m200 [0m2.439 ms - 11[0m
+[0mGET / [32m200 [0m0.997 ms - 11[0m
+[0mGET / [32m200 [0m1.231 ms - 11[0m
+[0mGET / [32m200 [0m1.390 ms - 11[0m
+[0mGET / [32m200 [0m1.089 ms - 11[0m
+[0mGET / [32m200 [0m1.225 ms - 11[0m
+[0mGET / [32m200 [0m1.433 ms - 11[0m
+[0mGET / [32m200 [0m3.052 ms - 11[0m
+[0mGET / [32m200 [0m3.345 ms - 11[0m
+[0mGET / [32m200 [0m3.531 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.964 ms - 11[0m
+[0mGET / [32m200 [0m1.204 ms - 11[0m
+[0mGET / [32m200 [0m1.384 ms - 11[0m
+[0mGET / [32m200 [0m0.895 ms - 11[0m
+[0mGET / [32m200 [0m1.156 ms - 11[0m
+[0mGET / [32m200 [0m1.349 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.842 ms - 11[0m
+[0mGET / [32m200 [0m1.143 ms - 11[0m
+[0mGET / [32m200 [0m1.315 ms - 11[0m
+[0mGET / [32m200 [0m0.858 ms - 11[0m
+[0mGET / [32m200 [0m1.087 ms - 11[0m
+[0mGET / [32m200 [0m1.321 ms - 11[0m
+[0mGET / [32m200 [0m0.997 ms - 11[0m
+[0mGET / [32m200 [0m1.229 ms - 11[0m
+[0mGET / [32m200 [0m1.389 ms - 11[0m
+[0mGET / [32m200 [0m0.976 ms - 11[0m
+[0mGET / [32m200 [0m1.256 ms - 11[0m
+[0mGET / [32m200 [0m1.392 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m1.007 ms - 11[0m
+[0mGET / [32m200 [0m1.249 ms - 11[0m
+[0mGET / [32m200 [0m1.390 ms - 11[0m
+[0mGET / [32m200 [0m2.569 ms - 11[0m
+[0mGET / [32m200 [0m2.772 ms - 11[0m
+[0mGET / [32m200 [0m1.512 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.994 ms - 11[0m
+[0mGET / [32m200 [0m1.219 ms - 11[0m
+[0mGET / [32m200 [0m1.416 ms - 11[0m
+[0mGET / [32m200 [0m0.938 ms - 11[0m
+[0mGET / [32m200 [0m1.181 ms - 11[0m
+[0mGET / [32m200 [0m1.419 ms - 11[0m
+[0mGET / [32m200 [0m1.391 ms - 11[0m
+[0mGET / [32m200 [0m1.248 ms - 11[0m
+[0mGET / [32m200 [0m1.421 ms - 11[0m
+[0mGET / [32m200 [0m1.957 ms - 11[0m
+[0mGET / [32m200 [0m1.205 ms - 11[0m
+[0mGET / [32m200 [0m1.360 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m1.557 ms - 11[0m
+[0mGET / [32m200 [0m1.184 ms - 11[0m
+[0mGET / [32m200 [0m1.464 ms - 11[0m
+[0mGET / [32m200 [0m9.139 ms - 11[0m
+[0mGET / [32m200 [0m9.821 ms - 11[0m
+[0mGET / [32m200 [0m8.042 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m1.955 ms - 11[0m
+[0mGET / [32m200 [0m2.244 ms - 11[0m
+[0mGET / [32m200 [0m2.465 ms - 11[0m
+[0mGET / [32m200 [0m0.891 ms - 11[0m
+[0mGET / [32m200 [0m1.143 ms - 11[0m
+[0mGET / [32m200 [0m1.327 ms - 11[0m
+[0mGET / [32m200 [0m0.927 ms - 11[0m
+[0mGET / [32m200 [0m1.246 ms - 11[0m
+[0mGET / [32m200 [0m1.485 ms - 11[0m
+[0mGET / [32m200 [0m0.956 ms - 11[0m
+[0mGET / [32m200 [0m1.142 ms - 11[0m
+[0mGET / [32m200 [0m1.351 ms - 11[0m
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+action_packet {
+  "packet_id" : "8ADA28CF-49D6-4A12-AC10-D4C87B28EAE4-14568-0000CB57068D86D1",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "A4125D91-EB0B-41DA-B800-41C02C43D1D0-14568-0000CB57067240C9",
+    "message_type" : "TEXT",
+    "message" : "2",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: 'A4125D91-EB0B-41DA-B800-41C02C43D1D0-14568-0000CB57067240C9',
+  message_type: 'TEXT',
+  message: '2',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '487ec3d3-15bd-4b62-99a4-5c5faa17973c',
+  create_at: '2017-07-21T10:33:46.949Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 2","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+3
+Total Unread: 3
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '41162f5b-7c6d-58e6-8f32-7eb0a6a6e58d' },
+  MessageId: '023a4b6f-1231-5fc8-9608-1a84c8fa72a3' }
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+action_packet {
+  "packet_id" : "85AC4320-E45B-4814-99F0-FB6A0338A0B2-14568-0000CB573E513448",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "0EB94D56-D2EC-46E5-AA68-53CAF615D08C-14568-0000CB573E37D43E",
+    "message_type" : "TEXT",
+    "message" : "3",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: '0EB94D56-D2EC-46E5-AA68-53CAF615D08C-14568-0000CB573E37D43E',
+  message_type: 'TEXT',
+  message: '3',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: 'b8b11e6d-d171-4f27-b9a2-77375528046a',
+  create_at: '2017-07-21T10:33:47.961Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 3","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+4
+Total Unread: 4
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '98b6063d-04e5-5f5b-a02d-57d6de2966aa' },
+  MessageId: '4191cc27-14ca-57c5-ace5-9dccce064e34' }
+action_packet {
+  "packet_id" : "90003615-4A84-4F27-A993-01CBF0E1537F-14568-0000CB575D5A26CB",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "F6FFA165-352A-49C8-96A9-9489C0EB897B-14568-0000CB575D3D4B9E",
+    "message_type" : "TEXT",
+    "message" : "4",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: 'F6FFA165-352A-49C8-96A9-9489C0EB897B-14568-0000CB575D3D4B9E',
+  message_type: 'TEXT',
+  message: '4',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: 'ccb6fab4-6cd0-463c-a9a3-3e3ea38b4fc3',
+  create_at: '2017-07-21T10:33:48.446Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 4","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+4
+Total Unread: 4
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+server kick player vincent
+end socket with playervincent
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '8409565b-69ab-566a-a52d-07b0b3675a7a' },
+  MessageId: '27eaea01-ada7-54a8-9f3d-bbea776b68b8' }
+[0mGET / [32m200 [0m1.107 ms - 11[0m
+[0mGET / [32m200 [0m1.454 ms - 11[0m
+[0mGET / [32m200 [0m1.592 ms - 11[0m
+[0mGET / [32m200 [0m0.910 ms - 11[0m
+[0mGET / [32m200 [0m1.156 ms - 11[0m
+[0mGET / [32m200 [0m1.339 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+[0mGET / [32m200 [0m0.911 ms - 11[0m
+[0mGET / [32m200 [0m1.701 ms - 11[0m
+[0mGET / [32m200 [0m1.924 ms - 11[0m
+[0mGET / [32m200 [0m0.932 ms - 11[0m
+[0mGET / [32m200 [0m1.226 ms - 11[0m
+[0mGET / [32m200 [0m1.403 ms - 11[0m
+[0mGET / [32m200 [0m2.183 ms - 11[0m
+[0mGET / [32m200 [0m2.479 ms - 11[0m
+[0mGET / [32m200 [0m2.697 ms - 11[0m
+[0mGET / [32m200 [0m0.923 ms - 11[0m
+[0mGET / [32m200 [0m1.172 ms - 11[0m
+[0mGET / [32m200 [0m1.370 ms - 11[0m
+server kick player vincent
+end socket with playervincent
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+action_packet {
+  "packet_id" : "AA3E6CD7-2A66-4F0B-BA79-BC06A866BBE3-1941-0000044E708DB1AB",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "ea0f4629-f7a5-4710-890b-5dd8900e5e6a",
+    "sender_id" : "vincent",
+    "message_id" : "1BBC2719-0AFC-4947-B998-FAA6D0D0FA7C-10949-0000CAAC05533C8B",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+action_packet {
+  "packet_id" : "6852EAF2-699E-47AA-BC01-1713806A556E-1941-0000044E7090F6B6",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "70636060-ed29-4be4-8dba-1db73bd15adb",
+    "sender_id" : "vincent",
+    "message_id" : "0557A0DA-BD9A-488E-B287-B30442CA5897-14568-0000CAB6B83466C8",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+action_packet {
+  "packet_id" : "8A98FC5E-FC45-4978-880D-758673E28DE1-1941-0000044E70942BCB",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "4a6a0c0f-61ae-41fb-be51-915b4cc97f43",
+    "sender_id" : "vincent",
+    "message_id" : "EC7F6849-4D57-4421-9991-0795A19CDF12-14568-0000CAD5C98169FF",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+action_packet {
+  "packet_id" : "1B9E4806-0F4F-4824-A8AD-68020EB58243-1941-0000044E70970C77",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "487ec3d3-15bd-4b62-99a4-5c5faa17973c",
+    "sender_id" : "vincent",
+    "message_id" : "A4125D91-EB0B-41DA-B800-41C02C43D1D0-14568-0000CB57067240C9",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+[0mGET / [32m200 [0m1.354 ms - 11[0m
+[0mGET / [32m200 [0m1.451 ms - 11[0m
+[0mGET / [32m200 [0m1.548 ms - 11[0m
+action_packet {
+  "packet_id" : "0B9EC77D-2F1C-41A7-A174-EF8B515303B3-1941-0000044E709973A3",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "b8b11e6d-d171-4f27-b9a2-77375528046a",
+    "sender_id" : "vincent",
+    "message_id" : "0EB94D56-D2EC-46E5-AA68-53CAF615D08C-14568-0000CB573E37D43E",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+action_packet {
+  "packet_id" : "017353C0-D3E1-4A22-8406-62F76A147146-1941-0000044E709CA8FA",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "ccb6fab4-6cd0-463c-a9a3-3e3ea38b4fc3",
+    "sender_id" : "vincent",
+    "message_id" : "F6FFA165-352A-49C8-96A9-9489C0EB897B-14568-0000CB575D3D4B9E",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+[0mGET / [32m200 [0m0.935 ms - 11[0m
+[0mGET / [32m200 [0m1.199 ms - 11[0m
+[0mGET / [32m200 [0m1.411 ms - 11[0m
+disconnect
+undefined disconnected
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+action_packet {
+  "packet_id" : "A087C3C6-6860-4CB3-B58D-67AF0EE002E1-14568-0000CB74E4B13FEF",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "D7DDA0BC-804A-4694-B5D2-7652686D4B26-14568-0000CB74E487F671",
+    "message_type" : "TEXT",
+    "message" : "1",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: 'D7DDA0BC-804A-4694-B5D2-7652686D4B26-14568-0000CB74E487F671',
+  message_type: 'TEXT',
+  message: '1',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '09521197-7604-49c5-ad62-6d4979cb0b91',
+  create_at: '2017-07-21T10:35:55.227Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 1","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+1
+Total Unread: 1
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+push sent
+{ ResponseMetadata: { RequestId: '22fefd5e-d19f-51e7-8afa-acb50ad43310' },
+  MessageId: '287dfbd1-6302-57a8-a7ad-aa3ab849b55f' }
+action_packet {
+  "packet_id" : "E5B9A5F6-E11E-4ABC-8D6C-EF1782585E10-14568-0000CB751A2AFE8E",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "FCBAA9A3-BF38-40EC-BF35-E3FD2B24928C-14568-0000CB75180C112D",
+    "message_type" : "TEXT",
+    "message" : "2",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: 'FCBAA9A3-BF38-40EC-BF35-E3FD2B24928C-14568-0000CB75180C112D',
+  message_type: 'TEXT',
+  message: '2',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '4abced68-214d-4d0b-809c-14d64276d277',
+  create_at: '2017-07-21T10:35:56.123Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 2","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+sending typing to friendId vincent
+{ friendId: 'vincent9', text: '.,x.hideTyping' }
+2
+Total Unread: 2
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+action_packet {
+  "packet_id" : "006137B9-EE3A-40C4-B689-1E992DD41A47-14568-0000CB7536BECBEF",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent",
+    "sender_name" : "v9999",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "4BD28C6B-2CF3-40A7-BECD-9E82437DAB4D-14568-0000CB753682DE5D",
+    "message_type" : "TEXT",
+    "message" : "3",
+    "video_type" : ".mov",
+    "sender_id" : "vincent9"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent
+***** send_message_v2 *****
+{ recipient_id: 'vincent',
+  sender_name: 'v9999',
+  group_id: 'vincent:vincent9',
+  message_id: '4BD28C6B-2CF3-40A7-BECD-9E82437DAB4D-14568-0000CB753682DE5D',
+  message_type: 'TEXT',
+  message: '3',
+  video_type: '.mov',
+  sender_id: 'vincent9',
+  dynamo_id: '7ef92123-6377-453f-9834-9049713b3f0d',
+  create_at: '2017-07-21T10:35:56.606Z' }
+send sns data, data is {"awesome_id":"vincent","message":"v9999 : 3","extra":{"message_type":"single_chat","from_player":"vincent9"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent9"}
+push sent
+{ ResponseMetadata: { RequestId: 'a7ec325b-b5ac-55c1-a9c6-63b06ee02055' },
+  MessageId: '08273b60-b4e7-58f6-920c-6a8b6fab9d62' }
+3
+Total Unread: 3
+Endpoint Arn: arn:aws:sns:us-east-1:442395450210:endpoint/APNS/awsome_apns_production/2b10428c-e27f-314e-966e-b8070c0b8b4e
+Device Plaform: IOS
+getEndpointAttributes true
+push sent
+{ ResponseMetadata: { RequestId: '8172d5c0-b4dc-5d31-8086-842b6f90ec63' },
+  MessageId: '504fa1db-f31c-5ae2-9f19-f03028501bb0' }
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+ccb6fab4-6cd0-463c-a9a3-3e3ea38b4fc3
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+ok
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m0.975 ms - 11[0m
+[0mGET / [32m200 [0m2.015 ms - 11[0m
+[0mGET / [32m200 [0m2.097 ms - 11[0m
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+action_packet {
+  "packet_id" : "E8F2589F-61FF-479A-96A3-9CE430265FE1-1941-0000044E9DA7B480",
+  "action_name" : "Notify_Message_Delivered",
+  "action_content" : {
+    "dynamo_id" : "ccb6fab4-6cd0-463c-a9a3-3e3ea38b4fc3",
+    "sender_id" : "vincent",
+    "message_id" : "F6FFA165-352A-49C8-96A9-9489C0EB897B-14568-0000CB575D3D4B9E",
+    "chat_id" : "vincent:vincent9",
+    "recipient_id" : "vincent9"
+  }
+}
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+[0mGET / [32m200 [0m0.942 ms - 11[0m
+[0mGET / [32m200 [0m1.182 ms - 11[0m
+[0mGET / [32m200 [0m1.291 ms - 11[0m
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m0.980 ms - 11[0m
+[0mGET / [32m200 [0m1.105 ms - 11[0m
+[0mGET / [32m200 [0m1.327 ms - 11[0m
+[0mGET / [32m200 [0m1.946 ms - 11[0m
+[0mGET / [32m200 [0m2.086 ms - 11[0m
+[0mGET / [32m200 [0m2.253 ms - 11[0m
+sending typing to friendId vincent9
+{ friendId: 'vincent', text: '.,x.hideTyping' }
+sending typing to friendId vincent9
+{ friendId: 'vincent', text: '.,x.hideTyping' }
+action_packet {
+  "packet_id" : "21FBEF3E-805B-4E29-B294-B8097EA676BE-1941-0000044EEDBEAE8C",
+  "action_name" : "send_message",
+  "action_content" : {
+    "recipient_id" : "vincent9",
+    "sender_name" : "Annie",
+    "group_id" : "vincent:vincent9",
+    "message_id" : "0CE2B49E-495F-4FE5-BEA2-81B631A75321-1941-0000044EEDB90F51",
+    "message_type" : "TEXT",
+    "message" : "Bu",
+    "video_type" : ".mov",
+    "sender_id" : "vincent"
+  }
+}
+sendMessageToFriendIncludeResend successful
+send message v3 success vincent9
+***** send_message_v2 *****
+{ recipient_id: 'vincent9',
+  sender_name: 'Annie',
+  group_id: 'vincent:vincent9',
+  message_id: '0CE2B49E-495F-4FE5-BEA2-81B631A75321-1941-0000044EEDB90F51',
+  message_type: 'TEXT',
+  message: 'Bu',
+  video_type: '.mov',
+  sender_id: 'vincent',
+  dynamo_id: 'e00e4fff-683b-4651-8ce6-b1586e3c8098',
+  create_at: '2017-07-21T10:37:08.874Z' }
+send sns data, data is {"awesome_id":"vincent9","message":"Annie : Bu","extra":{"message_type":"single_chat","from_player":"vincent"}}
+send sns data, extra data is {"message_type":"single_chat","from_player":"vincent"}
+[0mGET / [32m200 [0m1.009 ms - 11[0m
+[0mGET / [32m200 [0m1.235 ms - 11[0m
+[0mGET / [32m200 [0m1.373 ms - 11[0m
+[0mGET / [32m200 [0m0.971 ms - 11[0m
+[0mGET / [32m200 [0m1.197 ms - 11[0m
+[0mGET / [32m200 [0m1.369 ms - 11[0m
+server kick player vincent9
+end socket with playervincent9
+[0mGET / [32m200 [0m0.891 ms - 11[0m
+[0mGET / [32m200 [0m0.976 ms - 11[0m
+[0mGET / [32m200 [0m0.431 ms - 11[0m
+[0mGET / [32m200 [0m1.794 ms - 11[0m
+[0mGET / [32m200 [0m2.014 ms - 11[0m
+[0mGET / [32m200 [0m2.222 ms - 11[0m
+disconnect
+undefined disconnected
+[0mGET / [32m200 [0m1.019 ms - 11[0m
+[0mGET / [32m200 [0m1.258 ms - 11[0m
+[0mGET / [32m200 [0m1.393 ms - 11[0m
+[0mGET / [32m200 [0m1.990 ms - 11[0m
+[0mGET / [32m200 [0m2.207 ms - 11[0m
+[0mGET / [32m200 [0m2.951 ms - 11[0m
+server kick player vincent9
+end socket with playervincent9
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+disconnect
+undefined disconnected
+register_endpoint_v2 20ECC781-5BA6-4666-8E17-BDC533D5EBC8 4c1f9a84482d5f82aeb91d258ff02f8ff787c4e636513eda71e524e34033b813 vincent IOS
+*** register_endpoint_v2 success ***
+{ status: 'success' }
+[0mPOST /api/v1/register_endpoint_v2/nosql [32m200 [0m21.098 ms - 20[0m
+{ Count: 1,
+  Items: 
+   [ { awesome_id: [Object],
+       endpointArn: [Object],
+       device_token: [Object] } ],
+  ScannedCount: 1 }
+*** addEndPoint success ***
+*** insertEndPointToDynamoDB ***
+*** insertEndPointToDynamoDB success ***
+ack {
+  "playerId" : "vincent"
+}
+player id vincent
+[ { id: { S: 'vincent' }, awesome_chips: { N: '2880' } } ]
+[0mGET / [32m200 [0m1.534 ms - 11[0m
+[0mGET / [32m200 [0m3.355 ms - 11[0m
+[0mGET / [32m200 [0m3.602 ms - 11[0m
+[0mGET / [32m200 [0m1.233 ms - 11[0m
+[0mGET / [32m200 [0m1.445 ms - 11[0m
+[0mGET / [32m200 [0m1.368 ms - 11[0m
+server kick player vincent9
+end socket with playervincent9
+[0mGET / [32m200 [0m0.980 ms - 11[0m
+[0mGET / [32m200 [0m1.202 ms - 11[0m
+[0mGET / [32m200 [0m1.378 ms - 11[0m
+[0mGET / [32m200 [0m2.066 ms - 11[0m
+[0mGET / [32m200 [0m2.272 ms - 11[0m
+[0mGET / [32m200 [0m2.390 ms - 11[0m
+[0mGET / [32m200 [0m1.001 ms - 11[0m
+[0mGET / [32m200 [0m1.235 ms - 11[0m
+[0mGET / [32m200 [0m1.290 ms - 11[0m
+[0mGET / [32m200 [0m0.930 ms - 11[0m
+[0mGET / [32m200 [0m1.994 ms - 11[0m
+[0mGET / [32m200 [0m2.158 ms - 11[0m
+server kick player vincent9
+end socket with playervincent9
+error: Forever detected script was killed by signal: SIGKILL
